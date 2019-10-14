@@ -1,0 +1,27 @@
+enable : true
+heading : Catégories
+headingSpan :
+serviceItem :
+  - icon : tf-globe
+    title : Apéro
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-ion-laptop
+    title : Légumes
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-genius
+    title : Miams sucrés
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-dial
+    title : Yaourts
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-target3
+    title : Plats
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon : tf-lifesaver
+    title : Confitures
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

@@ -1,0 +1,15 @@
+enable : true
+heading : Dernières 
+headingSpan : recettes
+aboutItem :
+- icon : tf-tools
+  title : Cake aux olives
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-strategy
+  title : Confiture de mirabelles
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-anchor2
+  title : Raclette
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
