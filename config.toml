@@ -14,17 +14,17 @@ summaryLength = 10
 [menu]
     [[menu.nav]]
     name = "Dernières recettes"
-    URL = "about"
+    URL = "dernieres-recettes"
     weight = 2
 
     [[menu.nav]]
     name = "Catégories"
-    URL = "services"
+    URL = "categories"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
+    name = "Recettes les mieux notées"
+    URL = "recettes-mieux-notees"
     weight = 4
 
     [[menu.nav]]

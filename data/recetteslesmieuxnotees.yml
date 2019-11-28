@@ -1,6 +1,6 @@
 enable : true
-heading : Dernières 
-headingSpan : recettes
+heading : Recettes
+headingSpan : les mieux notées
 aboutItem :
 - icon : tf-tools
   title : Cake aux olives
