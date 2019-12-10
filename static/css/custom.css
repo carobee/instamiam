@@ -1,1 +1,22 @@
+.list-ingredients {
+  width: 250px;
+  background-color:#bad1d7;
+  border:#6ea8b4 solid 2px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  margin: 0 15px 10px 15px;
+  float: right;
+  clear: left;
+  padding: 10px;
+  font-size: 12px;
+}
 
+.list-mestags, .list-categories {
+  list-style: none;
+  padding: 0;
+  font-size: 13px;
+}
+
+.list-mestags > li, .list-categories > li {
+    display: inline;
+}
