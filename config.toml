@@ -4,6 +4,7 @@ DefaultContentLanguage = "fr"
 title = "Instamiam"
 theme = "meghna-hugo"
 summaryLength = 10
+removePathAccents=true
 
 [taxonomies]
   author = "author"
