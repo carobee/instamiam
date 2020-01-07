@@ -4,6 +4,7 @@ author: Caro
 type: recette
 date: 2018-08-06T14:50:13+00:00
 url: /caviar-daubergines/
+blabla: Une recette parfaite pour les apéros de l'été !
 image: /images/2018/08/caviar-aubergines-1-650.jpg
 image_old:
   - 1470
