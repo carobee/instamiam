@@ -1,0 +1,50 @@
+- id: comments
+  translation: Commentaires
+- id: permalinkComment
+  translation: Permalink vers ce commentaire
+- id: replyTo
+  translation: Répondre
+- id: replyToThread
+  translation: Répondre à ce commentaire
+- id: noComments
+  translation: Vous pouvez être le premier à commenter.
+- id: emailUseGravatarNotifications
+  translation: Votre email sera utilisé pour l'image <a href="https://gravatar.com" target="_blank" rel="noopener">Gravatar</a> et les notifications des commentaires uniquement.
+- id: emailUseGravatar
+  translation: Votre email sera utilisé pour l'image <a href="https://gravatar.com" target="_blank" rel="noopener">Gravatar</a> uniquement.
+- id: tellSomething
+  translation: Dire quelque chose
+- id: thanksForComment
+  translation: Merci !
+- id: commentSent
+  translation: Votre commentaire sera publié après validation
+- id: nickname
+  translation: Pseudo
+- id: comment
+  translation: Commenter
+- id: commentPlaceholder
+  translation: Vous pouvez utiliser du markdown.
+- id: commentNotify
+  translation: Me prévenir d'un nouveau commentaire
+- id: addComment
+  translation: Ajouter un commentaire
+- id: readMore
+  translation: Voir la recette
+- id: viewAllPost
+  translation: Voir toutes les recettes
+- id: share
+  translation: Partager cette recette
+- id: aboutAuthor
+  translation: À propos de l'auteur
+- id: contact
+  translation: Contact
+- id: authorsPosts
+  translation: les recettes de cet auteur
+- id: authorsOfPosts
+  translation: Les auteurs de ces recettes
+- id: authorOfPostsOnBlog
+  translation: L'auteur des recettes
+- id: authorsOfPostsOnBlog
+  translation: Les auteurs de ces recettes
+- id: blogs
+  translation: Recettes

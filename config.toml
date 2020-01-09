@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://instamiam.fr/"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 title = "Instamiam"
-theme = "meghna-hugo"
+theme = "instamiam"
 summaryLength = 10
 removePathAccents=true
 
