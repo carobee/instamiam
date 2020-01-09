@@ -7,8 +7,11 @@
 .box-ingredients {
   margin: 1em auto;
   padding:1em;
-  width:40%;
-  background-color:#bad1d7;
+  width:90%;
+  background-color:#fff;
+  background-image: url('../images/instamiam-fouet-fond-h400.jpg');
+  background-repeat:no-repeat;
+  background-position: top right;
   border:#6ea8b4 solid 1px;
   font-size: 16px;
   text-align: left;

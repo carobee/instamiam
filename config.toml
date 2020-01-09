@@ -76,21 +76,21 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/instamiam"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "https://twitter.com/Instamiam"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "https://www.youtube.com/channel/UChcSUQwuQF5BA84sJ1VXnLA/videos"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        url = "http://pinterest.com/instamiam/"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-instagram"
-        url = "#"
+        url = "http://instagram.com/instamiam_fr"
