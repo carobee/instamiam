@@ -1,4 +1,4 @@
-baseURL = "https://instamiam.fr/"
+baseurl = "https://example.org/"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 title = "Instamiam"
