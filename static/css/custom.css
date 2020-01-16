@@ -58,3 +58,7 @@
   margin-right: 15px;
   border:1px solid #6ea8b4;
 }
+
+.post-single-content > p > strong {
+  color: #e83e8c;
+}
