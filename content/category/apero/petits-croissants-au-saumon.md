@@ -15,15 +15,13 @@ image:
   - 419
 image2: /images/2013/09/Croissants-saumon-1.jpg
 ingredients:
- - un rouleau de pâte feuilletée - du saumon fumé en tranches - un peu de lait
-quantite:
-  - Pour 16 petits croissants
-preptime:
-  - 5M
-cooktime:
-  - 15M
-totaltime:
-  - 20M
+ - un rouleau de pâte feuilletée
+ - du saumon fumé en tranches
+ - un peu de lait
+quantite: Pour 16 petits croissants
+preptime: 5M
+cooktime: 15M
+totaltime: 20M
 categories:
   - Apéro
 mestags:
@@ -57,11 +55,9 @@ Avec un pinceau, badigeonner d&rsquo;un peu de **lait**.
 Enfourner pour 15 à 18 minutes.
 
 > Il est possible de faire des croissants plus gros (en ne coupant qu&rsquo;en 8 ou 4 la pâte feuilletée)
-> 
+>
 > Vous pouvez changer la garniture des croissants : jambon, sauce tomate, sauce pesto, fromage&#8230; (attention pour le fromage, car en fondant il risque de déborder)
 
 ### Réalisation des croissants au saumon en vidéo :
 
-<div class="video-container">
-  <iframe src="//www.youtube.com/embed/P7tfashvsbI" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube P7tfashvsbI>}}

@@ -9,15 +9,15 @@ image:
   - 1091
 image2: /images/2015/02/recette-rhum-arrange-cafe-vanille-650.jpg
 ingredients:
- - 70 cl de rhum blanc à 40°C - 10 petite poignée de grains de café - 2 gousses de vanille - 1 bâton de cannelle (facultatif) - 50 ml de sirop de sucre de canne
-quantite:
-  - Pour 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 10M
-totaltime:
-  - 20M
+ - 70 cl de rhum blanc à 40°C
+ - 10 petite poignée de grains de café
+ - 2 gousses de vanille
+ - 1 bâton de cannelle (facultatif)
+ - 50 ml de sirop de sucre de canne
+quantite: Pour 8 personnes
+preptime: 10M
+cooktime: 10M
+totaltime: 20M
 rating:
   - 3.7377049180327
 votes:
@@ -50,5 +50,5 @@ Ajouter 50 ml de **sirop de sucre de canne**.
 Verser ensuite le **rhum** dans la bouteille jusqu&rsquo;en haut !
 
 > Le plus difficile reste : il faut maintenant attendre au minimum 1 mois avant de goûter !!
-> 
+>
 > **L&rsquo;abus d&rsquo;alcool est dangereux pour la santé, à consommer avec modération**

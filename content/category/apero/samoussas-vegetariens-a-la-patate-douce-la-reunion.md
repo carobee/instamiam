@@ -9,15 +9,23 @@ image:
   - 1105
 image2: /images/2015/05/samoussas-patate-douce-2_650.jpg
 ingredients:
- - 1 patate douce (env 500 g) - 2 pommes de terre (env 200 g) - 2 ou 3 oignons - 1 têtes d'ail - 25 g de gingembre - 2 cuillères à café de curcume - 1 bouquet de coriandre - 1 bouquet de menthe - 1 zeste de combava - 1 cuillère à café de massalé - 5 piments (fac) - de la pâte à samoussas (ou le cas échéant, des feuilles de brick) - de l'huile pour la friture
-quantite:
-  - Pour 6/8 personnes
-preptime:
-  - 1H
-cooktime:
-  - 5M
-totaltime:
-  - 1H
+ - 1 patate douce (env 500 g)
+ - 2 pommes de terre (env 200 g)
+ - 2 ou 3 oignons
+ - 1 tête d'ail
+ - 25 g de gingembre
+ - 2 cuillères à café de curcuma
+ - 1 bouquet de coriandre
+ - 1 bouquet de menthe
+ - 1 zeste de combava
+ - 1 cuillère à café de massalé
+ - 5 piments (fac)
+ - de la pâte à samoussas (ou le cas échéant, des feuilles de brick)
+ - de l'huile pour la friture
+quantite: Pour 6/8 personnes
+preptime: 1H
+cooktime: 5M
+totaltime: 1H
 rating:
   - 5
 votes:
@@ -65,7 +73,7 @@ Si vous utilisez de la pâte à samoussas achetée en épicerie asiatique, laiss
 
 Si vous utilisez de la pâte Filo, qui est de forme ronde, couper chaque rond en deux, puis rabattre le bord extérieur afin de former une bande rectangulaire.
 
-<img class="aligncenter size-large wp-image-1117" src="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-650x311.jpg" alt="Pliage des samoussas facile" width="650" height="311" srcset="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650.jpg 650w, http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-390x187.jpg 390w" sizes="(max-width: 650px) 100vw, 650px" />
+{{< figure src="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-650x311.jpg" title="Pliage des samoussas facile" >}}
 
 Former un triangle en bas de la bande de pâte, puis poser une cuillère à café de farce au centre de ce triangle. Replier le triangle sur lui-même plusieurs fois en s&rsquo;aidant du bord pour former un triangle.
 
@@ -88,7 +96,4 @@ Faire chauffer une friteuse ou une casserole avec 4 ou 5 cm d&rsquo;huile. Quand
 &nbsp;
 
 ### Techniques de pliages de samoussas en vidéo :
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/nahhIT5TZUw?ecver=2" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube nahhIT5TZUw>}}

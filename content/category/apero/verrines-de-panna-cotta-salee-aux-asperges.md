@@ -9,15 +9,16 @@ image:
   - 864
 image2: /images/2014/04/pannacotta-asperges-2.jpg
 ingredients:
- - 25 cl de lait - 20 cl de crème fraîche liquide - 100 g de pointes d'asperges en bocal (conserver le jus) - 2 g d'agar-agar - poivre, sel - Suggestion d'accompagnement et décoration des verrines : Amandes effilées, vinaigre balsamique et miel
-quantite:
-  - Pour 10 à 15 verrines (de contenance 50 ml)
-preptime:
-  - 2H
-cooktime:
-  - 20M
-totaltime:
-  - 2H20M
+ - 25 cl de lait
+ - 20 cl de crème fraîche liquide
+ - 100 g de pointes d'asperges en bocal (conserver le jus)
+ - 2 g d'agar-agar
+ - poivre, sel
+ - Pour la décoration Amandes effilées, vinaigre balsamique et miel
+quantite: Pour 10 à 15 verrines (de contenance 50 ml)
+preptime: 2H
+cooktime: 20M
+totaltime: 2H20M
 rating:
   - 4.1818181818182
 votes:
@@ -51,6 +52,4 @@ Verser délicatement la panna cotta (verser sur le dos d&rsquo;une cuillère) da
 
 Laisser reposer au réfrigérateur 2 heures minimum pour que le gélifiant prenne bien.
 
-> **Suggestion** : proposer deux sortes de panna cotta pour varier les plaisirs ([voir la recette de la panna cotta au parmesan][1])
-
- [1]: http://www.instamiam.fr/panna-cotta-salee-au-parmesan-et-tomates-sechees/ "Panna Cotta salée au parmesan et tomates séchées"
+> **Suggestion** : proposer deux sortes de panna cotta pour varier les plaisirs [voir la recette de la panna cotta au parmesan]({{< ref "category/apero/panna-cotta-salee-au-parmesan-et-tomates-sechees.md" >}})

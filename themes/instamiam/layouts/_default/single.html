@@ -42,10 +42,21 @@
 
 
                 <!-- PHOTO 2 -->
-                {{ with .Params.image2 }}<img class="img-fluid mb-50" src="{{ . | absURL }}" alt="blog-image">{{ end }}
+                {{ with .Params.image2 }}
+                  <img class="img-fluid mb-50" src="{{ . | absURL }}" alt="photo préparation recette">
+                {{ end }}
 
                 <!-- INGREDIENTS -->
                 <div class="col-lg-8 offset-lg-2 box-ingredients">
+                  <p class="donnees-recette">
+                    <i class="tf-ion-ios-people"></i>&nbsp;
+                    <span class="yield">{{ .Params.quantite }}</span>
+                    &nbsp;<i class="tf-ion-ios-clock"></i>&nbsp;
+                    Préparation <span class="preptime">{{ .Params.preptime }}<span class="duration"><span class="value-title" title="PT{{ .Params.preptime }}"></span></span></span>
+                    Cuisson <span class="cooktime">{{ .Params.cooktime }}<span class="duration"><span class="value-title" title="PT{{ .Params.cooktime }}"></span></span></span>
+                    Temps total <span class="totaltime">{{ .Params.totaltime }}<span class="duration"><span class="value-title" title="PT{{ .Params.totaltime }}"></span></span></span>
+                  </p>
+                <hr>
                   <h4>Ingrédients :</h4>
                   <ul class="list-ingredients">
                     {{ range .Params.ingredients }}
@@ -55,7 +66,7 @@
                 </div>
 
                 <!-- CONTENU -->
-                <div class="col-lg-12">
+                <div class="col-lg-10 offset-lg-1">
                     <div class="post-single-content">
                         {{ .Content }}
                         {{ if .Site.Data.blog.sharing}}

@@ -13,17 +13,18 @@ votes:
   - 5
 image:
   - 502
-image2: /images/2013/11/gougeres-2.jpg
+image2: /images/2013/11/gougères-2.jpg
 ingredients:
- - 150 g de farine - 80 g de beurre (+15 ou 20 g pour beurrer la plaque) - 120 g de gruyère râpé - 4 œufs (+ 1 jaune pour dorer les gougères (facultatif)) - 25 cl d'eau - sel, poivre, muscade
-quantite:
-  - Pour une vingtaine de choux
-preptime:
-  - 15M
-cooktime:
-  - 25M
-totaltime:
-  - 40M
+ - 150 g de farine
+ - 80 g de beurre (+15 ou 20 g pour beurrer la plaque)
+ - 120 g de gruyère râpé
+ - 4 œufs (+ 1 jaune pour dorer les gougères (facultatif))
+ - 25 cl d'eau
+ - sel, poivre, muscade
+quantite: Pour une vingtaine de choux
+preptime: 15M
+cooktime: 25M
+totaltime: 40M
 categories:
   - Apéro
 mestags:
@@ -63,7 +64,7 @@ Dorer au **jaune d’œuf** à l&rsquo;aide d&rsquo;un pinceau.
 Faire cuire pendant 20 à 25 minutes en surveillant la cuisson. Les gougères doivent être juste dorées.
 
 > Cette recette de base peut être agrémentée selon les goûts avec d&rsquo;autre fromages (chèvre, roquefort, &#8230;), des lardons allumettes rissolés au préalable, des tomates séchées taillées en petits morceaux, du chorizo, etc&#8230;
-> 
+>
 > Ne pas hésiter à bien saler la préparation !
 
 &nbsp;

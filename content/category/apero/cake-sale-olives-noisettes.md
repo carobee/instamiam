@@ -19,14 +19,10 @@ ingredients:
  - 170 g d'olives vertes dénoyautées
  - 125 g de noisettes
  - sel, piment d'Espelette
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 10M
-cooktime:
-  - 1H
-totaltime:
-  - 1H10M
+quantite: Pour 4 à 6 personnes
+preptime: 10M
+cooktime: 1H
+totaltime: 1H10M
 rating:
   - 4
 votes:
@@ -63,5 +59,5 @@ Intégrer les **olives**, le **fromage râpé** et les **noisettes** et mélange
 Beurrer ou huiler un moule à cake, verser la préparation et enfourner pour 50 minutes à 1 heure (vérifier la cuisson avec un couteau planté au milieu du cake : le couteau doit ressortir sec).
 
 > Servir tranché ou découpé en cubes pour l&rsquo;apéritif ou un pique-nique.
-> 
+>
 > Il est possible de remplacer une partie des olives par des tomates séchées coupées en petites lamelles.

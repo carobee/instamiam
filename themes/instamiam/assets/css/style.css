@@ -2046,10 +2046,14 @@ aside.widget {
 
 blockquote {
   border-left: 10px solid #6ea8b4;//bleu
-  font-style: italic;
-  line-height: 22px;
   margin: 20px 0;
   padding-left:5px;
+  background-color: rgba(110, 168, 180, 0.3);
+  color:#C0C0C0;
+}
+blockquote p {
+  font-style:italic;
+  line-height: 22px;
 }
 
 .next-prev {

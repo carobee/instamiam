@@ -20,14 +20,10 @@ ingredients:
  - 80 g de tomates confites (ou purée de tomates confites)
  - poivre
  - "Décor : Par exemple : graines de sésame grillées et un peu de purée de tomates confites)"
-quantite:
-  - pour 10 à 15 verrines (de contenance 50 ml)
-preptime:
-  - 2H
-cooktime:
-  - 10M
-totaltime:
-  - 2H10M
+quantite: pour 10 à 15 verrines (de contenance 50 ml)
+preptime: 2H
+cooktime: 10M
+totaltime: 2H10M
 categories:
   - Apéro
 mestags:

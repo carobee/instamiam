@@ -9,15 +9,12 @@ image:
   - 1411
 image2: /images/2017/12/rhum-arrange-dattes-2-650.jpg
 ingredients:
- - 1 litre de rhum blanc (entre 40 et 50°) - 20 à 30 dattes selon la taille
-quantite:
-  - Pour 1 litre
-preptime:
-  - 5M
-cooktime:
-  - 5M
-totaltime:
-  - 10M
+ - 1 litre de rhum blanc (entre 40 et 50°)
+ - 20 à 30 dattes selon la taille
+quantite: Pour 1 litre
+preptime: 5M
+cooktime: 5M
+totaltime: 10M
 categories:
   - Apéro
 mestags:

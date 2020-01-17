@@ -9,15 +9,13 @@ image:
   - 1164
 image2: /images/2015/12/sapin-feuillete-2-650.jpg
 ingredients:
- - 2 rouleaux de pâtes feuilletées - un petit bocal de sauce pistou (ou de tapenade verte) - 1 œuf
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+ - 2 rouleaux de pâtes feuilletées
+ - un petit bocal de sauce pistou (ou de tapenade verte)
+ - 1 œuf
+quantite: Pour 4 à 6 personnes
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 rating:
   - 5
 votes:
@@ -52,7 +50,7 @@ Dérouler l&rsquo;autre rouleau de **pâte feuilletée**, et l&rsquo;appliquer a
 
 À l&rsquo;aide de la pointe d&rsquo;un couteau, dessiner la forme du sapin (un tronc en bas et un grand triangle). Une fois que la forme vous semble correcte, découper avec le couteau.
 
-> Vous pouvez conserver les côtés de la pâte afin d&rsquo;en faire des croissants, pour cela, découper des formes de triangles et les rouler. Pour avoir des indications plus précises, voir <a href="http://www.instamiam.fr/petits-croissants-au-saumon/" target="_blank" rel="noopener">la recette (en vidéo) des croissants au saumon</a>.
+> Vous pouvez conserver les côtés de la pâte afin d&rsquo;en faire des croissants, pour cela, découper des formes de triangles et les rouler. Pour avoir des indications plus précises, voir [la recette (en vidéo) des croissants au saumon]({{< ref "category/apero/petits-croissants-au-saumon.md" >}}).
 
 Tourner chaque « branche » du sapin.
 
@@ -63,5 +61,5 @@ Cuire le tout à four chaud pendant 15 à 20 minutes en surveillant la cuisson :
 Servir tiède ou froid.
 
 > Une recette toute simple qui en jette pour les fêtes de fin d&rsquo;année ! En plus, les enfants peuvent aider à le préparer !
-> 
+>
 > On peut aussi remplacer la sauce pistou par du chocolat à tartiner pour une version sucrée !

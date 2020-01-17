@@ -9,15 +9,20 @@ image:
   - 1430
 image2: /images/2018/03/samoussas-thon-2-650.jpg
 ingredients:
- - 350 g de thon en boîte - 1/2 botte de coriandre fraîche - 1/2 botte de menthe fraîche - 2 oignons - 1/2 botte d'oignons nouveaux (ou ciboule) - 20 g de gingembre - 5 piments - 1 cuillère à café de curcuma (facultatif) - sel, poivre - de la pâte à samoussas ou de la pate filo
-quantite:
-  - Pour environ 50 samoussas
-preptime:
-  - 1H
-cooktime:
-  - 10M
-totaltime:
-  - 1H10M
+ - 350 g de thon en boîte
+ - 1/2 botte de coriandre fraîche
+ - 1/2 botte de menthe fraîche
+ - 2 oignons
+ - 1/2 botte d'oignons nouveaux (ou ciboule)
+ - 20 g de gingembre
+ - 5 piments
+ - 1 cuillère à café de curcuma (facultatif)
+ - sel, poivre
+ - de la pâte à samoussas ou de la pate filo
+quantite: Pour environ 50 samoussas
+preptime: 1H
+cooktime: 10M
+totaltime: 1H10M
 rating:
   - 5
 votes:
@@ -59,7 +64,9 @@ Si vous utilisez de la pâte à samoussas achetée en épicerie asiatique, laiss
 
 Si vous utilisez de la pâte Filo, qui est de forme ronde, couper chaque rond en deux, puis rabattre le bord extérieur afin de former une bande rectangulaire.
 
-<img class="aligncenter size-large wp-image-1117" src="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-650x311.jpg" alt="Pliage des samoussas facile" width="650" height="311" srcset="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650.jpg 650w, http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-390x187.jpg 390w" sizes="(max-width: 650px) 100vw, 650px" />
+
+{{< figure src="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-650x311.jpg" title="Pliage des samoussas facile" >}}
+
 
 Former un triangle en bas de la bande de pâte, puis poser une cuillère à café de farce au centre de ce triangle. Replier le triangle sur lui-même plusieurs fois en s’aidant du bord pour former un triangle.
 
@@ -81,6 +88,4 @@ Faire chauffer une friteuse ou une casserole avec 4 ou 5 cm d’huile. Quand l�
 
 ### Techniques de pliages de samoussas en vidéo :
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/nahhIT5TZUw?ecver=2" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube nahhIT5TZUw>}}

@@ -7,17 +7,16 @@ url: /roules-de-courgettes-aux-anchois/
 image1: /images/2014/04/roules-courgette-anchois-1.jpg
 image:
   - 875
-image2: /images/2014/04/roules-courgette-anchois-2.jpg
+image2: /images/2014/04/roules-courgettes-anchois-2.jpg
 ingredients:
- - 1 ou 2 courgette(s) - des anchois frais marinés - de la sauce pesto ou de la tapenade - des cures-dents
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 10M
-cooktime:
-  - 0M
-totaltime:
-  - 10M
+ - 1 ou 2 courgette(s)
+ - des anchois frais marinés
+ - de la sauce pesto ou de la tapenade
+ - des cures-dents
+quantite: Pour 3 à 4 personnes
+preptime: 10M
+cooktime: 0M
+totaltime: 10M
 rating:
   - 4.5
 votes:

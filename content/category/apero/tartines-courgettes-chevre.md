@@ -9,15 +9,14 @@ image:
   - 681
 image2: /images/2013/09/Courgettes-chèvre-2.jpg
 ingredients:
- - 1 courgette - 1 bûche de chèvre - poivre - huile d'olive
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 5M
-cooktime:
-  - 15M
-totaltime:
-  - 20M
+ - 1 courgette
+ - 1 bûche de chèvre
+ - poivre
+ - huile d'olive
+quantite: Pour 4 personnes
+preptime: 5M
+cooktime: 15M
+totaltime: 20M
 rating:
   - 3.7
 votes:
@@ -36,7 +35,7 @@ mestags:
 ---
 Préchauffer le four thermostat 6 (180°c)
 
-Laver la **courgette** et couper des rondelles de 1 cm d&rsquo;épaisseur.
+Laver la **courgette** et couper des rondelles de 1 cm d'épaisseur.
 
 Couper la bûche de **chèvre** en rondelles de la même épaisseur.
 
@@ -44,10 +43,10 @@ Disposer les rondelles de courgette sur du papier sulfurisé, soit dans un plat 
 
 Disposer dessus les rondelles de chèvre.
 
-**Poivrer** et badigeonner d&rsquo;**huile d&rsquo;olive**.
+**Poivrer** et badigeonner d'**huile d'olive**.
 
 Enfourner pour 15 minutes.
 
-> Parfait pour l&rsquo;apéritif, on peut également les servir en entrée, avec une salade, pour remplacer le toast de chèvre chaud !
-> 
-> On peut également réaliser cette recette avec de l&rsquo;aubergine, mais il faut l&rsquo;éplucher.
+> Parfait pour l'apéritif, on peut également les servir en entrée, avec une salade, pour remplacer le toast de chèvre chaud !
+>
+> On peut également réaliser cette recette avec de l'aubergine, mais il faut l'éplucher.

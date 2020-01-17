@@ -21,14 +21,10 @@ ingredients:
  - 1 cuillère à café de sel
  - olives noires dénoyautées
  - origan
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 3H
-cooktime:
-  - 10M
-totaltime:
-  - 3H10M
+quantite: Pour 4 à 6 personnes
+preptime: 3H
+cooktime: 10M
+totaltime: 3H10M
 categories:
   - Apéro
 mestags:
@@ -66,6 +62,4 @@ Sortir du four et déguster tiède.
 
 ### Recette de la fougasse aux olives en vidéo
 
-<div class="video-container">
-  <iframe src="http://www.youtube.com/embed/jIhIEDGVP38?rel=0" height="360" width="480" allowfullscreen="" frameborder="0"></iframe>
-</div>
+{{< youtube jIhIEDGVP38 >}}

@@ -7,17 +7,22 @@ url: /accras-aux-crevettes/
 image1: /images/2015/02/accras-crevette-1-650.jpg
 image:
   - 1087
-image2: /images/2015/02/accras-crevette-2-650.jpg
+image2: /images/2015/02/accras-crevettes-2-650.jpg
 ingredients:
- - 200 g de pommes de terre - 1/2 bouquet de persil - 1/2 bouquet de menthe - 150 g de crevettes décortiquées - 200 g de filets de cabillaud - 1 œuf - sel, poivre - piment d’Espelette (ou piment de Cayenne) - huile - farine
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 30M
-cooktime:
-  - 20M
-totaltime:
-  - 50M
+ - 200 g de pommes de terre
+ - 1/2 bouquet de persil
+ - 1/2 bouquet de menthe
+ - 150 g de crevettes décortiquées
+ - 200 g de filets de cabillaud
+ - 1 œuf
+ - sel, poivre
+ - piment d’Espelette (ou piment de Cayenne)
+ - huile
+ - farine
+quantite: Pour 4 à 6 personnes
+preptime: 30M
+cooktime: 20M
+totaltime: 50M
 rating:
   - 5
 votes:

@@ -9,15 +9,18 @@ image:
   - 1103
 image2: /images/2015/05/bonbons-piment-2_650.jpg
 ingredients:
- - 500 g de "Pois du Cap", ou "Pois de Soisson", ou encore pois chiche - 1 botte d'oignons verts - 20 à 30 g de gingembre - 1 branche de cotomili (coriandre fraîche) - 1 cuillère à café de graines de cumin - 10 petits piments verts - 1 branche de <a href="http://fr.wikipedia.org/wiki/Kaloupil%C3%A9" target="_blank" rel="noopener">caloupilé</a> (facultatif) - de l'huile pour la friture
-quantite:
-  - Pour 6/8 personnes
-preptime:
-  - 30M
-cooktime:
-  - 5M
-totaltime:
-  - 35M
+ - 500 g de "Pois du Cap", ou "Pois de Soisson", ou encore pois chiche
+ - 1 botte d'oignons verts
+ - 20 à 30 g de gingembre
+ - 1 branche de cotomili (coriandre fraîche)
+ - 1 cuillère à café de graines de cumin
+ - 10 petits piments verts
+ - 1 branche de caloupilé (facultatif)
+ - de l'huile pour la friture
+quantite: Pour 6/8 personnes
+preptime: 30M
+cooktime: 5M
+totaltime: 35M
 rating:
   - 4.3333333333333
 votes:

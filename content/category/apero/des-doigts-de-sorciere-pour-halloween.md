@@ -13,17 +13,20 @@ votes:
   - 6
 image:
   - 484
-image2: /images/2013/10/Doigts-de-sorciere-2.jpg
+image2: /images/2013/10/Doigts-sorcière-2.jpg
+blabla: Cette recette peut être préparée par des enfants (avec la participation d'un adulte pour la cuisson) ce qui fait une excellente activité pour Halloween !
 ingredients:
- - 10 saucisses de Strasbourg de type Knacks - 1 rouleau de pâte feuilletée - Quelques amandes effilées (ou amandes entières pelées) - 1 jaune d’œuf - un peu de lait - du colorant alimentaire rouge (facultatif) - du ketchup (facultatif)
-quantite:
-  - Pour une dizaine de "doigts"
-preptime:
-  - 10M
-cooktime:
-  - 15M
-totaltime:
-  - 25M
+ - 10 saucisses de Strasbourg de type Knacks
+ - 1 rouleau de pâte feuilletée
+ - Quelques amandes effilées (ou amandes entières pelées)
+ - 1 jaune d’œuf
+ - un peu de lait
+ - du colorant alimentaire rouge (facultatif)
+ - du ketchup (facultatif)
+quantite: Pour une dizaine de "doigts"
+preptime: 10M
+cooktime: 15M
+totaltime: 25M
 categories:
   - Apéro
 mestags:
@@ -37,7 +40,6 @@ mestags:
   - usa
 
 ---
-> Cette recette peut être préparée par des enfants (avec la participation d&rsquo;un adulte pour la cuisson) ce qui fait une excellente activité pour Halloween !
 
 Préchauffer le four à 180°C (th 6).
 

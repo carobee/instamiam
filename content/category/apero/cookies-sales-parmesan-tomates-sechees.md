@@ -7,17 +7,23 @@ url: /cookies-sales-parmesan-tomates-sechees/
 image1: /images/2014/10/cookies-sales-tomates-parmesan-1.jpg
 image:
   - 1008
-image2: /images/2014/10/cookies-sales-tomates-parmesan-2.jpg
+image2: /images/2014/10/cookies-sales-tomates-sechees-parmesan-2.jpg
 ingredients:
- - 200 g de farine (T55 de préférence) - 100 g de parmesan - 100 g de tomates séchées - 50 g de noisettes - 1 cuillère à café de levure - 80 g de beurre mou - 2 cuillères à soupe d'huile d'olive - 2 œufs - 1 à 2 pincées de piment d’Espelette (facultatif) - origan (facultatif) - sel, poivre
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 20M
-cooktime:
-  - 15M
-totaltime:
-  - 35M
+ - 200 g de farine (T55 de préférence)
+ - 100 g de parmesan
+ - 100 g de tomates séchées
+ - 50 g de noisettes
+ - 1 cuillère à café de levure
+ - 80 g de beurre mou
+ - 2 cuillères à soupe d'huile d'olive
+ - 2 œufs
+ - 1 à 2 pincées de piment d’Espelette (facultatif)
+ - origan (facultatif)
+ - sel, poivre
+quantite: Pour 4 à 6 personnes
+preptime: 20M
+cooktime: 15M
+totaltime: 35M
 rating:
   - 4.8
 votes:
