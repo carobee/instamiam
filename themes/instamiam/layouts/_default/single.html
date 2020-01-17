@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
               <!-- PHOTO 1 -->
-              {{ with .Params.image }}<img class="img-fluid mb-50 photo-miniature" src="{{ . | absURL }}" alt="blog-image">{{ end }}
+              {{ with .Params.image1 }}<img class="img-fluid mb-50 photo-miniature" src="{{ . | absURL }}" alt="blog-image">{{ end }}
               <h1>{{ .Title }}</h1>
                 <p>Publié par <a href="/author/{{ urlize .Params.author}}">{{ .Params.author }}</a> le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
                 <!-- CATEGORIES & TAGS -->
