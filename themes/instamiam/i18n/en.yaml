@@ -48,3 +48,5 @@
   translation: Authors of posts on the blog
 - id: blogs
   translation: Blogs
+- id: voirLesRecettes
+  translation: Voir les recettes

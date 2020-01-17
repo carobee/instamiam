@@ -2,26 +2,32 @@ enable : true
 heading : Catégories
 headingSpan :
 serviceItem :
-  - icon : tf-globe
+  - icon : tf-ion-beer
     title : Apéro
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : À boire et à manger !
+    url : category/apero
 
-  - icon : tf-ion-laptop
+  - icon : tf-ion-fork
     title : Légumes
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Légumes d'accompagnement ou plats complets végétariens ou vegans
+    url : category/legumes
 
-  - icon : tf-genius
-    title : Miams sucrés
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  - icon : tf-dial
-    title : Yaourts
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-  - icon : tf-target3
+  - icon : tf-ion-android-restaurant
     title : Plats
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Plats complets, plats du dimanche, pour tous les jours ou pour les jours de fête
+    url : category/plats
 
-  - icon : tf-lifesaver
+  - icon : tf-ion-android-sunny
+    title : Miams sucrés
+    content : Desserts, goûters et accompagnements sucrés
+    url : category/miams-sucres
+
+  - icon : tf-ion-spoon
+    title : Yaourts
+    content : Recettes de yaourts nature et sucrés
+    url : category/yaourts
+
+  - icon : tf-ion-beaker
     title : Confitures
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Confitures et marmelades pour chaque saison
+    url : category/confitures
