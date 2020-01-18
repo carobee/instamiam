@@ -16,14 +16,10 @@ ingredients:
  - 1 petite boîte de champignons de Paris émincés
  - 20 cl de crème fraîche
  - sel, poivre
-quantite:
-  - Pour 2 personnes en plat principal
-preptime:
-  - 5M
-cooktime:
-  - 10M
-totaltime:
-  - 15M
+quantite: Pour 2 personnes en plat principal
+preptime: 5M
+cooktime: 10M
+totaltime: 15M
 rating:
   - 5
 votes:

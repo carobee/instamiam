@@ -17,14 +17,10 @@ ingredients:
  - 1 pincée de paprika
  - 2 cuillères à soupe de persil hâché
  - sel, poivre
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 20M
-cooktime:
-  - 30M
-totaltime:
-  - 50M
+quantite: Pour 3 à 4 personnes
+preptime: 20M
+cooktime: 30M
+totaltime: 50M
 rating:
   - 5
 votes:

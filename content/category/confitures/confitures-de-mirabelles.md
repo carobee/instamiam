@@ -13,15 +13,14 @@ image:
   - 695
 image2: /images/2013/09/Confiture-mirabelles-2.jpg
 ingredients:
- - 1 kg de mirabelles bien mûres dénoyautées (par exemple, 1,1 kg de mirabelles donnent environ 1 kg sans les noyaux) - 750 g de sucre cristal (un peu moins si les mirabelles sont très sucrées) - le jus d'un citron - 1 cuillère à café de vanille en poudre (facultatif)
-quantite:
-  - Pour 5 à 6 petits pots
-preptime:
-  - 12H
-cooktime:
-  - 1H
-totaltime:
-  - 13H
+ - 1 kg de mirabelles bien mûres dénoyautées (par exemple, 1,1 kg de mirabelles donnent environ 1 kg sans les noyaux)
+ - 750 g de sucre cristal (un peu moins si les mirabelles sont très sucrées)
+ - le jus d'un citron
+ - 1 cuillère à café de vanille en poudre (facultatif)
+quantite: Pour 5 à 6 petits pots
+preptime: 12H
+cooktime: 1H
+totaltime: 13H
 categories:
   - Confitures
 mestags:

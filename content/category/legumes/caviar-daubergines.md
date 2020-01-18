@@ -15,14 +15,10 @@ ingredients:
  - huile d'olive
  - 3 cuillères à soupe de jus de citron
  - sel, poivre
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 10M
-cooktime:
-  - 40M
-totaltime:
-  - 50M
+quantite: Pour 3 à 4 personnes
+preptime: 10M
+cooktime: 40M
+totaltime: 50M
 categories:
   - Apéro
   - Légumes
@@ -38,7 +34,7 @@ mestags:
   - thym
   - végétalien
   - végétarien
-
+blabla: Parfait pour les apéros de l'été !
 ---
 Préchauffer le four à 200°C.
 
@@ -60,7 +56,7 @@ Verser 3 cuillères à soupe de **jus de citron** et mixer jusqu&rsquo;à une te
 
 Laisser refroidir et déguster sur des toasts de pain grillé.
 
-> J&rsquo;ai « piqué » cette recette sur le site <a href="https://www.papillesetpupilles.fr/2006/07/caviar-daubergines.html/" target="_blank" rel="noopener">Papilles et Pupilles</a>. La seule différence est que j&rsquo;utilise du romarin à la place du thym.
+> J&rsquo;ai « piqué » cette recette sur le site [Papilles et Pupilles](https://www.papillesetpupilles.fr/2006/07/caviar-daubergines.html/). La seule différence est que j&rsquo;utilise du romarin à la place du thym.
 >
 > **Note** : il est possible d&rsquo;utiliser des aubergines blanches ou même de panacher plusieurs sortes d&rsquo;aubergines.
 >

@@ -9,15 +9,15 @@ image:
   - 1368
 image2: /images/2017/11/chou-fleur-roti-2-650.jpg
 ingredients:
- - 1 chou-fleur - 3 à 4 gousses d'ail - Huile d'olive - Sel, poivre - Épices : Piment d'Espelette, cumin, paprika
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 10M
-cooktime:
-  - 1H15
-totaltime:
-  - 1H25
+ - 1 chou-fleur
+ - 3 à 4 gousses d'ail
+ - Huile d'olive
+ - Sel, poivre
+ - Piment d'Espelette, cumin, paprika
+quantite: Pour 4 personnes
+preptime: 10M
+cooktime: 1H15
+totaltime: 1H25
 rating:
   - 5
 votes:

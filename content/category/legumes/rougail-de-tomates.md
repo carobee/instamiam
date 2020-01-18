@@ -14,14 +14,10 @@ ingredients:
  - 1 ou 2 piment(s) créole(s) (ou piment oiseau)
  - 1 zeste de combava (facultatif, mais c'est bien meilleur avec !)
  - sel
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 15M
-cooktime:
-  - 0M
-totaltime:
-  - 15M
+quantite: Pour 3 à 4 personnes
+preptime: 15M
+cooktime: 0M
+totaltime: 15M
 rating:
   - 4.75
 votes:
@@ -51,9 +47,9 @@ Ajouter petit à petit les **tomates** et écraser de nouveau. Bien mélanger.
 Avant de servir, goûter (un petit peu !) et ajouter du **sel** si besoin.
 
 > Le rougail de tomates est un accompagnement froid à servir avec les [plats réunionnais][1] tels que les [caris][2], [rougails][3] ou le [riz cantonais][4] par exemple. Il faut en servir un peut, le mettre dans un coin de l&rsquo;assiette, mais ne pas mélanger !
-> 
+>
 > Le <a title="Lien vers article Wikipedia sur le Combava" href="http://fr.wikipedia.org/wiki/Combava" target="_blank">combava </a>et le <a title="Lien vers un article sur le piment de la Réunion" href="http://www.reunionsaveurs.com/faune-et-flore-reunion/epices/le-piment-de-la-reunion.php#" target="_blank">piment </a>s&rsquo;achètent dans les épiceries asiatiques ou exotiques.
-> 
+>
 > Selon l&rsquo;<a title="lien vers l'article Wikipedia sur l'échelle de Scoville" href="http://fr.wikipedia.org/wiki/%C3%89chelle_de_Scoville" target="_blank">échelle de Scoville</a>, les piments verts sont plus doux que les piments rouges.
 
  [1]: http://www.instamiam.fr/tag/ile-de-la-reunion/ "Lien vers les recettes réunionnaises"

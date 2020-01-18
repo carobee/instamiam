@@ -11,15 +11,15 @@ image:
   - 497
 image2: /images/2013/11/carottes-creme-2.jpg
 ingredients:
- - 1 kg de carottes - 20 cl de crème fraîche - 1 cube de bouillon - sel, poivre, beurre - thym (facultatif)
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 10M
-cooktime:
-  - 25M
-totaltime:
-  - 35M
+ - 1 kg de carottes
+ - 20 cl de crème fraîche
+ - 1 cube de bouillon
+ - sel, poivre, beurre
+ - thym (facultatif)
+quantite: Pour 4 personnes
+preptime: 10M
+cooktime: 25M
+totaltime: 35M
 categories:
   - Légumes
 mestags:
@@ -40,7 +40,7 @@ Verser la quasi-totalité du **bouillon** sur les **carottes**, afin qu&rsquo;el
 Quand les carottes sont cuites, ajouter la **crème fraîche**, remuer, et laisser encore quelques minutes avant de servir.
 
 > **Variante  #1** : Pour un goût plus original, ajouter en même temps que la crème fraîche une cuillère à café de **cumin**, et une cuillère à café de **curry**.
-> 
+>
 > **Variante #2** : Pour une recette plus légère, il est possible de se passer de **crème fraîche**.
 
 Selon les goûts, vous pouvez ajouter un peu de **persil** avant la fin de la cuisson.

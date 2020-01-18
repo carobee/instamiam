@@ -9,15 +9,15 @@ image:
   - 1172
 image2: /images/2015/12/confiture-kiwis-2-650.jpg
 ingredients:
- - 1 kg de kiwis - 500 g de sucre en poudre - Un peu de jus de citron - vanille en poudre - 1 ou 2 trognons de pommes (facultatif)
-quantite:
-  - Pour 3 à 4 pots
-preptime:
-  - 2H
-cooktime:
-  - 15M
-totaltime:
-  - 2H15M
+ - 1 kg de kiwis
+ - 500 g de sucre en poudre
+ - Un peu de jus de citron
+ - vanille en poudre
+ - 1 ou 2 trognons de pommes (facultatif)
+quantite: Pour 3 à 4 pots
+preptime: 2H
+cooktime: 15M
+totaltime: 2H15M
 categories:
   - Confitures
 mestags:

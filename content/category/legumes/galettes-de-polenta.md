@@ -7,17 +7,17 @@ url: /galettes-de-polenta/
 image1: /images/2014/09/galette-polenta-1-650.jpg
 image:
   - 944
-image2: /images/2014/09/galette-polenta-2-650.jpg
+image2: /images/2014/09/galette-polenta-recette.jpg
 ingredients:
- - 125 g de semoule de maïs (ou Polenta) "express" ou "instantanée" - 1/4 de litre de lait - 50 g de parmesan (facultatif) - sel - huile d'olive
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 10M
-cooktime:
-  - 5M
-totaltime:
-  - 15M
+ - 125 g de semoule de maïs (ou Polenta) "express" ou "instantanée"
+ - 1/4 de litre de lait
+ - 50 g de parmesan (facultatif)
+ - sel
+ - huile d'olive
+quantite: Pour 2 personnes
+preptime: 10M
+cooktime: 5M
+totaltime: 15M
 rating:
   - 5
 votes:

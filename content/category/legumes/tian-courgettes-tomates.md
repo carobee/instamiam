@@ -9,15 +9,16 @@ image:
   - 1476
 image2: /images/2018/08/tian-courgettes-2-650.jpg
 ingredients:
- - 3 à 4 courgettes - 4 à 5 tomates - 3 à 4 oignons - thyme - sel, poivre - huile d'olive
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 15M
-cooktime:
-  - 45M
-totaltime:
-  - 1H
+ - 3 à 4 courgettes
+ - 4 à 5 tomates
+ - 3 à 4 oignons
+ - thym
+ - sel, poivre
+ - huile d'olive
+quantite: Pour 3 à 4 personnes
+preptime: 15M
+cooktime: 45M
+totaltime: 1H
 categories:
   - Légumes
 mestags:
@@ -37,7 +38,7 @@ mestags:
 Préchauffer le four à 200°C.
 
 Rincer les **courgettes** et les **tomates**.
-  
+
 Éplucher les **oignons** et les émincer. Les faire dorer dans une casserole avec un fond d&rsquo;**huile d&rsquo;olive**. Étaler sur le fond d&rsquo;un plat à gratin rectangulaire.
 
 Couper les **courgettes** et les **tomates** en rondelles d&rsquo;épaisseur 2 à 3 mm.

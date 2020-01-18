@@ -12,14 +12,10 @@ ingredients:
  - un quartier de potiron d'environ 500g
  - 1/2 litre à 1 litre de lait de lait
  - noix de muscade, sel, poivre
-quantite:
-  - Pour 2 à 3 personnes
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+quantite: Pour 2 à 3 personnes
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 categories:
   - Légumes
   - Plats
@@ -45,7 +41,3 @@ Ajouter les épices : **muscade**, **sel**, **poivre**, et laisser sur le feu en
 Mixer la soupe.
 
 Servir chaud, accompagné de croûtons.
-
-> Pour cuisiner des produits de saison, voir nos autres [recettes d&rsquo;automne][1]&#8230;
-
- [1]: http://www.instamiam.fr/tag/automne/

@@ -16,14 +16,10 @@ ingredients:
  - un peu de basilic frais ciselé (facultatif)
  - 3 cuillères à soupe d'huile d'olive
  - sel, poivre
-quantite:
-  - Pour 3 personnes
-preptime:
-  - 15M
-cooktime:
-  - 25M
-totaltime:
-  - 40M
+quantite: Pour 3 personnes
+preptime: 15M
+cooktime: 25M
+totaltime: 40M
 rating:
   - 4.6666666666667
 votes:

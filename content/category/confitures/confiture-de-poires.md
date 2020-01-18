@@ -15,15 +15,13 @@ image:
   - 446
 image2: /images/2013/10/confiture-de-poires-2.jpg
 ingredients:
- - 2 kg de poires - Le jus d'un citron - 1 kg de sucre cristal (le poids du sucre varie en fonction du poids des fruits après épluchage et découpage)
-quantite:
-  - Pour environ 3 à 4 petits pots
-preptime:
-  - 1H
-cooktime:
-  - 1H
-totaltime:
-  - 2H
+ - 2 kg de poires
+ - Le jus d'un citron
+ - 1 kg de sucre cristal (le poids du sucre varie en fonction du poids des fruits après épluchage et découpage)
+quantite: Pour environ 3 à 4 petits pots
+preptime: 1H
+cooktime: 1H
+totaltime: 2H
 categories:
   - Confitures
 mestags:
@@ -49,7 +47,7 @@ Après macération des poires avec le sucre, amener le mélange à ébullition, 
 Quand ils sont froids, vous pouvez ranger les pots.
 
 > La chose la plus importante lorsque l&rsquo;on souhaite faire de la confiture, c&rsquo;est de bien choisir les fruits : ils doivent être très sucrés. Si vous allez au marché, n&rsquo;hésitez pas à demander au producteur quelle variété de poires sucrée il vous conseille pour les confitures. Dans mon cas, il avait préparé à l&rsquo;avance des sachets de 3 kilos de poires (1.5€ les 3 kilos !) très sucrées pour les confitures !
-> 
+>
 > Equivalences : le jus d&rsquo;un citron équivaut à 5 cl de jus, ou 5 grammes, ou encore 3 cuillères à soupe.
-> 
+>
 > Poids des poires : à valeur d&rsquo;exemple, avec 2 kilos de poires, j&rsquo;ai obtenu 1.3 kilos de fruits après épluchage et découpage.

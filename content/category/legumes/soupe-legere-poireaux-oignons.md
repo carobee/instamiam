@@ -18,14 +18,10 @@ ingredients:
  - sel, poivre
  - un peu de beurre ou d'huile
  - un peu de lait (facultatif)
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 10M
-cooktime:
-  - 30M
-totaltime:
-  - 40M
+quantite: Pour 2 personnes
+preptime: 10M
+cooktime: 30M
+totaltime: 40M
 rating:
   - 4.6666666666667
 votes:

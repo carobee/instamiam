@@ -9,7 +9,7 @@ xyz_smap:
   - 1
 image:
   - 170
-image2: /images/2013/08/tian-courgettes-tomates-lekue-2.jpg
+image2: /images/2013/08/tian-courgettes-tomates-lekue2.jpg
 ingredients:
  - 2 petites courgettes
  - 2 tomates

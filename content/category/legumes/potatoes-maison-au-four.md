@@ -13,15 +13,17 @@ image:
   - 985
 image2: /images/2013/09/Potatoes-2.jpg
 ingredients:
- - 4 à 6 pommes de terre (2 par personne, et 3 si elles sont petites) - 4 cuillères à soupe d'huile - 1 cuillère à café de curcuma - 1 cuillère à café de curry - 1 cuillère à café d'ail en poudre - poivre - sel
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 5M
-cooktime:
-  - 30M
-totaltime:
-  - 35M
+ - 4 à 6 pommes de terre (2 par personne, et 3 si elles sont petites)
+ - 4 cuillères à soupe d'huile
+ - 1 cuillère à café de curcuma
+ - 1 cuillère à café de curry
+ - 1 cuillère à café d'ail en poudre
+ - poivre
+ - sel
+quantite: Pour 2 personnes
+preptime: 5M
+cooktime: 30M
+totaltime: 35M
 categories:
   - Légumes
 mestags:
@@ -52,6 +54,4 @@ Saler dès la sortie du four.
 
 ### Vidéo de la recette :
 
-<div class="video-container">
-  <iframe src="http://www.youtube.com/embed/UagLYcZyLII" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube UagLYcZyLII>}}

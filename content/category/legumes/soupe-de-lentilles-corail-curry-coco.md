@@ -23,14 +23,10 @@ ingredients:
  - 3/4 l d'eau
  - huile, sel, poivre.
  - 1 feuille de laurier
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+quantite: Pour 3 à 4 personnes
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 categories:
   - Légumes
 mestags:

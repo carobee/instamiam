@@ -20,14 +20,10 @@ ingredients:
  - persil haché
  - beurre, huile d'olive
  - sel, poivre
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 30M
-cooktime:
-  - 30M
-totaltime:
-  - 1H
+quantite: Pour 4 personnes
+preptime: 30M
+cooktime: 30M
+totaltime: 1H
 rating:
   - 5
 votes:

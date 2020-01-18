@@ -9,15 +9,17 @@ image:
   - 977
 image2: /images/2014/10/rosti-courgettes-2-650.jpg
 ingredients:
- - 2 courgettes (environ 400 g) - 2 oeufs - 2 gousses d'ail - 2 cuillères à soupe de farine - 1 cuillère à soupe de persil haché - 1 cuillère à soupe de ciboulette hachée - sel, poivre, huile
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 10M
-cooktime:
-  - 10M
-totaltime:
-  - 20M
+ - 2 courgettes (environ 400 g)
+ - 2 oeufs
+ - 2 gousses d'ail
+ - 2 cuillères à soupe de farine
+ - 1 cuillère à soupe de persil haché
+ - 1 cuillère à soupe de ciboulette hachée
+ - sel, poivre, huile
+quantite: Pour 2 personnes
+preptime: 10M
+cooktime: 10M
+totaltime: 20M
 rating:
   - 4.4444444444444
 votes:

@@ -20,14 +20,10 @@ ingredients:
  - 1 petit bouquet de persil plat
  - 3 cuillères à soupe de graisse d'oie
  - sel, poivre
-quantite:
-  - Pour 4 à 5 personnes
-preptime:
-  - 5M
-cooktime:
-  - 30M
-totaltime:
-  - 35M
+quantite: Pour 4 à 5 personnes
+preptime: 5M
+cooktime: 30M
+totaltime: 35M
 categories:
   - Légumes
 mestags:
@@ -47,5 +43,5 @@ Laisser cuire 15 minutes en retournant les pommes de terre pour les faire dorer.
 Ajouter l&rsquo;**ail** et le **persil** hachés finement avant de servir.
 
 > Servir avec des cuisses de canard confites !
-> 
+>
 > Recette tirés du livre « Le Plat du Dimanche » de Victorine Granet, Editions Stéphane Bachès

@@ -14,14 +14,10 @@ ingredients:
   - Le jus de 3 citrons (ou environ 100 ml de jus de citron)
   - 1 gousse de vanille (facultatif)
   - des restes de pommes (facultatif)
-quantite:
-  - Pour 4 pots
-preptime:
-  - 24H
-cooktime:
-  - 3H
-totaltime:
-  - 27H
+quantite: Pour 4 pots
+preptime: 24H
+cooktime: 3H
+totaltime: 27H
 categories:
   - Confitures
 mestags:
@@ -57,8 +53,4 @@ A la fin de la cuisson, il est possible de mixer la confiture afin de ne pas êt
 
 Verser la confiture chaude dans les pots jusqu&rsquo;à 1 centimètre du bord. Fermer les couvercles immédiatement et retourner les pots tête en bas. Laisser refroidir complètement les pots avant de les retourner.
 
-> Cette confiture sera parfaite pour des crêpes ([voir la recette de la pâte à crêpes][1]) !
-
-&nbsp;
-
- [1]: http://www.instamiam.fr/pate-a-crepe-sucree/
+> Cette confiture sera parfaite pour des crêpes [voir la recette de la pâte à crêpes](http://www.instamiam.fr/pate-a-crepe-sucree/) !

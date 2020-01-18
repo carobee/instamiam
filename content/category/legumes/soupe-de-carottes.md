@@ -21,14 +21,10 @@ ingredients:
  - 2 cubes de bouillon
  - bouquet garni (facultatif)
  - sel, poivre
-quantite:
-  - Pour 6 personnes
-preptime:
-  - 15M
-cooktime:
-  - 30M
-totaltime:
-  - 45M
+quantite: Pour 6 personnes
+preptime: 15M
+cooktime: 30M
+totaltime: 45M
 categories:
   - Légumes
 mestags:
@@ -56,9 +52,9 @@ Mixer la préparation ou la passer au moulin à légumes pour avoir un potage bi
 Ajouter la **crème fraîche** et laisser réduire à feu doux pendant 10 minutes.
 
 > **Variante n°1** : Ajouter à la préparation 150g de champignons coupés en morceaux (en même temps que la crème fraîche)
-> 
+>
 > **Variante n°2** : Ajouter 1 cuillère à café de curry et 1 de cumin pour épicer un peu.
-> 
+>
 > Servir avec des tranches de bacon grillées !
 
 &nbsp;

@@ -22,14 +22,10 @@ ingredients:
   - 1 cuillère à soupe de curry
   - sel, poivre
   - ciboulette (facultatif)
-quantite:
-  - Pour 1 à 2 personnes
-preptime:
-  - 1M
-cooktime:
-  - 10M
-totaltime:
-  - 11M
+quantite: Pour 1 à 2 personnes
+preptime: 1M
+cooktime: 10M
+totaltime: 11M
 categories:
   - Légumes
   - Plats

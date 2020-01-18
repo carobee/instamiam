@@ -13,17 +13,24 @@ votes:
   - 9
 image:
   - 1422
-image2: /images/2018/01/risotto-potiron-650-2-2018.jpg
+image2: /images/2018/01/risotto-potiron-2-650.jpg
 ingredients:
- - 400 g de riz rond spécial risotto - 5 à 6 dl d'eau - 2 cuillères à soupe d'huile d'olive - 1 gros oignon - 2 gousses d'ail - 1 kg de chair de courge ou potiron - 1 dl de vin blanc - 3 à 4 dl de bouillon de légumes (ou bouillon de volaille) - 200g de crème fraîche entière - 1 botte de persil ciselé (facultatif) - sel, poivre - parmesan (facultatif)
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 30M
-cooktime:
-  - 30M
-totaltime:
-  - 1H
+ - 400 g de riz rond spécial risotto
+ - 5 à 6 dl d'eau
+ - 2 cuillères à soupe d'huile d'olive
+ - 1 gros oignon
+ - 2 gousses d'ail
+ - 1 kg de chair de courge ou potiron
+ - 1 dl de vin blanc
+ - 3 à 4 dl de bouillon de légumes (ou bouillon de volaille)
+ - 200g de crème fraîche entière
+ - 1 botte de persil ciselé (facultatif)
+ - sel, poivre
+ - parmesan (facultatif)
+quantite: Pour 4 à 6 personnes
+preptime: 30M
+cooktime: 30M
+totaltime: 1H
 categories:
   - Légumes
   - Plats

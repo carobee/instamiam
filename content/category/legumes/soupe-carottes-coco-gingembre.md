@@ -7,17 +7,19 @@ url: /soupe-carottes-coco-gingembre/
 image1: /images/2017/11/soupe-carottes-gingembre-1-650.jpg
 image:
   - 1378
-image2: /images/2017/11/soupe-carottes-gingembre-2-650.jpg
+image2: /images/2017/11/soupe-carotte-gingembre-2-650.jpg
 ingredients:
- - 6 carottes - 1 patate douce ou 2 pommes de terre - 1 oignon - 4 gousses d'ail - un morceau de gingembre ou 2 cuillères à café de gingembre moulu - 250 à 500 ml de lait de coco - sel, poivre, huile
-quantite:
-  - Pour 3 à 4 parts
-preptime:
-  - 20M
-cooktime:
-  - 30M
-totaltime:
-  - 50M
+ - 6 carottes
+ - 1 patate douce ou 2 pommes de terre
+ - 1 oignon
+ - 4 gousses d'ail
+ - un morceau de gingembre ou 2 cuillères à café de gingembre moulu
+ - 250 à 500 ml de lait de coco
+ - sel, poivre, huile
+quantite: Pour 3 à 4 parts
+preptime: 20M
+cooktime: 30M
+totaltime: 50M
 categories:
   - Légumes
 mestags:

@@ -15,18 +15,18 @@ image:
   - 108
 image2: /images/2013/08/ratatouille.jpg
 ingredients:
-  - Pour le coulis de tomates (vous pouvez aussi acheter du coulis tout prêt)
-  - 10 grosses tomates - 1 gousse d'ail
-  - Légumes :
-  - 3 courgettes - 2 aubergines - 1 poivron - 1 oignon - sel, poivre
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 20M
-cooktime:
-  - 40M
-totaltime:
-  - 1H
+  - 3 courgettes
+  - 2 aubergines
+  - 1 poivron
+  - 1 oignon
+  - sel, poivre
+  - Coulis de tomates (vous pouvez aussi acheter du coulis tout prêt)
+  - 10 grosses tomates
+  - 1 gousse d'ail
+quantite: Pour 4 à 6 personnes
+preptime: 20M
+cooktime: 40M
+totaltime: 1H
 categories:
   - Légumes
 mestags:
