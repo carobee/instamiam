@@ -2,14 +2,27 @@ enable : true
 heading : Les dernières
 headingSpan : Recettes
 filterList :
-  - filterType : photography
-    filterTitle : Photography
+  - filterType : apero
+    filterTitle : Apéro
 
-  - filterType : design
-    filterTitle : Design
+  - filterType : legumes
+    filterTitle : Légumes
 
-  - filterType : development
-    filterTitle : Development
+  - filterType : plats
+    filterTitle : Plats
+
+  - filterType : miams-sucres
+    filterTitle : Miams sucrés
+
+  - filterType : confitures
+    filterTitle : Confitures
+
+  - filterType : yaourts
+    filterTitle : Yaourts
+
+recettes:
+  - nomfichier : /category/legumes/carottes-a-la-creme.md
+  - nomfichier : /category/legumes/ratatouille.md
 
 portfolioItem :
   - types : design
