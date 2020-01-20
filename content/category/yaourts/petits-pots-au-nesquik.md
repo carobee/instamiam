@@ -12,14 +12,10 @@ ingredients:
  - 1/2 litre de lait (écrémé ou demi-écrémé)
  - 3 cuillères à soupe de chocolat en poudre (Nesquik ou autre chocolat en poudre sucré)
  - 2 g d'Agar-agar (1 cuillère à café)
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 5M
-cooktime:
-  - 10M
-totaltime:
-  - 15M
+quantite: Pour 3 à 4 personnes
+preptime: 5M
+cooktime: 10M
+totaltime: 15M
 rating:
   - 4.1666666666667
 votes:
@@ -32,6 +28,7 @@ mestags:
   - chocolat
   - hyper facile
   - lait
+blabla: Une préparation très rapide, sans yaourtière !
 
 ---
 Mettre dans une casserole le **lait**, le **chocolat en poudre** et l&rsquo;**agar-agar**. Mettre à chauffer à feu moyen en mélangeant au fouet.

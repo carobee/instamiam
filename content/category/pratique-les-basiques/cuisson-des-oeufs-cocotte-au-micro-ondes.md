@@ -15,19 +15,15 @@ ingredients:
  - 1 cuillère à soupe de crème fraîche
  - beurre, sel, poivre
  - 1 cuillère à soupe de gruyère râpé (facultatif)
- - 2 cuillères à soupe de garniture pour le fond des ramequins (<a title="Lien vers la recette des oeufs cocotte paysanne" href="http://www.instamiam.fr/oeufs-cocotte-paysanne/" target="_blank">oignons et lardons rissolés </a>; champignons poêlés ; giroles, crème fraîche et dés de foie gras ; chèvre et ciboulette ; fondue de poireaux, etc...)
+ - 2 cuillères à soupe de garniture pour le fond des ramequins (oignons et lardons rissolés ; champignons poêlés ; giroles, crème fraîche et dés de foie gras ; chèvre et ciboulette ; fondue de poireaux, etc...)
 rating:
   - 4.4615384615384
 votes:
   - 13
-quantite:
-  - Pour 1 personne
-preptime:
-  - 5M
-cooktime:
-  - 2M
-totaltime:
-  - 7M
+quantite: Pour 1 personne
+preptime: 5M
+cooktime: 2M
+totaltime: 7M
 categories:
   - 'Pratique : Les basiques'
 mestags:
@@ -44,12 +40,14 @@ Mettre la **crème fraîche** et le **fromage râpé**.
 
 Séparer le blanc et le jaune de **l&rsquo;œuf** (facultatif : pour faciliter la présentation), et disposer le blanc dans le ramequin. Essayer de creuser légèrement un trou vers le milieu du ramequin, et y déposer délicatement le jaune.
 
-<span style="text-decoration: underline;">Avec un cure-dents, percer le jaune</span> (pour éviter qu&rsquo;il n&rsquo;explose lors de la cuisson).
+Avec un cure-dents, percer le jaune (pour éviter qu&rsquo;il n&rsquo;explose lors de la cuisson).
 
-<span style="text-decoration: underline;">Fermer hermétiquement le ramequin avec un film transparent</span> spécial micro-ondes.
+Fermer hermétiquement le ramequin avec un film transparent spécial micro-ondes.
 
 Faire cuire 1 minute 20 au micro-ondes à 850W.
 
 > Le temps de cuisson varie d&rsquo;un four à l&rsquo;autre. Pour la première fois dans votre four, je vous conseille d&rsquo;ouvrir la porte du four toutes les 20 secondes et de vérifier : le blanc d&rsquo;œuf ne doit plus être transparent.
 
 Servir avec des mouillettes !
+
+Voir la recette des [oeufs cocotte paysanne]({{< ref "category/plats/oeufs-cocotte-paysanne.md" >}}) 

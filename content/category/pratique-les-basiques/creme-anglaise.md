@@ -13,14 +13,10 @@ ingredients:
  - 6 jaunes d’œufs
  - 1 gousse de vanille (ou de l'extrait de vanille)
  - 100 g de sucre en poudre
-quantite:
-  - Pour 6 personnes
-preptime:
-  - 10M
-cooktime:
-  - 30M
-totaltime:
-  - 40M
+quantite: Pour 6 personnes
+preptime: 10M
+cooktime: 30M
+totaltime: 40M
 rating:
   - 5
 votes:
@@ -33,7 +29,7 @@ mestags:
   - lait
   - sucre
   - vanille
-
+blabla: Pratique si vous avez des jaunes d'oeufs à utiliser !
 ---
 Mettre dans une casserole le **lait** et la **vanille** et amener à ébullition.
 
@@ -52,11 +48,9 @@ Lorsque l&rsquo;écume a disparu, et que la crème nappe la cuillère, la crème
 Laisser refroidir, dans un premier temps à température ambiante, sans couvrir le récipient, et ensuite mettre au réfrigérateur.
 
 > Servir frais pour accompagner un gâteau, une brioche, ou une île flottante !
-> 
-> S&rsquo;il vous reste des blancs d’œufs, vous pouvez les utiliser pour faire de la mousse au chocolat, des [financiers][1], des [rochers coco][2] ou des [meringues][3] ! Il est possible de congeler les blancs d’œufs pour réaliser ces recettes plus tard.
-  
-> Il est possible de congeler les jaunes d&rsquo;oeufs : pour cela, utiliser un moule à glaçons propre, déposer les jaunes d&rsquo;oeufs (sans la coquille !) et mettre délicatement le bac à glaçons dans un sachet congélation. Laisser décongeler à température ambiante.
 
- [1]: http://www.instamiam.fr/financiers-a-la-pistache/ "Financiers à la pistache"
- [2]: http://www.instamiam.fr/rochers-coco/ "Rochers coco"
- [3]: http://www.instamiam.fr/meringues/ "Meringues"
+> S&rsquo;il vous reste des blancs d’œufs, vous pouvez les utiliser pour faire de la mousse au chocolat, des [Financiers à la pistache]({{< ref "category/miams-sucres/financiers-a-la-pistache.md" >}}), des [Rochers coco]({{< ref "category/miams-sucres/rochers-coco.md" >}}) ou des [Meringues]({{< ref "category/miams-sucres/meringues.md" >}})  !
+
+>Il est possible de congeler les blancs d’œufs pour réaliser ces recettes plus tard.
+
+> Il est possible de congeler les jaunes d&rsquo;oeufs : pour cela, utiliser un moule à glaçons propre, déposer les jaunes d&rsquo;oeufs (sans la coquille !) et mettre délicatement le bac à glaçons dans un sachet congélation. Laisser décongeler à température ambiante.

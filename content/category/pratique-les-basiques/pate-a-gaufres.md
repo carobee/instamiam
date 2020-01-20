@@ -9,15 +9,17 @@ image:
   - 1371
 image2: /images/2017/11/pate-a-gaufres-2-650.jpg
 ingredients:
- - 250 g de farine - 1 pincée de sel - 1 sachet de levure - 3 œufs - 50 cl de lait - 50 g de sucre - 100 g de beurre
-quantite:
-  - Pour 16 à 20 gaufres
-preptime:
-  - 15M
-cooktime:
-  - 20M
-totaltime:
-  - 35M
+ - 250 g de farine
+ - 1 pincée de sel
+ - 1 sachet de levure
+ - 3 œufs
+ - 50 cl de lait
+ - 50 g de sucre
+ - 100 g de beurre
+quantite: Pour 16 à 20 gaufres
+preptime: 15M
+cooktime: 20M
+totaltime: 35M
 categories:
   - Miams sucrés
 mestags:

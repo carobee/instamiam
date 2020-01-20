@@ -24,14 +24,10 @@ ingredients:
  - 3 cuillères à soupe de lait en poudre
  - 1 cuillère à soupe de vanille liquide
  - 1 sachet de ferments (ou un yaourt nature)
-quantite:
-  - Pour 10 yaourts
-preptime:
-  - 1H
-cooktime:
-  - 8H
-totaltime:
-  - 9H
+quantite: Pour 10 yaourts
+preptime: 1H
+cooktime: 8H
+totaltime: 9H
 categories:
   - Yaourts
 mestags:
@@ -44,9 +40,11 @@ mestags:
 
 ---
 Dans une casserole, mélanger tous les ingrédients (sauf le ferment) et amener à ébullition. Lorsque le lait bout, arrêter le feu et laisser infuser entre 3/4 d’heure et 1 heure.
-  
+
 Passer le contenu de la casserole au chinois, ajouter le ferment et mélanger au fouet (éventuellement au fouet électrique) quelques secondes.
-  
+
 Mettre dans des pots en yaourtière pendant 8 heures.
-  
+
 Faire refroidir 2 heures avant de les déguster.
+
+Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base]({{< ref "category/yaourts/yaourts-maison-recette-de-base.md" >}})

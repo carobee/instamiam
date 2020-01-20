@@ -9,15 +9,15 @@ image:
   - 1331
 image2: /images/2017/09/sauce-echalotes-2-650.jpg
 ingredients:
- - 300 g d'échalotes - 1 bol de fond de veau - 1 verre de vin rouge - 1 cuillère à soupe de vinaigre de vin - un peu de beurre ou huile
-quantite:
-  - Pour 3 à 4 parts
-preptime:
-  - 5M
-cooktime:
-  - 15M
-totaltime:
-  - 20M
+ - 300 g d'échalotes
+ - 1 bol de fond de veau
+ - 1 verre de vin rouge
+ - 1 cuillère à soupe de vinaigre de vin
+ - un peu de beurre ou huile
+quantite: Pour 3 à 4 parts
+preptime: 5M
+cooktime: 15M
+totaltime: 20M
 rating:
   - 5
 votes:
@@ -51,8 +51,6 @@ Ajouter le **vin rouge**, et laisser réduire.
 
 Rectifier l&rsquo;assaisonnement.
 
-Servir chaud, moitié sauce aux échalotes, moitié échalotes seules, en accompagnement de viande, et plus particulièrement de la bavette ! ([Voir la recette de la bavette à l&rsquo;échalote][1])
+Servir chaud, moitié sauce aux échalotes, moitié échalotes seules, en accompagnement de viande, et plus particulièrement de la bavette ! ([Voir la recette de la bavette à l&rsquo;échalote]({{< ref "category/plats/bavette-a-lechalote.md" >}}))
 
 > La recette originale vient du site <a href="https://bouffeasam.wordpress.com/2015/03/08/bavette-a-lechalote/" target="_blank" rel="noopener">La bonne bouffe à Sam</a>.
-
- [1]: http://www.instamiam.fr/bavette-a-lechalote/

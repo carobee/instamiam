@@ -18,14 +18,10 @@ ingredients:
  - 2 cuillères à soupe de vanille liquide
  - 2 cuillères à soupe de sucre en poudre (roux, de préférence)
  - Ferments pour yaourts (ou 1 yaourt nature, dans ce cas, ne mettre que 900 ml de lait)
-quantite:
-  - Pour 10 yaourts
-preptime:
-  - 10M
-cooktime:
-  - 8H
-totaltime:
-  - 8H10M
+quantite: Pour 10 yaourts
+preptime: 10M
+cooktime: 8H
+totaltime: 8H10M
 categories:
   - Yaourts
 mestags:
@@ -47,4 +43,4 @@ Laisser refroidir avant de les manger.
 
 > Il est possible de remplacer la chicorée par du café soluble (même quantité), avec ou sans caféine. Le goût sera plus amer ; il faudra probablement ajouter un peu plus de vanille liquide pour corriger l&rsquo;amertume.
 
-&nbsp;
+Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base]({{< ref "category/yaourts/yaourts-maison-recette-de-base.md" >}})

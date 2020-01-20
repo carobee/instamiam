@@ -17,14 +17,10 @@ ingredients:
  - 8 cuillères à café de sucre en poudre
  - 3 cuillères à soupe de lait en poudre
  - 1 cuillère à soupe de vanille liquide
-quantite:
-  - Pour 10 yaourts
-preptime:
-  - 15M
-cooktime:
-  - 8H
-totaltime:
-  - 8H15M
+quantite: Pour 10 yaourts
+preptime: 15M
+cooktime: 8H
+totaltime: 8H15M
 categories:
   - Yaourts
 mestags:
@@ -53,3 +49,5 @@ Faire couler sur du papier sulfurisé et laisser refroidir.
 Casser grossièrement et mixer finement.
 
 > Recette tirée du livre « Yaourts cent recettes de saison » de Muriel Khamouguinoff, Tana Editions
+
+Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base]({{< ref "category/yaourts/yaourts-maison-recette-de-base.md" >}})

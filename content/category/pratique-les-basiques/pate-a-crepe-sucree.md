@@ -13,16 +13,12 @@ ingredients:
  - 50 cl de lait
  - 3 oeufs
  - 1 pincée de sel
- - Arôme au choix : 1 cuillère à soupe d'eau de fleur d'oranger de vanille.
+ - Arôme au choix (1 cuillère à soupe d'eau de fleur d'oranger de vanille)
  - Huile ou beurre pour la cuisson
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 1H
-cooktime:
-  - 10M
-totaltime:
-  - 1H10M
+quantite: Pour 4 à 6 personnes
+preptime: 1H
+cooktime: 10M
+totaltime: 1H10M
 rating:
   - 4.7
 votes:
@@ -56,7 +52,7 @@ Faire fondre du beurre ou de l&rsquo;huile dans une poêle anti-adhésive. Quand
 Environ 2 minutes après (selon la puissance du feu), retourner la crêpe à l&rsquo;aide d&rsquo;une spatule d&rsquo;un geste vif et laisser cuire un peu moins de 2 minutes. Déposer sur une assiette plate, et recouvrir d&rsquo;une autre assiette pour garder les crêpes au chaud.
 
 > Servir accompagnées de sucre en poudre, de confiture, de sirop d&rsquo;érable, de vergeoise, &#8230;
-> 
+>
 > Il est possible de congeler les crêpes s&rsquo;il vous en reste.
 
 &nbsp;

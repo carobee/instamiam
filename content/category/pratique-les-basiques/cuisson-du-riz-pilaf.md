@@ -11,18 +11,14 @@ image:
   - 518
 image2: /images/2013/11/riz-pilaf-2.jpg
 ingredients:
- - 100 g de riz
+  - 100 g de riz
   - 2 cubes de bouillon de volaille
   - 1 oignon
   - 25 g de beurre
-quantite:
-  - Pour 2 à 3 personnes
-preptime:
-  - 5M
-cooktime:
-  - 15M
-totaltime:
-  - 20M
+quantite: Pour 2 à 3 personnes
+preptime: 5M
+cooktime: 15M
+totaltime: 20M
 categories:
   - Légumes
   - 'Pratique : Les basiques'

@@ -13,14 +13,10 @@ ingredients:
  - 1 sachet de ferments pour yaourts
  - 3 sachets de sucre vanillé
  - de la vanille (en poudre ou arôme vanille liquide)
-quantite:
-  - Pour 6 à 8 pots de yaourt
-preptime:
-  - 10M
-cooktime:
-  - 8H
-totaltime:
-  - 8H
+quantite: Pour 6 à 8 pots de yaourt
+preptime: 10M
+cooktime: 8H
+totaltime: 8H
 rating:
   - 5
 votes:
@@ -52,6 +48,4 @@ Fermer la yaourtière et faire cuire pendant 8 heures.
 
 À la fin de la cuisson, fermer les pots et mettre au frais pendant au moins 2 heures.
 
-Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base][1]
-
- [1]: http://www.instamiam.fr/yaourts-maison-recette-de-base/
+Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base]({{< ref "category/yaourts/yaourts-maison-recette-de-base.md" >}})

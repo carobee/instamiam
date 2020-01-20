@@ -16,14 +16,10 @@ ingredients:
  - Huile d'olive
  - Sel
  - Beurre (facultatif)
-quantite:
-  - Pour 1 personne
-preptime:
-  - 1M
-cooktime:
-  - 2M
-totaltime:
-  - 3M
+quantite: Pour 1 personne
+preptime: 1M
+cooktime: 2M
+totaltime: 3M
 rating:
   - 3
 votes:
@@ -53,10 +49,8 @@ Mettre au micro-ondes à puissance maximum pendant 1 à 2 minutes.
 
 Mettre une noix de **beurre** et mélanger à nouveau à la fourchette. Saler à nouveau si besoin.
 
-> Servir seul, ou accompagné de sauce tomate, ou de ratatouille (<a title="Ratatouille" href="http://www.instamiam.fr/ratatouille-2/" target="_blank">voir la recette de la ratatouille</a>).
+> Servir seul, ou accompagné de sauce tomate, ou de [Ratatouille]({{< ref "category/legumes/ratatouille.md" >}}).
 
 ### Cuisson de la semoule au micro-ondes en vidéo :
 
-<div class="video-container">
-  <iframe src="http://www.youtube.com/embed/DSCFhsM7QMc" height="315" width="420" allowfullscreen="" frameborder="0"></iframe>
-</div>
+{{< youtube DSCFhsM7QMc>}}

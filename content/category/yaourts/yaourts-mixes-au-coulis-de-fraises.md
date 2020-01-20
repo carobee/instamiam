@@ -11,15 +11,16 @@ image:
   - 671
 image2: /images/2013/09/Yaourt-coulis-fraises-2.jpg
 ingredients:
- - 800 ml de lait - 200 ml de coulis de fraises - 1 sachet de ferments (ou un yaourt nature, dans ce cas, mettre moins de lait) - 3 cuillères à soupe de lait en poudre (facultatif) - 1 cuillère à soupe de vanille liquide (pour casser l'acidité) - 1 cuillère à soupe de miel (facultatif si votre coulis est assez sucré et/ou pas acide)
-quantite:
-  - Pour 10 yaourts
-preptime:
-  - 5M
-cooktime:
-  - 8H
-totaltime:
-  - 8H05M
+ - 800 ml de lait
+ - 200 ml de coulis de fraises
+ - 1 sachet de ferments (ou un yaourt nature, dans ce cas, mettre moins de lait)
+ - 3 cuillères à soupe de lait en poudre (facultatif)
+ - 1 cuillère à soupe de vanille liquide (pour casser l'acidité)
+ - 1 cuillère à soupe de miel (facultatif si votre coulis est assez sucré et/ou pas acide)
+quantite: Pour 10 yaourts
+preptime: 5M
+cooktime: 8H
+totaltime: 8H05M
 categories:
   - Yaourts
 mestags:
@@ -32,6 +33,7 @@ mestags:
   - yaourtière
   - yaourts
   - yaourts maison
+blabla: Très utile pour recycler un reste de coulis de fraises !
 
 ---
 Faire tiédir le **lait** au micro ondes pendant 4 minutes.
@@ -42,4 +44,4 @@ Verser la préparation dans des pots et mettre en yaourtière pour 8 heures.
 
 Faire refroidir au réfrigérateur 4 heures.
 
-> Très utile pour recycler un reste de coulis de fraises !
+Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base]({{< ref "category/yaourts/yaourts-maison-recette-de-base.md" >}})

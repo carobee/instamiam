@@ -9,19 +9,15 @@ image:
   - 1383
 image2: /images/2017/11/yaourts-oeufs-2-650.jpg
 ingredients:
- - 1 litre de lait demi-écrémé ou entier 
-  - 1 sachet de ferments pour yaourts 
-  - 1 oeuf 
-  - 3 cuillères à soupe de sucre en poudre 
+  - 1 litre de lait demi-écrémé ou entier
+  - 1 sachet de ferments pour yaourts
+  - 1 oeuf
+  - 3 cuillères à soupe de sucre en poudre
   - 1 cuillère à soupe de vanille liquide
-quantite:
-  - Pour 8 pots
-preptime:
-  - 5M
-cooktime:
-  - 8H
-totaltime:
-  - 8H
+quantite: Pour 8 pots
+preptime: 5M
+cooktime: 8H
+totaltime: 8H
 rating:
   - 4
 votes:
@@ -50,3 +46,5 @@ Verser dans des pots et faire cuire en yaourtière 8 heures.
 Laisser ensuite refroidir 2 heures au réfrigérateur.
 
 > Il est possible de remplacer le sucre en poudre par du sucre vanillé.
+
+Conseils pour bien réussir vos yaourts : [Yaourts maison : recette de base]({{< ref "category/yaourts/yaourts-maison-recette-de-base.md" >}})

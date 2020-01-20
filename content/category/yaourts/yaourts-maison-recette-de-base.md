@@ -9,18 +9,14 @@ image:
   - 161
 image2: /images/2013/08/yaourt-nature.jpg
 ingredients:
- - 1 litre de lait entier ou demi écrémé + 1 sachet de ferments pour yaourt (alsa par exemple)
+  - 1 litre de lait entier ou demi écrémé + 1 sachet de ferments pour yaourt (alsa par exemple)
   - ou 900 ml de lait + 1 yaourt
-  - 1 cuillère à soupe de vanille liquide (pas pour le goût de vanille, mais pour casser l’acidité du yaourt nature) 
-  - 3 cuillères à soupe de lait en poudre (pour obtenir un yaourt moins liquide)
-quantite:
-  - Pour 10 yaourts
-preptime:
-  - 5M
-cooktime:
-  - 8H
-totaltime:
-  - 8H05M
+  - 1 cuillère à soupe de vanille liquide (pas pour le goût de vanille, mais pour casser l’acidité du yaourt nature)
+  - 3 cuillères à soupe de lait en poudre (c'est facultatif mais permet d'obtenir un yaourt un peu plus ferme)
+quantite: Pour 10 yaourts
+preptime: 5M
+cooktime: 8H
+totaltime: 8H05M
 rating:
   - 5
 votes:

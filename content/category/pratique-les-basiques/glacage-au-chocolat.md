@@ -11,14 +11,10 @@ image2: /images/2014/02/glacage-chocolat-2.jpg
 ingredients:
  - 100 g de chocolat noir
  - 50 g de beurre
-quantite:
-  - pour 100ml
-preptime:
-  - 10M
-cooktime:
-  - 10M
-totaltime:
-  - 20M
+quantite: pour 100ml
+preptime: 10M
+cooktime: 10M
+totaltime: 20M
 rating:
   - 5
 votes:
