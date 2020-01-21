@@ -24,7 +24,7 @@
         </div>
         <div class="row filtr-container">
             {{"<!-- portfolio item -->" | safeHTML}}
-            {{ range .Site.Data.dernieresrecettes.portfolioItem }}
+            {{ range .Site.Data.dernieresrecettes.recettes }}
             <div class="col-lg-4 filtr-item" data-category="{{ .types }}">
                 <div class="portfolio-block mb-4">
                     <img class="img-fluid" src="{{ .image | absURL}}" alt="work-image">

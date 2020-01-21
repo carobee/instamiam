@@ -21,69 +21,60 @@ filterList :
     filterTitle : Yaourts
 
 recettes:
-  - nomfichier : /category/legumes/carottes-a-la-creme.md
-  - nomfichier : /category/legumes/ratatouille.md
-
-portfolioItem :
-  - types : design
-    image : images/portfolio/portfolio-1.jpg
+  - types : miams-sucres
+    image : /images/2016/09/crumble-pommes-1-650.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /crumble-aux-pommes/
+    title : Crumble aux pommes
+    description : Sortir le beurre au préalable afin de le ramollir.
 
-  - types : development
-    image : images/portfolio/portfolio-2.jpg
+  - types : apero
+    image : /images/2018/03/samoussas-thon-1-650.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Sound system
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /samoussas-au-thon-ile-de-la-reunion/
+    title : Samoussas au thon (Ile de La Réunion)
 
-  - types : design, development
-    image : images/portfolio/portfolio-3.jpg
+  - types : miams-sucres
+    image : /images/2013/09/blondie-cafe-chocolat.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Clock Product
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /blondie-chocolat-cafe/
+    title : Blondie chocolat café
 
-  - types : photography, development
-    image : images/portfolio/portfolio-4.jpg
+  - types : apero
+    image : /images/2013/08/cake-thon.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Bottol Label
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /pain-de-thon/
+    title : Pain de thon
 
-  - types : design
-    image : images/portfolio/portfolio-5.jpg
+  - types : confitures
+    image : /images/2015/12/confiture-kiwis-1-650.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Shopping Bag
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : Confiture de kiwis
+    title : /confiture-de-kiwis/
 
-  - types : photography
-    image : images/portfolio/portfolio-6.jpg
+  - types : legumes
+    image : /images/2017/11/chou-fleur-roti-1-650.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /chou-fleur-roti-au-four/
+    title : Chou-fleur rôti au four
+    description : Une façon simple et originale de cuisiner le chou-fleur !
 
-  - types : development
-    image : images/portfolio/portfolio-7.jpg
+  - types : legumes
+    image : /images/2014/09/galette-polenta-1-650.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Business Card
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /galettes-de-polenta/
+    title : Galettes de polenta
 
-  - types : design, development
-    image : images/portfolio/portfolio-8.jpg
+  - types : plats
+    image : /images/2017/03/burger-poireaux-cantal-1-650.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Stationary Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /burger-au-cantal-et-a-la-fondue-de-poireaux/
+    title : Burger au Cantal et à la fondue de poireaux
+    description : Un burger maison très gourmand !
 
-  - types : design, photography
-    image : images/portfolio/portfolio-2.jpg
+  - types : plats
+    image : /images/2013/10/Oeufs-cocotte-paysane-1.jpg
     icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    URL : /oeufs-cocotte-paysanne/
+    title : Oeufs cocotte « Paysanne »
+    description : Peut se préparer au four ou au micro-ondes

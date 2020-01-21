@@ -9,19 +9,22 @@ image:
   - 235
 image2: /images/2013/09/blondie-cafe-chocolat-2.jpg
 ingredients:
- - 125 g de beurre - 180 g de sucre (roux de pref) - 2 cuillères à café rase de café soluble - 2 œufs - 150 g de farine - 1 pincée de sel - 1 cuillère à café de levure - 75 g de chocolat noir
+ - 125 g de beurre
+ - 180 g de sucre (roux de pref)
+ - 2 cuillères à café rase de café soluble
+ - 2 œufs
+ - 150 g de farine
+ - 1 pincée de sel
+ - 1 cuillère à café de levure
+ - 75 g de chocolat noir
 rating:
   - 5
 votes:
   - 6
-quantite:
-  - Pour 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 15M
-totaltime:
-  - 25M
+quantite: Pour 8 personnes
+preptime: 10M
+cooktime: 15M
+totaltime: 25M
 categories:
   - Miams sucrés
 mestags:

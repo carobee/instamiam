@@ -36,6 +36,7 @@ mestags:
   - printemps
   - végétalien
   - végétarien
+blabla: Une façon simple et originale de cuisiner le chou-fleur !
 
 ---
 Préchauffer le four à 200°C (Thermostat 7)

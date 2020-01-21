@@ -65,7 +65,7 @@ Si vous utilisez de la pâte à samoussas achetée en épicerie asiatique, laiss
 Si vous utilisez de la pâte Filo, qui est de forme ronde, couper chaque rond en deux, puis rabattre le bord extérieur afin de former une bande rectangulaire.
 
 
-{{< figure src="http://www.instamiam.fr/wp-content/uploads/2015/05/pliage-samoussas-650-650x311.jpg" title="Pliage des samoussas facile" >}}
+{{< figure src="/images/pliage-samoussas-650-650x311.jpg" title="Pliage des samoussas facile" >}}
 
 
 Former un triangle en bas de la bande de pâte, puis poser une cuillère à café de farce au centre de ce triangle. Replier le triangle sur lui-même plusieurs fois en s’aidant du bord pour former un triangle.

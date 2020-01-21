@@ -1025,6 +1025,7 @@ a.navbar-brand.logo img {
 
 .portfolio-block {
   position: relative;
+
 }
 
 .portfolio-block:before {
@@ -1041,7 +1042,7 @@ a.navbar-brand.logo img {
 
 .portfolio-block img {
   width: 100%;
-  height: auto;
+  height: 340px;
 }
 
 .portfolio-block:hover:before {
