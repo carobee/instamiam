@@ -35,6 +35,7 @@ mestags:
   - micro-ondes
   - oeuf
   - oignon
+blabla: Peut se préparer au four ou au micro-ondes
 
 ---
 Eplucher **l&rsquo;oignon** et l&rsquo;émincer.
