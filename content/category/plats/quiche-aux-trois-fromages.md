@@ -17,14 +17,10 @@ ingredients:
  - 2 Saint-Marcellin
  - 100 g de crème fraîche épaisse
  - ciboulette
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+quantite: Pour 6 à 8 personnes
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 rating:
   - 5
 votes:
@@ -42,8 +38,10 @@ mestags:
   - quiche
   - saint-marcellin
   - tarte
-
+blabla: Attention, pas du tout léger !
 ---
+> Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais ([Voir la recette de la pâte brisée très facile]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
+
 Préchauffer le four à 180°C (th. 6).
 
 Étaler la **pâte** dans un moule et piquer le fond.

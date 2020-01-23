@@ -22,15 +22,11 @@ ingredients:
  - basilic ou origan
  - beurre
  - huile d'olive
- - Accompagnement : pâtes ! et parmesan à volonté
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 20M
-cooktime:
-  - 15M
-totaltime:
-  - 35M
+ - 'Accompagnement : pâtes ! et parmesan à volonté'
+quantite: Pour 4 à 6 personnes
+preptime: 20M
+cooktime: 15M
+totaltime: 35M
 rating:
   - 5
 votes:
@@ -54,8 +50,6 @@ mestags:
   - vin rouge
 
 ---
-> (Commencer à faire bouillir l&rsquo;eau des pâtes)
-
 Éplucher et émincer les **oignons**.
 
 Éplucher et râper la **carotte**.

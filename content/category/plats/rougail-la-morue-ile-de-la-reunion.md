@@ -35,7 +35,7 @@ mestags:
   - tomate
 
 ---
-> Si la morue n&rsquo;est pas dessalée, il faut la dessaler. Pour cela suivre les indications de Chef Simon dans cette recette : <a href="http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/brandade-de-morue--8" target="_blank" rel="noopener">http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/brandade-de-morue&#8211;8</a>
+> Si la morue n&rsquo;est pas dessalée, il faut la dessaler. Pour cela suivre les indications de Chef Simon dans cette recette : [http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/brandade-de-morue--8](http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/brandade-de-morue--8)
 
 ### Préparation :
 
@@ -58,7 +58,4 @@ Servir avec du riz, des grains, des achards et du piment, et laisser à chacun l
 ### Accord mets et musique :
 
 A écouter avec « Sega Jacquot », ici par Rosemary Standley et Dom La Nena :
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/dDOFSTZZDxI" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube dDOFSTZZDxI>}}

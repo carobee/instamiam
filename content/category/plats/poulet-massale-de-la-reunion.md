@@ -9,15 +9,20 @@ image:
   - 1321
 image2: /images/2017/07/poulet-massale-2-650.jpg
 ingredients:
- - 1 kg à 1,2 kg de manchons de poulet - 700 g de tomates - 700 g d'oignons - 3 gousses d'ail - petit morceau de gingembre (facultatif) - 5 cuillères à soupe de massalé - 1 cuillère à soupe de cumin (en poudre ou en grains) - Huile - fleur de sel - poivre 5 baies ou poivre noir
-quantite:
-  - Pour 8 personnes
-preptime:
-  - 30M
-cooktime:
-  - 30M
-totaltime:
-  - 1H
+ - 1 kg à 1,2 kg de manchons de poulet
+ - 700 g de tomates
+ - 700 g d'oignons
+ - 3 gousses d'ail
+ - petit morceau de gingembre (facultatif)
+ - 5 cuillères à soupe de massalé
+ - 1 cuillère à soupe de cumin (en poudre ou en grains)
+ - Huile
+ - fleur de sel
+ - poivre 5 baies ou poivre noir
+quantite: Pour 8 personnes
+preptime: 30M
+cooktime: 30M
+totaltime: 1H
 rating:
   - 5
 votes:
@@ -57,6 +62,6 @@ Quand le **poulet** est doré, ajouter les **tomates** et faire cuire à feu moy
 
 Baisser le feu et faire mijoter jusqu&rsquo;au moment de servir (minimum 15 minutes).
 
-Servir avec du riz, et éventuellement des achards et du <a href="http://www.instamiam.fr/rougail-de-tomates/" target="_blank" rel="noopener">rougail tomates</a>.
+Servir avec du riz, et éventuellement des achards et du [rougail de tomates]({{< ref "category/legumes/rougail-de-tomates.md" >}}).
 
-> Cette recette est librement inspirée de cette recette : <a href="https://ileauxepices.com/blog/2013/01/07/recette-du-poulet-massale-reunionnais/wpid691/" target="_blank" rel="noopener">https://ileauxepices.com/blog/2013/01/07/recette-du-poulet-massale-reunionnais/wpid691/</a>. Le mode de cuisson y est un peu différent.
+> Cette recette est librement inspirée de cette recette : [https://ileauxepices.com/blog/2013/01/07/recette-du-poulet-massale-reunionnais/wpid691/](https://ileauxepices.com/blog/2013/01/07/recette-du-poulet-massale-reunionnais/wpid691/). Le mode de cuisson y est un peu différent.

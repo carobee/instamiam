@@ -16,16 +16,12 @@ ingredients:
  - 1 cuillère à café de curcuma
  - Thym
  - huile, sel, poivre, thon
- - Accompagnement : riz
- - Facultatif : 1 patate douce
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+ - Accompagnement riz
+ - Facultatif 1 patate douce
+quantite: Pour 3 à 4 personnes
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 rating:
   - 4.25
 votes:
@@ -59,10 +55,8 @@ Ajouter les **tomates**, et faire cuire 5 à 10 minutes.
 
 Ajouter le **thon** émietté, les dés de **patate douce**, 1/2 verre d&rsquo;eau, le **sel** et le **poivre**, mélanger. Baisser le feu et faire cuire une dizaine de minutes.
 
-> Servir accompagné de riz (et de [rougail tomates][1])
-> 
-> Il est possible de remplacer les dés de patate douce par des œufs dur : ajouter les moitiés d’œufs durs en même temps que le thon
-> 
-> Il est possible d&rsquo;ajouter du gingembre, un peu de zeste de combawa ou un peu de piment.
+> Servir accompagné de riz (et de [rougail de tomates]({{< ref "category/legumes/rougail-de-tomates.md" >}}))
 
- [1]: http://www.instamiam.fr/rougail-de-tomates/ "Rougail de tomates"
+> Il est possible de remplacer les dés de patate douce par des œufs dur : ajouter les moitiés d’œufs durs en même temps que le thon
+
+> Il est possible d&rsquo;ajouter du gingembre, un peu de zeste de combawa ou un peu de piment.

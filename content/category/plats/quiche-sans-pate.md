@@ -20,14 +20,10 @@ ingredients:
   - "Garniture pour une quiche lorraine :"
   - 2 oignons
   - 200 g de lardons
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 10M
-cooktime:
-  - 35M
-totaltime:
-  - 45M
+quantite: Pour 4 à 6 personnes
+preptime: 10M
+cooktime: 35M
+totaltime: 45M
 rating:
   - 4
 votes:

@@ -20,14 +20,11 @@ ingredients:
  - 4 tomates ou 400 g de tomates pelées en conserve si ce n'est pas la saison
  - 400 ml de lait de coco
  - huile d'olive, sel, poivre
-quantite:
-  - 'pour 6 personnes '
-preptime:
-  - 15M
-cooktime:
-  - 30M
-totaltime:
-  - 45M
+ - Accompagnement riz
+quantite: pour 6 personnes
+preptime: 15M
+cooktime: 30M
+totaltime: 45M
 categories:
   - Plats
 mestags:

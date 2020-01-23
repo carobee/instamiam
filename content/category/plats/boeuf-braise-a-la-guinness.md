@@ -9,15 +9,21 @@ image:
   - 1224
 image2: /images/2016/03/boeuf-guiness-650-2.jpg
 ingredients:
- - 750 g de bœuf à braiser (collier par exemple) dégraissé - 30 g  de lard coupé en dés ou de lardons - 2 ou 3 carottes - 2 oignons - 2 cuillères à soupe de farine - 50 cl de bouillon de boeuf - 30 cl de Guinness - 15 g de beurre - 1 cuillère à soupe d'huile d'olive - 1 bouquet garni - sel, poivre
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 15M
-cooktime:
-  - 2H
-totaltime:
-  - 2H15
+ - 750 g de bœuf à braiser (collier par exemple) dégraissé
+ - 30 g  de lard coupé en dés ou de lardons
+ - 2 ou 3 carottes
+ - 2 oignons
+ - 2 cuillères à soupe de farine
+ - 50 cl de bouillon de boeuf
+ - 30 cl de Guinness
+ - 15 g de beurre
+ - 1 cuillère à soupe d'huile d'olive
+ - 1 bouquet garni
+ - sel, poivre
+quantite: Pour 4 à 6 personnes
+preptime: 15M
+cooktime: 2H
+totaltime: 2H15
 rating:
   - 5
 votes:
@@ -37,7 +43,7 @@ mestags:
   - lardons
   - oignon
   - repas du dimanche
-
+blabla: Parfait pour célébrer la St Patrick !
 ---
 Éplucher les **carottes** et les couper en rondelles.
 

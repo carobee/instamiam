@@ -9,15 +9,18 @@ image:
   - 1052
 image2: /images/2014/11/navarin-agneau2.jpg
 ingredients:
- - 4 morceaux de collier d'agneau - 4 tomates - 2 carottes - 8 petits navets - 1 oignon - 1 bouillon-cube - Huile d'olive - Thym, laurier, sel, poivre
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 20M
-cooktime:
-  - 2H
-totaltime:
-  - 2H20
+ - 4 morceaux de collier d'agneau
+ - 4 tomates
+ - 2 carottes
+ - 8 petits navets
+ - 1 oignon
+ - 1 bouillon-cube
+ - Huile d'olive
+ - Thym, laurier, sel, poivre
+quantite: Pour 4 personnes
+preptime: 20M
+cooktime: 2H
+totaltime: 2H20
 rating:
   - 4.5714285714286
 votes:

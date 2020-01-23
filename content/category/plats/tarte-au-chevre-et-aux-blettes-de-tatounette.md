@@ -9,15 +9,16 @@ image:
   - 1307
 image2: /images/2017/05/tarte-blettes-2-650.jpg
 ingredients:
- - une dizaine de blettes (on utilisera que la partie verte) - une buche de chèvre ou de la fêta - des feuilles de pâte Filo (5 ou 6) - 2 ou 3 échalotes - si besoin, un peu de crème fraîche ou 1 œuf et du lait - huile d'olive, sel, poivre
-quantite:
-  - Pour 6 parts
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+ - une dizaine de blettes (on utilisera uniquement la partie verte)
+ - une buche de chèvre ou de la fêta
+ - des feuilles de pâte Filo (5 ou 6)
+ - 2 ou 3 échalotes
+ - si besoin, un peu de crème fraîche ou 1 œuf et du lait
+ - huile d'olive, sel, poivre
+quantite: Pour 6 parts
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 rating:
   - 4
 votes:
@@ -37,17 +38,19 @@ mestags:
   - végétarien
 
 ---
+> Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais ([Voir la recette de la pâte brisée très facile]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
+
 Préchauffer le four à 180°C (Thermostat 6)
 
 Laver les **blettes** et les couper : ici on utilise la partie verte uniquement.
 
-> Pour savoir comment on prépare les blettes, je vous invite à consulter cette page : <a href="http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/preparer-les-bettes" target="_blank" rel="noopener noreferrer">http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/preparer-les-bettes</a>
-> 
+> Pour savoir comment on prépare les blettes, je vous invite à consulter cette page : [http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/preparer-les-bettes](http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/preparer-les-bettes)
+
 > Conserver les parties blanches des blettes pour les cuisiner en gratin avec de la béchamel par exemple
 
 Éplucher et ciseler les **échalotes**.
 
-> Technique de <a href="http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/preparer-les-bettes" target="_blank" rel="noopener noreferrer">Chef Simon</a> pour couper les blettes : rouler plusieurs feuilles ensemble pour faire un boudin, et émincer
+> Technique de [Chef Simon](http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/preparer-les-bettes) pour couper les blettes : rouler plusieurs feuilles ensemble pour faire un boudin, et émincer
 
 Dans une sauteuse, faire revenir les **échalotes** ciselées avec de l&rsquo;**huile d&rsquo;olive**.
 

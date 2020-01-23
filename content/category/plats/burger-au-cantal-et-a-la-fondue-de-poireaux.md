@@ -9,15 +9,19 @@ image:
   - 1294
 image2: /images/2017/03/burger-poireaux-cantal-2-650.jpg
 ingredients:
- - 1 pain à burger par personne - 100 à 150g de bœuf haché par personne - 1 oignon - 2 ou 3 poireaux - 100 à 200 g de Cantal - des tranches de fromage à burger (facultatif) - moutarde - sauce barbecue ou ketchup - sel, poivre, beurre
-quantite:
-  - Pour 3 à 4 parts
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+ - 1 pain à burger par personne
+ - 100 à 150g de bœuf haché par personne
+ - 1 oignon
+ - 2 ou 3 poireaux
+ - 100 à 200 g de Cantal
+ - des tranches de fromage à burger (facultatif)
+ - moutarde
+ - sauce barbecue ou ketchup
+ - sel, poivre, beurre
+quantite: Pour 3 à 4 parts
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 rating:
   - 5
 votes:
@@ -42,17 +46,17 @@ mestags:
 ### Préparer la fondue de poireaux :
 
 Bien rincer les poireaux et les émincer très fins (les trancher avec un robot si possible pour gagner du temps).
-  
+
 Dans une sauteuse froide, déposer des gros morceaux de beurre, et mettre par dessus les poireaux.
-  
+
 Faire chauffer à feu moyen quelques minutes sans couvrir. Quand une bonne odeur se fait sentir, couvrir. Mélanger de temps en temps. Ajouter un peu d&rsquo;eau si nécessaire. Goûter et assaisonner. Réserver au chaud.
-  
+
 (Il est possible d&rsquo;ajouter de la crème fraîche pour que ça soit plus onctueux)
 
 ### Préparation de la viande :
 
 Émincer très fin l&rsquo;oignon.
-  
+
 Mélanger l&rsquo;oignon avec le bœuf, du sel et du poivre. Former des steaks de la largeur du pain à burger.
 
 ### Préparation des autres ingrédients :
@@ -68,7 +72,7 @@ Préchauffer le four à 150°c.
 ### Préparation des burgers :
 
 Dans une grande poêle, poser les pains à burger sur leur face intérieure pour les faire chauffer (commencer par les pains du bas).
-  
+
 Dans une autre poêle, faire cuire les steaks.
 
 Sur une plaque à four ou une grille, poser dans l&rsquo;ordre :
@@ -85,4 +89,4 @@ Sur une plaque à four ou une grille, poser dans l&rsquo;ordre :
 
 Passer les burgers au four juste assez pour faire fondre le fromage.
 
-> Servir chaud avec des chips, des frites ou des <a href="http://www.instamiam.fr/potatoes-maison-au-four/" target="_blank">potatoes maison au four</a> !
+> Servir chaud avec des chips, de frites maison ou des potatoes maison au four ([Voir la recette des potaotes]({{< ref "category/legumes/potatoes-maison-au-four.md" >}}))

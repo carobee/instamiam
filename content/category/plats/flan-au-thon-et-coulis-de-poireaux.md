@@ -15,23 +15,19 @@ image:
   - 452
 image2: /images/2013/10/Flan-thon-2.jpg
 ingredients:
- - Pour le flan :
+ - Pour le flan
  - 4 œufs
  - 1 grosse boîte de thon au naturel (300 ou 400 g)
  - 20 cl de crème fraîche liquide
- - Pour le coulis :
+ - Pour le coulis
  - 3 ou 4 poireaux
  - 30 g de beurre
  - 20 cl de crème fraîche liquide
  - Sel, poivre
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 20M
-cooktime:
-  - 40M
-totaltime:
-  - 1H
+quantite: Pour 4 à 6 personnes
+preptime: 20M
+cooktime: 40M
+totaltime: 1H
 categories:
   - Plats
 mestags:

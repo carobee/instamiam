@@ -9,15 +9,18 @@ image:
   - 1273
 image2: /images/2016/11/cari-canard-2-650.jpg
 ingredients:
- - 3 beaux magrets - 3 ou 4 oignons - 3 ou 4 gousses d'ail - 1 kg de tomates (tomates pelées en conserve en hors-saison) - 1 cuillère à soupe de curcuma - thym, laurier - sel, poivre - Accompagnement : riz
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 1H
-totaltime:
-  - 1H10
+ - 3 beaux magrets
+ - 3 ou 4 oignons
+ - 3 ou 4 gousses d'ail
+ - 1 kg de tomates (tomates pelées en conserve en hors-saison)
+ - 1 cuillère à soupe de curcuma
+ - thym, laurier
+ - sel, poivre
+ - Accompagnement riz
+quantite: Pour 6 à 8 personnes
+preptime: 10M
+cooktime: 1H
+totaltime: 1H10
 rating:
   - 5
 votes:
@@ -50,10 +53,6 @@ Dès que les **oignons** sont un peu transparents, ajouter les **tomates** (enti
 
 Mélanger. Amener à ébullition puis baisser le feu et laisser mijoter 45 minutes.
 
-Servir avec du riz, des lentilles, et un [rougail de tomates][1] !
+Servir avec du riz, des lentilles, et un [rougail de tomates]({{< ref "category/legumes/rougail-de-tomates.md" >}})  !
 
 > Un grand merci à mon chéri pour sa recette !
-
-&nbsp;
-
- [1]: http://www.instamiam.fr/rougail-de-tomates/

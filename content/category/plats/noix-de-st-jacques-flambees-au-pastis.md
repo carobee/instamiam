@@ -9,7 +9,11 @@ image:
   - 1197
 image2: /images/2016/02/noix-st-jacques-pastis-2-650.jpg
 ingredients:
- - entre 4 et 8 noix de St Jacques par personne - un petit verre de pastis (10 cl) - de la crème fraiche liquide (20 cl) - beurre, sel, poivre - Accompagnement : riz
+ - entre 4 et 8 noix de St Jacques par personne
+ - un petit verre de pastis (10 cl)
+ - de la crème fraiche liquide (20 cl)
+ - beurre, sel, poivre
+ - 'Accompagnement : riz'
 quantite:
   - Pour 2 personnes
 preptime:
@@ -59,7 +63,7 @@ Faire flamber en approchant une flamme au dessus de la sauteuse. Faire tourner u
 Ajouter enfin un peu de **crème fraîche** et faire réduire la sauce.
 
 > **Info** : afin d&rsquo;éviter de cuire les noix trop longtemps (pour ne pas qu&rsquo;elles deviennent caoutchouteuses), vous pouvez les sortir de la sauteuse, dresser vos assiettes avec le riz, et faire réduire la sauce pendant ce temps. Vous pourrez ajouter la sauce au moment de servir.
-> 
+>
 > **Astuce** : cette recette peut également être servie en entrée. Pour cela, diminuer la quantité, et accompagner de quelques feuilles de roquette avec des carottes râpées.
 
 &nbsp;

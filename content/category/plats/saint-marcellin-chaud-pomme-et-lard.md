@@ -13,14 +13,10 @@ ingredients:
  - 4 tranches de lard fumé (2 tranches par fromage)
  - 1 pomme
  - poivre
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 5M
-cooktime:
-  - 10M
-totaltime:
-  - 15M
+quantite: Pour 2 personnes
+preptime: 5M
+cooktime: 10M
+totaltime: 15M
 rating:
   - 4
 votes:
@@ -49,10 +45,10 @@ Poser 2 tranches de **lard** en croix.
 
 Poser une rondelle de **pomme**, puis un **fromage** au centre de la croix et refermer les côtés du **lard**.
 
-**P****oivrer**.
+**Poivrer**.
 
 Enfourner pour 10 à 15 minutes selon la puissance du four.
 
 > Servir chaud, accompagné de haricots en fagots, s&rsquo;il vous reste du lard, ou accompagné d&rsquo;une salade verte.
-> 
+>
 > Selon les goûts, le Saint-Marcellin peut être remplacé par du fromage de chèvre (type Rocamadour par exemple)

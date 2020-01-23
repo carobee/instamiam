@@ -19,14 +19,10 @@ ingredients:
  - 1 gousse d'ail
  - 1 brique de 20cl d'amande cuisine
  - sel, poivre, huile
-quantite:
-  - Pour 3 personnes
-preptime:
-  - 10M
-cooktime:
-  - 40M
-totaltime:
-  - 50M
+quantite: Pour 3 personnes
+preptime: 10M
+cooktime: 40M
+totaltime: 50M
 categories:
   - Légumes
 mestags:

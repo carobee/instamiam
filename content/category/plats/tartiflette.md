@@ -7,17 +7,20 @@ url: /tartiflette/
 image1: /images/2017/12/tartiflette-1.jpg
 image:
   - 1393
-image2: /images/2017/12/tartiflette-2.jpg
+image2: /images/2017/12/tartiflette-2-650.jpg
 ingredients:
- - 1 reblochon fermier - 1 kg de pommes de terre - 300 g de poitrine fumée ou de lardons - 2 oignons moyens (300 g environ) - 1 gousse d'ail - Sel, poivre - huile - Vin blanc sec (facultatif)
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 40M
-cooktime:
-  - 20M
-totaltime:
-  - 1H
+ - 1 reblochon fermier
+ - 1 kg de pommes de terre
+ - 300 g de poitrine fumée ou de lardons
+ - 2 oignons moyens (300 g environ)
+ - 1 gousse d'ail
+ - Sel, poivre
+ - huile
+ - Vin blanc sec (facultatif)
+quantite: Pour 4 personnes
+preptime: 40M
+cooktime: 20M
+totaltime: 1H
 rating:
   - 5
 votes:

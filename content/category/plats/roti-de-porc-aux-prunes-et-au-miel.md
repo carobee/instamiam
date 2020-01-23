@@ -15,15 +15,19 @@ image:
   - 673
 image2: /images/2013/09/Rôti-prunes-3-650.jpg
 ingredients:
- - 1 rôti de porc de 1 kg - une vingtaine de prunes type reine-claude par exemple - 8 à 10 pommes de terre - 30 g de raisins secs - 3 cuillères à soupe de miel - 2 gousses d'ail - 1 cube de bouillon de volaille - beurre - sel, poivre
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 5M
-cooktime:
-  - 1H
-totaltime:
-  - 1H05M
+ - 1 rôti de porc de 1 kg
+ - une vingtaine de prunes type reine-claude par exemple
+ - 8 à 10 pommes de terre
+ - 30 g de raisins secs
+ - 3 cuillères à soupe de miel
+ - 2 gousses d'ail
+ - 1 cube de bouillon de volaille
+ - beurre
+ - sel, poivre
+quantite: Pour 4 personnes
+preptime: 5M
+cooktime: 1H
+totaltime: 1H05M
 categories:
   - Plats
 mestags:
@@ -56,7 +60,7 @@ Faire fondre le **cube de bouillon** dans de l&rsquo;eau bouillante, puis arrose
 Mettre au four pour 1 heure, en arrosant de temps en temps avec le jus de cuisson. Le rôti doit être doré.
 
 > Le temps de cuisson varie en fonction du poids du rôti : pour un rôti de porc, compter 1/2 heure pour 500 g de viande à 180°c
-> 
+>
 > Il est possible de remplacer les prunes par des pruneaux si ce n&rsquo;est pas la saison
-> 
+>
 > Recette trouvée sur marmiton !

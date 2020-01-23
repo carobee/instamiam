@@ -19,14 +19,10 @@ ingredients:
  - 1 cuillère à soupe de moutarde (facultatif)
  - 100 g de gruyère râpé
  - sel, poivre
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 20M
-cooktime:
-  - 20M
-totaltime:
-  - 40M
+quantite: Pour 4 à 6 personnes
+preptime: 20M
+cooktime: 20M
+totaltime: 40M
 rating:
   - 4
 votes:

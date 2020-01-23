@@ -9,15 +9,18 @@ image:
   - 1268
 image2: /images/2016/10/tarte-lardons-potiron-2-650.jpg
 ingredients:
- - 1/2 potiron (1,2 kg environ) - 1 cuillère à soupe de farine - 2 œufs - 1 cuillère à soupe de crème fraîche épaisse - 200 g de lardons - une <a title="Pâte brisée" href="http://www.instamiam.fr/pate-brisee/" target="_blank">pâte brisée</a> ou feuilletée - gruyère râpé - sel, poivre, noix de muscade
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 30M
-cooktime:
-  - 40M
-totaltime:
-  - 1H10M
+ - 1/2 potiron (1,2 kg environ)
+ - 1 cuillère à soupe de farine
+ - 2 œufs
+ - 1 cuillère à soupe de crème fraîche épaisse
+ - 200 g de lardons
+ - une pâte brisée ou feuilletée
+ - gruyère râpé
+ - sel, poivre, noix de muscade
+quantite: Pour 4 à 6 personnes
+preptime: 30M
+cooktime: 40M
+totaltime: 1H10M
 rating:
   - 5
 votes:
@@ -42,11 +45,11 @@ mestags:
   - tarte
 
 ---
-> Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (<a href="http://www.instamiam.fr/pate-brisee/" target="_blank">voir la recette de la pâte brisée très facile</a>).
+> Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais ([Voir la recette de la pâte brisée très facile]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
 
 Couper le **potiron** en gros tronçons, éplucher et rincer les morceaux, et les faire cuire à la vapeur pendant 25 à 30 minutes.
 
-> Suggestion : selon les gouts, il est possible de faire revenir le potiron coupé en petits dés à la poêle avec du beurre.
+> Suggestion : selon les goûts, il est possible de faire revenir le potiron coupé en petits dés à la poêle avec du beurre.
 
 Pendant ce temps, éplucher et émincer l&rsquo;**oignon**. Faire rissoler à la poêle les **lardons** et les **oignons** jusqu&rsquo;à ce qu&rsquo;ils soient transparents.
 
@@ -62,8 +65,6 @@ Recouvrir de **potiron** et aplanir la surface avec le dos d&rsquo;une cuillère
 
 Saupoudrer de **gruyère râpé** et enfourner pour 40 minutes.
 
-> <span class="userContent"><strong>Ne jetez plus les graines du potiron : Servez-les à l&rsquo;apéro !</strong><br /> Après les avoir nettoyées et séchées, mélangez-les avec un peu d&rsquo;huile et du sel, et passez-les au four (sur du papier sulfurisé, à 200°c, pendant 15 minutes). Remuez-les de temps en temps. Sortez-les du four quand elles commencent à éclater</span>.
-> 
-> Pour cuisiner des produits de saison, voir nos [recettes d&rsquo;automne][1]&#8230;
-
- [1]: http://www.instamiam.fr/tag/automne/
+> Ne jetez plus les graines du potiron : Servez-les à l&rsquo;apéro !
+> Après les avoir nettoyées et séchées, mélangez-les avec un peu d&rsquo;huile et du sel, et passez-les au four (sur du papier sulfurisé, à 200°c, pendant 15 minutes).
+> Remuez-les de temps en temps. Sortez-les du four quand elles commencent à éclater.

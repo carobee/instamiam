@@ -17,14 +17,10 @@ ingredients:
  - jus de citron
  - crème fraîche semi-épaisse de préférence (facultatif)
  - sel, poivre
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 5M
-cooktime:
-  - 6M
-totaltime:
-  - 11M
+quantite: Pour 2 personnes
+preptime: 5M
+cooktime: 6M
+totaltime: 11M
 categories:
   - Plats
 mestags:
@@ -39,7 +35,7 @@ mestags:
   - tomate
 
 ---
-_(Recette testée avec la papillote pour micro-ondes Lékué, avec la grille)_
+> (Recette testée avec la papillote pour micro-ondes Lékué, avec la grille)
 
 Couper la **tomate** en tranches fines (0.5 cm environ).
 

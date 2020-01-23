@@ -18,18 +18,14 @@ ingredients:
   - 50 à 100 g de parmesan
   - sel, poivre, noix de muscade
   - Béchamel
-  - "Ingrédients pour la béchamel :"
+  - 'Ingrédients pour la béchamel :'
   - 75 g de beurre
   - 75 g de farine
   - 75 cl de lait
-quantite:
-  - Pour 6 personnes
-preptime:
-  - 30M
-cooktime:
-  - 30M
-totaltime:
-  - 1H
+quantite: Pour 6 personnes
+preptime: 30M
+cooktime: 30M
+totaltime: 1H
 rating:
   - 5
 votes:
@@ -86,7 +82,7 @@ Ajouter un peu de **lait** et remuer avec un fouet. Continuer de remuer en versa
 
 Ajouter un peu de **parmesan**, du **sel**, du **poivre** et de la **muscade**.
 
-> Vous pouvez aussi préparer la béchamel au micro-ondes : <a href="http://www.instamiam.fr/bechamel-facile-au-micro-ondes/" target="_blank" rel="noopener">voir la recette de la béchamel au micro-ondes</a>
+> Vous pouvez aussi préparer la béchamel au micro-ondes : [Voir la recette de la Béchamel facile au micro-ondes]({{< ref "category/pratique-les-basiques/bechamel-facile-au-micro-ondes.md" >}})
 
 Réserver.
 

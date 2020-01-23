@@ -28,14 +28,10 @@ ingredients:
  - gruyère râpé
  - parmesan, chapelure (facultatif)
  - sel, poivre
-quantite:
-  - Pour 6 personnes
-preptime:
-  - 1H
-cooktime:
-  - 45M
-totaltime:
-  - 1H45M
+quantite: Pour 6 personnes
+preptime: 1H
+cooktime: 45M
+totaltime: 1H45M
 categories:
   - Plats
 mestags:
@@ -72,7 +68,7 @@ Ajouter le **bouquet garni**, saler, poivrer, puis ajouter la moitié du **bouil
 
 Baisser le feu et laisser mijoter. Mélanger de temps en temps et surveiller : si la sauce n&rsquo;est pas assez liquide, il faudra rajouter du bouillon.
 
-**Pendant ce temps, préparer la béchamel** (<a title="Béchamel facile au micro-ondes" href="http://www.instamiam.fr/bechamel-facile-au-micro-ondes/" target="_blank">voir recette de la béchamel facile</a>).
+**Pendant ce temps, préparer la béchamel** [Voir la recette de la Béchamel facile au micro-ondes]({{< ref "category/pratique-les-basiques/bechamel-facile-au-micro-ondes.md" >}}).
 
 Préchauffer le four thermostat 6 (180°c).
 

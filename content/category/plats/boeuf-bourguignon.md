@@ -9,15 +9,22 @@ image:
   - 893
 image2: /images/2014/05/bourguignon-2-650.jpg
 ingredients:
- - 2 kg de bœuf à bourguignon (collier, épaule, jarret) - 100 à 150 g d'olives vertes en bocal - 1 oignon - 200 g de lardons fumés - 70 g à 100 g de concentré de tomate - 1 litre de vin rouge (Bourgogne ou Côtes du Rhône de préférence) - 2 cuillères à soupe de farine - 10 pommes de terre - 3 carottes - huile d'olives - sel, poivre, herbes de Provence - Accompagnement : riz
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 30M
-cooktime:
-  - 3H
-totaltime:
-  - 3H30M
+ - 2 kg de bœuf à bourguignon (collier, épaule, jarret)
+ - 100 à 150 g d'olives vertes en bocal
+ - 1 oignon
+ - 200 g de lardons fumés
+ - 70 g à 100 g de concentré de tomate
+ - 1 litre de vin rouge (Bourgogne ou Côtes du Rhône de préférence)
+ - 2 cuillères à soupe de farine
+ - 10 pommes de terre
+ - 3 carottes
+ - huile d'olive
+ - sel, poivre, herbes de Provence
+ - Accompagnement riz
+quantite: Pour 6 à 8 personnes
+preptime: 30M
+cooktime: 3H
+totaltime: 3H30M
 rating:
   - 4.8888888888889
 votes:
@@ -35,7 +42,7 @@ mestags:
   - pomme de terre
   - repas du dimanche
   - vin rouge
-
+blabla: Plat du dimanche, à préparer la veille de préférence
 ---
 > Si possible, la veille ou quelques heures avant, mettre le bœuf dans un grand récipient et le recouvrir de vin rouge (conserver ensuite le vin rouge pour la cuisson)
 

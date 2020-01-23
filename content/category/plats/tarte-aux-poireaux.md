@@ -20,14 +20,10 @@ ingredients:
  - beurre
  - sel, poivre, muscade
  - Gruyère râpé ou chapelure pour gratiner
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 20M
-cooktime:
-  - 45M
-totaltime:
-  - 1H05M
+quantite: Pour 4 à 6 personnes
+preptime: 20M
+cooktime: 45M
+totaltime: 1H05M
 categories:
   - Plats
 mestags:
@@ -48,6 +44,8 @@ mestags:
   - tarte
 
 ---
+> Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais ([Voir la recette de la pâte brisée très facile]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
+
 Couper le bout et les feuilles vertes des **poireaux**. Entailler le haut dans le sens de la longueur pour les nettoyer sous un filet d&rsquo;eau. Couper en rondelles.
 
 Éplucher et émincer un **oignon**.
@@ -74,8 +72,4 @@ Ajouter le **fromage** ou la **chapelure**.
 
 Faire cuire à four chaud pendant 40 à 45 minutes.
 
-> Ne jetez pas les feuilles vertes inutilisées des poireaux : vous pouvez les utiliser pour une soupe ! Voir la recette : [http://www.instamiam.fr/soupe-legere-poireaux-oignons/][1]
-
-&nbsp;
-
- [1]: http://www.instamiam.fr/soupe-legere-poireaux-oignons/ "Soupe légère poireaux-oignons"
+> Ne jetez pas les feuilles vertes inutilisées des poireaux : vous pouvez les utiliser pour une soupe ! [Voir la recette de la soupe aux poireaux]({{< ref "category/legumes/soupe-legere-poireaux-oignons.md" >}})

@@ -21,15 +21,11 @@ ingredients:
  - sel, poivre, huile
  - graines de sésame (facultatif)
  - ciboulette ciselée (facultatif)
- - Accompagnement : riz basmati
-quantite:
-  - Pour 2 personnes
-preptime:
-  - 1M
-cooktime:
-  - 5M
-totaltime:
-  - 6M
+ - Accompagnement riz basmati
+quantite: Pour 2 personnes
+preptime: 1M
+cooktime: 5M
+totaltime: 6M
 categories:
   - Plats
 mestags:
@@ -49,7 +45,7 @@ Faire chauffer l&rsquo;**huile** dans une poêle ou une sauteuse à revêtement 
 Faire revenir les **crevettes** quelques minutes.
 
 > Si les crevettes étaient congelées, elles vont rendre de l&rsquo;eau. Dans ce cas, jeter le jus avant de passer à l&rsquo;étape suivante.
-> 
+>
 > Si les crevettes étaient crues, les faire revenir jusqu&rsquo;à ce qu&rsquo;elles soient cuites (la couleur passe de gris à rose)
 
 Ajouter le **curry**, le **sésame**, le **sel** et le **poivre**. Laisser 2 ou 3 minutes en remuant pour que le curry enrobe les crevettes.

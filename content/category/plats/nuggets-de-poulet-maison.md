@@ -9,15 +9,15 @@ image:
   - 1231
 image2: /images/2016/04/nuggets-poulet-maison-2-650.jpg
 ingredients:
- - Escalopes / filets de poulet (compter un peu moins que 1 escalope par personne) - Farine - Oeufs (1 ou 2) - Chapelure (ou pain sec maison) - de l'huile de friture
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 10M
-totaltime:
-  - 20M
+ - Escalopes / filets de poulet (compter un peu moins que 1 escalope par personne)
+ - Farine
+ - Oeufs (1 ou 2)
+ - Chapelure (ou pain sec maison)
+ - de l'huile de friture
+quantite: Pour 6 à 8 personnes
+preptime: 10M
+cooktime: 10M
+totaltime: 20M
 rating:
   - 5
 votes:
@@ -64,6 +64,4 @@ Bien faire chauffer l&rsquo;**huile** et plonger quelques morceaux de poulet en 
 
 Si vous les faites cuire bien avant de les servir, vous pouvez les faire réchauffer au four quelques minutes.
 
-> Servir pour l&rsquo;apéritif avec des sauces (ketchup, sauce barbecue ou moutarde), ou servir en plat avec des potatoes maison ([voir la recette des potatoes maison au four][1])
-
- [1]: http://www.instamiam.fr/potatoes-maison-au-four/
+> Servir pour l&rsquo;apéritif avec des sauces (ketchup, sauce barbecue ou moutarde), ou servir en plat avec des potatoes maison ([Voir la recette des potaotes]({{< ref "category/legumes/potatoes-maison-au-four.md" >}}))

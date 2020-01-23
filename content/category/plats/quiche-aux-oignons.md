@@ -23,14 +23,10 @@ ingredients:
  - moutarde
  - fromage râpé
  - sel, poivre, muscade
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 15M
-cooktime:
-  - 30M
-totaltime:
-  - 45M
+quantite: Pour 4 à 6 personnes
+preptime: 15M
+cooktime: 30M
+totaltime: 45M
 categories:
   - Plats
 mestags:
@@ -46,6 +42,8 @@ mestags:
   - végétarien
 
 ---
+> Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais ([Voir la recette de la pâte brisée très facile]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
+
 Préchauffer le four à 200°C (thermostat 7)
 
 Couper les **oignons** en deux, puis en lamelles dans le sens de la hauteur, afin de créer des lamelles et non des rondelles.

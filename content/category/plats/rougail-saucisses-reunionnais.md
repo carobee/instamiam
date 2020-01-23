@@ -13,16 +13,12 @@ ingredients:
  - 5-6 tomates (ou une conserve de tomates pelées si ce n'est pas la saison des tomates)
  - 3 oignons
  - 1 cuillère à soupe de curcuma
- - 1/2 cuillère à soupe de massalé
+ - 1/2 cuillère à soupe de massalé (facultatif)
  - sel, poivre, thym, huile
-quantite:
-  - Pour 3 à 4 personnes
-preptime:
-  - 30M
-cooktime:
-  - 30M
-totaltime:
-  - 1H
+quantite: Pour 3 à 4 personnes
+preptime: 30M
+cooktime: 30M
+totaltime: 1H
 rating:
   - 4.8478260869567
 votes:
@@ -57,10 +53,4 @@ Ajouter les **tomates**, le **sel**, le **poivre**, le **thym**, mélanger et re
 
 Après quelques minutes, diminuer le feu, et laisser mijoter à couvert pendant 20 minutes.
 
-> Servir avec du riz basmati, « des grains » (lentilles, haricots ou fèves en sauce), et un rougail froid en accompagnement ([voir la recette du rougail tomates][1]).
-
-&nbsp;
-
-&nbsp;
-
- [1]: http://www.instamiam.fr/rougail-de-tomates/ "Rougail de tomates"
+> Servir avec du riz basmati, « des grains » (lentilles, haricots ou fèves en sauce), et un rougail froid en accompagnement ([Voir la recette du rougail de tomates]({{< ref "category/legumes/rougail-de-tomates.md" >}})).

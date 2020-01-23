@@ -24,14 +24,10 @@ ingredients:
  - 2 gousses d'ail
  - huile d'olive
  - sel
-quantite:
-  - Pour 2 à 3 personnes
-preptime:
-  - 30M
-cooktime:
-  - 15M
-totaltime:
-  - 45M
+quantite: Pour 2 à 3 personnes
+preptime: 30M
+cooktime: 15M
+totaltime: 45M
 categories:
   - Légumes
 mestags:

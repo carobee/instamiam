@@ -9,7 +9,13 @@ image:
   - 1287
 image2: /images/2016/12/flamiche-poireaux-2_650.jpg
 ingredients:
- - 1 <a href="http://www.instamiam.fr/pate-brisee/" target="_blank">pâte brisée</a> - 2 gros poireaux (environ 1 kg) - 50 g de farine - 50 g de beurre - 1/2 litre de lait - 1 j'aune d'oeuf - sel, poivre, muscade
+ - 1 pâte brisée
+ - 2 gros poireaux (environ 1 kg)
+ - 50 g de farine
+ - 50 g de beurre
+ - 1/2 litre de lait
+ - 1 j'aune d'oeuf
+ - sel, poivre, muscade
 quantite:
   - Pour 4 à 6 parts
 preptime:
@@ -38,7 +44,7 @@ mestags:
 ---
 ## Au préalable :
 
-Préparer la pâte brisée (<a href="http://www.instamiam.fr/pate-brisee/" target="_blank">recette de la pâte brisée</a>). Pendant le temps de pose, préparer les poireaux.
+Préparer la pâte brisée ([Voir la recette de la pâte brisée]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})). Pendant le temps de pose, préparer les poireaux.
 
 ## Préparation :
 
@@ -64,4 +70,4 @@ Badigeonner le couvercle avec le **jaune d’œuf.**
 
 Enfourner pour 30 minutes à 180°C.
 
-> **Note** : Recette originale chez Chef Simon ici : <a href="http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/flamiche-aux-poireaux--5" target="_blank">http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/flamiche-aux-poireaux&#8211;5</a> (avec quelques explications détaillées en plus)
+> **Note** : Recette originale chez Chef Simon ici : [http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/flamiche-aux-poireaux--5](http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/flamiche-aux-poireaux--5) (avec quelques explications détaillées en plus)

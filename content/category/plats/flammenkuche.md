@@ -9,13 +9,13 @@ image:
   - 737
 image2: /images/2014/02/flammenkuche-2.jpg
 ingredients:
-  - "Pour la pâte :"
+  - Pour la pâte
   - 400 g de farine
   - 1 cuillère à soupe d'huile
   - 2 cuillères à café de sel
   - 1 sachet de levure de boulanger (8 g)
   - 20 à 30 cl d'eau tiède
-  - "Pour la garniture :"
+  - Pour la garniture
   - 40 cl de crème fraîche épaisse
   - 25 g de beurre
   - 2 gros oignons
@@ -26,14 +26,10 @@ rating:
   - 4.5714285714285
 votes:
   - 7
-quantite:
-  - Pour 6 personnes
-preptime:
-  - 1H
-cooktime:
-  - 20M
-totaltime:
-  - 1H20M
+quantite: Pour 6 personnes
+preptime: 1H
+cooktime: 20M
+totaltime: 1H20M
 categories:
   - Apéro
   - Plats

@@ -13,31 +13,16 @@ image:
   - 176
 image2: /images/2013/08/brochettes-poulet-2.jpg
 ingredients:
-  - "Pour les brochettes :"
   - 4 filets de poulet (ou dinde)
   - 1 barquette de tomates cerises (ou 3 tomates)
   - 1 oignon
   - 1 poivron vert (facultatif)
-  - "Pour la marinade :"
-  - 2 cuillères à soupe de sauce soja
-  - 2 cuillères à soupe d'huile d'olive
-  - 2 cuillères à soupe de jus de citron
-  - 1 cuillère à café de curry
-  - sel, poivre
-  - "Pour la sauce d'accompagnement :"
-  - fromage blanc
-  - 1 cuillère à soupe d'huile d'olive
-  - cuillère à soupe de moutarde
-  - ciboulette
-  - sel, poivre  
-quantite:
-  - Pour 4 personnes
-preptime:
-  - 1H
-cooktime:
-  - 10M
-totaltime:
-  - 1H10M
+  - Pour la marinade 2 cuillères à soupe de sauce soja, 2 cuillères à soupe d'huile d'olive, 2 cuillères à soupe de jus de citron, 1 cuillère à café de curry, sel, poivre
+  - Pour la sauce d'accompagnement fromage blanc, 1 cuillère à soupe d'huile d'olive, cuillère à soupe de moutarde, ciboulette, sel, poivre
+quantite: Pour 4 personnes
+preptime: 1H
+cooktime: 10M
+totaltime: 1H10M
 categories:
   - Plats
 mestags:
