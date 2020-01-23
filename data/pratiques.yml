@@ -1,0 +1,39 @@
+enable : true
+heading : Pratiques, les basiques
+headingSpan :
+serviceItem :
+  - title : Béchamel facile au micro-ondes
+    url : /bechamel-facile-au-micro-ondes
+
+  - title : Coulis de fraises
+    url : /coulis-de-fraises
+
+  - title : Crème anglaise
+    url : /creme-anglaise
+
+  - title : Cuisson des oeufs cocotte au micro-ondes
+    url : /cuisson-des-oeufs-cocotte-au-micro-ondes
+
+  - title : Glaçage au chocolat
+    url : /glacage-au-chocolat
+
+  - title : Cuisson du riz pilaf
+    url : /cuisson-du-riz-pilaf
+
+  - title : Pâte à crêpes sucrée
+    url : //pate-a-crepe-sucree
+
+  - title : Pâte à gaufres
+    url : /pate-a-gaufres
+
+  - title : Pâte brisée
+    url : /pate-brisee
+
+  - title : Sauce aux échalottes
+    url : /sauce-aux-echalotes/
+
+  - title : Semoule rapide au micro-ondes
+    url : /semoule-rapide-au-micro-ondes
+
+  - title : "Yaourts maison : recette de base"
+    url : /yaourts-maison-recette-de-base

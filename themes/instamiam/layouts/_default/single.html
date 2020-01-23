@@ -42,8 +42,10 @@
 
 
                 <!-- PHOTO 2 -->
-                {{ with .Params.image2 }}
-                  <img class="img-fluid mb-50" src="{{ . | absURL }}" alt="photo préparation recette">
+                {{ if .Params.image2 }}
+                  {{ with .Params.image2 }}
+                    <img class="img-fluid mb-50" src="{{ . | absURL }}" alt="photo préparation recette">
+                  {{ end }}
                 {{ end }}
 
                 <!-- INGREDIENTS -->

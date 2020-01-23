@@ -9,7 +9,7 @@ xyz_smap:
   - 1
 image:
   - 462
-image2: /images/2013/09/Oeufs-cocotte-microondes-2.jpg
+image2: /images/2013/09/Oeufs-cocotte-microondes-1.jpg
 ingredients:
  - 1 œuf
  - 1 cuillère à soupe de crème fraîche
@@ -50,4 +50,4 @@ Faire cuire 1 minute 20 au micro-ondes à 850W.
 
 Servir avec des mouillettes !
 
-Voir la recette des [oeufs cocotte paysanne]({{< ref "category/plats/oeufs-cocotte-paysanne.md" >}}) 
+Voir la recette des [oeufs cocotte paysanne]({{< ref "category/plats/oeufs-cocotte-paysanne.md" >}})

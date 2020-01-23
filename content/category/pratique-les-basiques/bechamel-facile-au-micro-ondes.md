@@ -7,7 +7,7 @@ url: /bechamel-facile-au-micro-ondes/
 image1: /images/2013/09/Béchamel-1.jpg
 image:
   - 688
-image2: /images/2013/09/Béchamel-2.jpg
+image2: /images/2013/09/Béchamel-1.jpg
 ingredients:
   - 1/2 litre de lait
   - 40 g de beurre

@@ -24,8 +24,8 @@ removePathAccents=true
     weight = 3
 
     [[menu.nav]]
-    name = "Recettes les mieux notées"
-    URL = "recettes-mieux-notees"
+    name = "Pratique les basiques"
+    URL = "pratiques-les-basiques"
     weight = 4
 
     [[menu.nav]]
@@ -35,7 +35,7 @@ removePathAccents=true
 
 # Site params
 [params]
-home= "Home"
+home= "Accueil"
 logo = "images/logo.png"
 # Meta data
 description = "Recettes simples, familiales et gourmandes"
