@@ -17,14 +17,10 @@ ingredients:
  - 100 g de sucre en poudre
  - 1 petit verre de rhum
  - 2 œufs
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 20M
-cooktime:
-  - 40M
-totaltime:
-  - 1H
+quantite: Pour 6 à 8 personnes
+preptime: 20M
+cooktime: 40M
+totaltime: 1H
 rating:
   - 4.6
 votes:

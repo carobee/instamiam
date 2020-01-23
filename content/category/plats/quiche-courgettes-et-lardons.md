@@ -10,14 +10,14 @@ image:
 image2: /images/2013/09/quiche-aux-courgettes-2.jpg
 ingredients:
  - 1 pâte feuilletée
-  - 2 petites courgettes
-  - 1 ou 2 oignons nouveaux
-  - 1 paquet de lardons fumés
-  - 20 cl de lait (ou crème fraîche)
-  - Persil frais ciselé (1 cuillère à soupe)
-  - Coriandre fraîche ciselée (1 cuillère à soupe)
-  - Gruyère râpé (facultatif )
-  - Moutarde, noix de muscade, sel, poivre
+ - 2 petites courgettes
+ - 1 ou 2 oignons nouveaux
+ - 1 paquet de lardons fumés
+ - 20 cl de lait (ou crème fraîche)
+ - Persil frais ciselé (1 cuillère à soupe)
+ - Coriandre fraîche ciselée (1 cuillère à soupe)
+ - Gruyère râpé (facultatif )
+ - Moutarde, noix de muscade, sel, poivre
 quantite: Pour 4 à 6 personnes
 preptime: 15M
 cooktime: 30M

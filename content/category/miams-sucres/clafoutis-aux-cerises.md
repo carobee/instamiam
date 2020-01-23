@@ -17,14 +17,10 @@ ingredients:
  - 25 g de beurre fondu
  - 25 cl de lait
  - 1 sachet de sucre vanillé (ou un peu de sucre glace)
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 40M
-totaltime:
-  - 50M
+quantite: Pour 6 à 8 personnes
+preptime: 10M
+cooktime: 40M
+totaltime: 50M
 rating:
   - 5
 votes:

@@ -9,15 +9,20 @@ image:
   - 871
 image2: /images/2014/04/muffins-pommes-2.jpg
 ingredients:
- - 250 g de farine - 1 sachet de levure - 150 g de sucre - 1 pincée de sel - 25 cl de lait - 2 oeufs - 75 g de beurre - 2 pommes - cannelle (facultatif) - 1 sachet de sucre vanillé (facultatif)
-quantite:
-  - Pour 12 muffins
-preptime:
-  - 20M
-cooktime:
-  - 25M
-totaltime:
-  - 45M
+ - 250 g de farine
+ - 1 sachet de levure
+ - 150 g de sucre
+ - 1 pincée de sel
+ - 25 cl de lait
+ - 2 oeufs
+ - 75 g de beurre
+ - 2 pommes
+ - cannelle (facultatif)
+ - 1 sachet de sucre vanillé (facultatif)
+quantite: Pour 12 muffins
+preptime: 20M
+cooktime: 25M
+totaltime: 45M
 rating:
   - 4.191489361702
 votes:

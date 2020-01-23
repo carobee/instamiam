@@ -9,15 +9,18 @@ image:
   - 1238
 image2: /images/2016/04/brownie-chocolat-2.jpg
 ingredients:
- - 180 g de beurre demi-sel - 200 g de chocolat - 180 g de sucre en poudre - 1 pincée de sel - 3 œufs et 1 jaune - 85 g de farine - 1 cuillère à café rase de levure - 15 g de cerneaux de noix (facultatif)
-quantite:
-  - Pour 8 personnes
-preptime:
-  - 20M
-cooktime:
-  - 20M
-totaltime:
-  - 40M
+ - 180 g de beurre demi-sel
+ - 200 g de chocolat
+ - 180 g de sucre en poudre
+ - 1 pincée de sel
+ - 3 œufs et 1 jaune
+ - 85 g de farine
+ - 1 cuillère à café rase de levure
+ - 15 g de cerneaux de noix (facultatif)
+quantite: Pour 8 personnes
+preptime: 20M
+cooktime: 20M
+totaltime: 40M
 rating:
   - 4.5
 votes:
@@ -38,6 +41,7 @@ mestags:
   - pique-nique
   - sucre
   - usa
+blabla: il est vraiment super bon !
 
 ---
 Préchauffer le four à 180°C (Thermostat 6)
@@ -55,11 +59,8 @@ Facultatif : Ajouter les **cerneaux de noix** (éventuellement coupés grossièr
 Verser dans un moule (carré ou rectangulaire) beurré et enfourner pendant 20 minutes environ. Le dessus doit être craquelé.
 
 > Servir de préférence au goûter, coupé en carrés, éventuellement accompagné d&rsquo;une boule de glace.
-> 
-> Cette recette est extraite de l&rsquo;excellent livre « **Cookies, muffins & Co** » de <a href="http://scally.typepad.com/" target="_blank" rel="noopener">Pascale Weeks</a> (FIRST Editions), (sauf que moi j&rsquo;ajoute des noix, mais sinon c&rsquo;est la même recette).
-> 
-> Si vous aimez le brownie, testez également le « Blondie » ([lien vers la recette du Blondie Chocolat-Café »][1])
-
-&nbsp;
-
- [1]: http://www.instamiam.fr/blondie-chocolat-cafe/
+>
+> Cette recette est extraite de l&rsquo;excellent livre « **Cookies, muffins & Co** » de [Pascale Weeks](http://scally.typepad.com/) (FIRST Editions), (sauf que moi j&rsquo;ajoute des noix, mais sinon c&rsquo;est la même recette).
+>
+> Si vous aimez le brownie, testez également le « Blondie » ([lien vers la recette du Blondie Chocolat-Café »]({{< ref "category/miams-sucres/blondie-chocolat-cafe.md" >}})
+)

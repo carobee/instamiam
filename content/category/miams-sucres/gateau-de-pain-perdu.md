@@ -19,14 +19,10 @@ ingredients:
  - 80 g de beurre
  - 1 cuillère à soupe de Maïzena
  - un bouchon d'eau de fleur d'oranger (facultatif)
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 10M
-cooktime:
-  - 15M
-totaltime:
-  - 25M
+quantite: Pour 4 à 6 personnes
+preptime: 10M
+cooktime: 15M
+totaltime: 25M
 rating:
   - 2
 votes:

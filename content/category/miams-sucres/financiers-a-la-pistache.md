@@ -12,19 +12,16 @@ ingredients:
  - 50 g de poudre d'amandes
  - 50 g de pistaches grillées non salées décortiquées (50 g de pistaches décortiquées correspond à environ 100 g de pistaches)
  - 100 g de sucre glace
+ - 50 g de farine
  - 75 g de beurre
  - 4 blancs d’œuf
  - 1 pincée de sel
  - 1/2 cuillère à café d'arôme d'amande amère (facultatif)
  - colorant alimentaire vert (facultatif)
-quantite:
-  - Pour 16 à 20 financiers
-preptime:
-  - 20M
-cooktime:
-  - 15M
-totaltime:
-  - 35M
+quantite: Pour 16 à 20 financiers
+preptime: 20M
+cooktime: 15M
+totaltime: 35M
 rating:
   - 4.5
 votes:
@@ -67,9 +64,7 @@ Faire cuire à 150°c pendant 15 à 20 minutes.
 Laisser tiédir avant de démouler pour éviter de les casser.
 
 > **Variante** : pour des financiers aux amandes, remplacer la pistache par 50 g de poudre d&rsquo;amandes et ne pas utiliser de colorant alimentaire.
-> 
+>
 > **Moules** : il est possible d&rsquo;utiliser des moules à muffins ou à madeleine.
-> 
-> **Suggestion** : Si vous ne voulez pas gâcher les jaunes d’œuf restants, vous pouvez les utiliser pour la crème anglaise ([voir la recette de la crème anglaise][1]). Vous pouvez également les congeler dans des bacs à glaçons (les décongeler à température ambiante, et les utiliser cuits uniquement)
-
- [1]: http://www.instamiam.fr/creme-anglaise/ "Crème anglaise"
+>
+> **Suggestion** : Si vous ne voulez pas gâcher les jaunes d’œuf restants, vous pouvez les utiliser pour la crème anglaise ([voir la recette de la crème anglaise]({{< ref "category/pratique-les-basiques/creme-anglaise.md" >}})). Vous pouvez également les congeler dans des bacs à glaçons (les décongeler à température ambiante, et les utiliser cuits uniquement)

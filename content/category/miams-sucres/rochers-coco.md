@@ -13,14 +13,10 @@ ingredients:
  - 200 g de sucre en poudre
  - 3 blancs d’œufs (entre 105 et 120 g de blancs d’œufs)
  - 1 pincée de sel
-quantite:
-  - Pour une vingtaine de rochers
-preptime:
-  - 10M
-cooktime:
-  - 30M
-totaltime:
-  - 40M
+quantite: Pour une vingtaine de rochers
+preptime: 10M
+cooktime: 30M
+totaltime: 40M
 rating:
   - 4.75
 votes:
@@ -54,9 +50,7 @@ Faire cuire 25 à 30 minutes en surveillant les rochers : ils ne doivent pas êt
 Laisser tiédir quelques minutes après la sortie du four et décoller les rochers de la feuille.
 
 > **Le saviez-vous ?** Il est possible de congeler des blancs (ou des jaunes) d’œufs afin de s&rsquo;en servir plus tard ! Pour cela, mettre les blancs d’œufs dans une boîte hermétique, et noter le nombre de blancs ainsi que la date. Lorsque vous voudrez les cuisiner, laisser décongeler à température ambiante, sans les passer au micro-ondes ! Et si vous aviez oublié de noter le nombre de blancs d’œufs congelés, l&rsquo;équivalence est de 35 à 40 g pour 1 blanc !
-> 
-> S&rsquo;il vous reste des jaunes après cette recette, vous pouvez faire une [crème anglaise][1] !
+>
+> S&rsquo;il vous reste des jaunes après cette recette, vous pouvez faire une [crème anglaise]({{< ref "category/pratique-les-basiques/creme-anglaise.md" >}})  !
 
 &nbsp;
-
- [1]: http://www.instamiam.fr/creme-anglaise/ "Crème anglaise"

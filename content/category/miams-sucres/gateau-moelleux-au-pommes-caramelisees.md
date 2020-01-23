@@ -25,14 +25,10 @@ ingredients:
  - 3 cuillères à soupe de jus d'orange (ou de rhum)
  - 15 g de beurre
  - un peu de sirop d'érable (facultatif)
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 15M
-cooktime:
-  - 30M
-totaltime:
-  - 45M
+quantite: Pour 6 à 8 personnes
+preptime: 15M
+cooktime: 30M
+totaltime: 45M
 categories:
   - Miams sucrés
 mestags:
@@ -68,6 +64,4 @@ Enfourner pour 30 à 40 minutes. Pour vérifier si le gâteau est cuit, piquer l
 
 Démouler rapidement.
 
-Encore meilleur avec une crème anglaise ! ([voir la recette de la crème anglaise][1])
-
- [1]: http://www.instamiam.fr/creme-anglaise/ "Crème anglaise"
+Encore meilleur avec une crème anglaise ! ([voir la recette de la crème anglaise]({{< ref "category/pratique-les-basiques/creme-anglaise.md" >}}))

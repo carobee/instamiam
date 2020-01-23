@@ -16,14 +16,10 @@ ingredients:
  - 120 g de raisins secs
  - un peu de rhum
  - du beurre pour le moule
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 1H
-cooktime:
-  - 1H
-totaltime:
-  - 2H
+quantite: Pour 6 à 8 personnes
+preptime: 1H
+cooktime: 1H
+totaltime: 2H
 rating:
   - 4.5625
 votes:
@@ -65,7 +61,7 @@ Saupoudrer d&rsquo;un peu de **cassonade** le dessus du plat, et ajouter un peu 
 Enfourner pour une heure à 180°c.
 
 > A déguster froid !
-> 
-> Cette recette vient du super chouette site Ch&rsquo;ti « **Ça drache en Nord** » : <a href="http://www.ca-drache.fr/recette/dessert/gateau/pain-dchien/" target="_blank">http://www.ca-drache.fr/recette/dessert/gateau/pain-dchien/</a>
+>
+> Cette recette vient du super chouette site Ch&rsquo;ti « **Ça drache en Nord** » : [http://www.ca-drache.fr/recette/dessert/gateau/pain-dchien/](http://www.ca-drache.fr/recette/dessert/gateau/pain-dchien/)
 
 &nbsp;

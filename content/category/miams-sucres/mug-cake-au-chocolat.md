@@ -15,15 +15,18 @@ image:
   - 429
 image2: /images/2013/10/Mugcake-chocolat-2.jpg
 ingredients:
- - 40 g de beurre - 40 g de chocolat - 1 œuf - 20 ml de lait - 20 g de sucre en poudre - 20 g de farine - 1 pincée de sel - 1 goutte de rhum (facultatif)
-quantite:
-  - Pour 1 personne
-preptime:
-  - 1M
-cooktime:
-  - 1M
-totaltime:
-  - 2M
+ - 40 g de beurre
+ - 40 g de chocolat
+ - 1 œuf
+ - 20 ml de lait
+ - 20 g de sucre en poudre
+ - 20 g de farine
+ - 1 pincée de sel
+ - 1 goutte de rhum (facultatif)
+quantite: Pour 1 personne
+preptime: 1M
+cooktime: 1M
+totaltime: 2M
 categories:
   - Miams sucrés
 mestags:
@@ -55,7 +58,7 @@ Faire cuire 45 secondes au micro-ondes.
 Déguster quelques minutes après la sortie du micro-ondes.
 
 > Ce mug cake à la texture d&rsquo;un fondant au chocolat !!
-> 
+>
 > Si jamais vous voulez faire 2 mug cake en même temps, penser à doubler les temps de cuisson
-> 
+>
 > Les temps de cuisson varient en fonction de la puissance de votre four. Ici, la recette est réalisée avec un Micro-Ondes à 850W

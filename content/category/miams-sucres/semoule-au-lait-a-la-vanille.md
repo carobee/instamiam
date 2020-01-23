@@ -9,15 +9,15 @@ image:
   - 1449
 image2: /images/2018/04/semoule-au-lait-2-650.jpg
 ingredients:
- - 50 cl de lait - 50 g de sucre en poudre (ou 40 g de sucre en poudre et 1 sachet de sucre vanillé) - 50 g de semoule de blé fine - 1 cuillère à soupe de vanille liquide (ou 1 gousse de vanille) - 1 poignée de raisins secs (facultatif)
-quantite:
-  - Pour 4 à 5 pots
-preptime:
-  - 1M
-cooktime:
-  - 5M
-totaltime:
-  - 6M
+ - 50 cl de lait
+ - 50 g de sucre en poudre (ou 40 g de sucre en poudre et 1 sachet de sucre vanillé)
+ - 50 g de semoule de blé fine
+ - 1 cuillère à soupe de vanille liquide (ou 1 gousse de vanille)
+ - 1 poignée de raisins secs (facultatif)
+quantite: Pour 4 à 5 pots
+preptime: 1M
+cooktime: 5M
+totaltime: 6M
 rating:
   - 5
 votes:

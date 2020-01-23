@@ -7,7 +7,7 @@ url: /flamiche-aux-poireaux/
 image1: /images/2016/12/flamiche-poireaux-1_650.jpg
 image:
   - 1287
-image2: /images/2016/12/flamiche-poireaux-2_650.jpg
+image2: /images/2016/12/flamiche-poireaux-2-650.jpg
 ingredients:
  - 1 pâte brisée
  - 2 gros poireaux (environ 1 kg)

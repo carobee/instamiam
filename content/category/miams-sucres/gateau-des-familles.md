@@ -18,15 +18,11 @@ ingredients:
  - 120 g de beurre
  - 90 g de sucre en poudre
  - 25 cl de café bien fort
- - Décor : copeaux de chocolat, vermicelle ou <a title="Glaçage au chocolat" href="http://www.instamiam.fr/glacage-au-chocolat/">glaçage au chocolat</a>
-quantite:
-  - pour 12 personnes
-preptime:
-  - 12H
-cooktime:
-  - 1H
-totaltime:
-  - 13H
+ - 'Décor : copeaux de chocolat, vermicelle ou glaçage au chocolat'
+quantite: pour 12 personnes
+preptime: 12H
+cooktime: 1H
+totaltime: 13H
 categories:
   - Miams sucrés
 mestags:
@@ -59,17 +55,14 @@ Prendre un plat de service « plat », de préférence carré ou rectangulaire
 
 Alterner ensuite : une couche de biscuits trempés dans le café, une couche de crème, etc&#8230; jusqu&rsquo;à la fin.
 
-**Dernière couche** : Terminer par une couche de biscuits si vous envisagez de recouvrir le gâteau d&rsquo;un [glaçage au chocolat][1] ; terminer par une couche de crème si vous voulez recouvrir le gâteau de copeaux de chocolat ou de vermicelles.
+**Dernière couche** : Terminer par une couche de biscuits si vous envisagez de recouvrir le gâteau d&rsquo;un [glaçage au chocolat]({{ < ref "category/pratique-les-basiques/glacage-au-chocolat.md" > }}) ; terminer par une couche de crème si vous voulez recouvrir le gâteau de copeaux de chocolat ou de vermicelles.
 
 **Laisser au réfrigérateur au moins une demi-journée, au mieux une journée avant de déguster !**
 
 Décorer avant de servir.
 
 > Vous pouvez également préparer « à l&rsquo;assiette » des mini-gâteaux individuels !
-> 
-> S&rsquo;il vous reste des biscuits, vous pouvez les utiliser dans des yaourts maison : [Yaourts au Thé Brun][2]
-> 
+>
+> S&rsquo;il vous reste des biscuits, vous pouvez les utiliser dans des yaourts maison : [Yaourts au Thé Brun]({{ < ref "category/yaourts/yaourts-aux-biscuits-the-bruns.md" > }})
+>
 > La recette originale était imprimée au dos des paquets de biscuits « Thé Brun » de Lu !
-
- [1]: http://www.instamiam.fr/glacage-au-chocolat/ "Glaçage au chocolat"
- [2]: http://www.instamiam.fr/yaourts-aux-biscuits-the-brun/ "Yaourts aux biscuits « Thé Brun »"

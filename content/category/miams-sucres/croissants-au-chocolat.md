@@ -9,15 +9,15 @@ image:
   - 848
 image2: /images/2014/03/croissants-chocolat-2-650x650.jpg
 ingredients:
- - un rouleau de pâte feuilletée - 4 carré de chocolat à cuire - 2 ou 3 cuillères à soupe de Nesquick - 4 morceaux de beurre - une tasse de lait
-quantite:
-  - Pour 4 croissants
-preptime:
-  - 5M
-cooktime:
-  - 10M
-totaltime:
-  - 15M
+ - un rouleau de pâte feuilletée
+ - 4 carré de chocolat à cuire
+ - 2 ou 3 cuillères à soupe de Nesquick
+ - 4 morceaux de beurre
+ - une tasse de lait
+quantite: Pour 4 croissants
+preptime: 5M
+cooktime: 10M
+totaltime: 15M
 rating:
   - 5
 votes:

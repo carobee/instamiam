@@ -9,15 +9,21 @@ image:
   - 1401
 image2: /images/2017/12/sos-cookies-2-650.jpg
 ingredients:
- - 250 g de farine - 100 g de flocons d'avoine - (ou 350 g de farine) - 1 sachet de levure - 1 cuillère à café de sel - 100 g de chocolat blanc dessert - 100 g de chocolat noir dessert - 100 g de sucre roux - 100 g de sucre blanc - 100 g de noisettes (ou noix, noix de pecan ou un mélange de plusieurs noix) - 1 bocal de 1 litre qui ferme bien
-quantite:
-  - Pour 1 bocal de 1 litre
-preptime:
-  - 10M
-cooktime:
-  - 0M
-totaltime:
-  - 10M
+ - 250 g de farine
+ - 100 g de flocons d'avoine
+ - (ou 350 g de farine)
+ - 1 sachet de levure
+ - 1 cuillère à café de sel
+ - 100 g de chocolat blanc dessert
+ - 100 g de chocolat noir dessert
+ - 100 g de sucre roux
+ - 100 g de sucre blanc
+ - 100 g de noisettes (ou noix, noix de pecan ou un mélange de plusieurs noix)
+ - 1 bocal de 1 litre qui ferme bien
+quantite: Pour 1 bocal de 1 litre
+preptime: 10M
+cooktime: 0M
+totaltime: 10M
 rating:
   - 5
 votes:
@@ -39,11 +45,10 @@ mestags:
   - offrir
   - sucre
   - sucre roux
+blabla: Pour faire plaisir sans se ruiner, un cadeau DIY c'est l'idéal. Et quand, en plus, c'est un cadeau fait pour se régaler, c'est encore mieux !
 
 ---
-> Pour faire plaisir sans se ruiner, un cadeau DIY c&rsquo;est l&rsquo;idéal. Et quand, en plus, c&rsquo;est un cadeau fait pour se régaler, c&rsquo;est encore mieux !
-> 
-> J&rsquo;ai eu envie de tester cette recette après la lecture de ce billet : « <a href="https://www.papillesetpupilles.fr/2009/10/cookies-pour-cadeau-gourmand-ou-sos.html/" target="_blank" rel="noopener">SOS Cookies, à ouvrir en cas d’urgence ! Cookies pour cadeau gourmand</a> » chez Papilles et Pupilles. J&rsquo;ai adapté les ingrédients pour faire le SOS cookies à partir de ma recette de « <a href="http://www.instamiam.fr/cookies-aux-deux-chocolats-et-aux-noisettes/" target="_blank" rel="noopener">Cookies aux deux chocolats et aux noisettes »</a>. Ici, j&rsquo;utilise un bocal de 1 litre donc j&rsquo;ai doublé les quantités. Si vous utilisez un bocal d&rsquo;une contenance différente, il faudra recalculer les quantités proportionnellement.
+> J&rsquo;ai eu envie de tester cette recette après la lecture de ce billet : « [SOS Cookies, à ouvrir en cas d’urgence ! Cookies pour cadeau gourmand](https://www.papillesetpupilles.fr/2009/10/cookies-pour-cadeau-gourmand-ou-sos.html/) » chez Papilles et Pupilles. J&rsquo;ai adapté les ingrédients pour faire le SOS cookies à partir de ma recette de « [Cookies aux deux chocolats et aux noisettes]({{< ref "category/miams-sucres/cookies-aux-deux-chocolats-et-aux-noisettes.md" >}})». Ici, j&rsquo;utilise un bocal de 1 litre donc j&rsquo;ai doublé les quantités. Si vous utilisez un bocal d&rsquo;une contenance différente, il faudra recalculer les quantités proportionnellement.
 
 ### Préparer les ingrédients :
 
@@ -80,4 +85,4 @@ Une fois le bocal rempli et fermé, il faut préparer une étiquette qui indique
   * Faire cuire au four pendant 8 à 10 minutes. Les cookies doivent être juste dorés.
   * Laisser refroidir sur une grille pendant 2 minutes.
 
-> Pour mieux voir comment préparer la pâte à cookies et comment former les boules, j&rsquo;avais aussi préparé une vidéo, qui est visible sur la page de la recette : <a href="http://www.instamiam.fr/cookies-aux-deux-chocolats-et-aux-noisettes/" target="_blank" rel="noopener">http://www.instamiam.fr/cookies-aux-deux-chocolats-et-aux-noisettes/</a>
+> Pour mieux voir comment préparer la pâte à cookies et comment former les boules, j&rsquo;avais aussi préparé une vidéo, qui est visible sur la page de la recette : [Cookies aux deux chocolats et aux noisettes]({{< ref "category/miams-sucres/cookies-aux-deux-chocolats-et-aux-noisettes.md" >}})

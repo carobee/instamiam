@@ -11,15 +11,20 @@ image:
   - 669
 image2: /images/2013/09/Muffins-fruits-confits-2.jpg
 ingredients:
- - 250 g de farine - 3 cuillères à café de levure - 100 g de sucre - 1 pincée de sel - 125 ml de lait - 2 œufs - 75 g de beurre demi sel - 150 g de fruits confits - 50 g de raisins secs - Rhum (facultatif)
-quantite:
-  - Pour 12 muffins
-preptime:
-  - 20M
-cooktime:
-  - 25M
-totaltime:
-  - 45M
+ - 250 g de farine
+ - 3 cuillères à café de levure
+ - 100 g de sucre
+ - 1 pincée de sel
+ - 125 ml de lait
+ - 2 œufs
+ - 75 g de beurre demi sel
+ - 150 g de fruits confits
+ - 50 g de raisins secs
+ - Rhum (facultatif)
+quantite: Pour 12 muffins
+preptime: 20M
+cooktime: 25M
+totaltime: 45M
 categories:
   - Miams sucrés
 mestags:

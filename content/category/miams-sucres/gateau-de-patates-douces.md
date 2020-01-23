@@ -9,15 +9,17 @@ image:
   - 1260
 image2: /images/2016/10/gateau-patates-douces-2-650.jpg
 ingredients:
- - 600 de patates douces blanches - 80 g de sucre roux - 40 g de farine - 100 g de beurre - 2 œufs - vanille - 2 cuillères à soupe de Rhum (ou d'eau de fleur d'oranger)
-quantite:
-  - Pour 8 personnes
-preptime:
-  - 20M
-cooktime:
-  - 20M
-totaltime:
-  - 40M
+ - 600 de patates douces blanches
+ - 80 g de sucre roux
+ - 40 g de farine
+ - 100 g de beurre
+ - 2 œufs
+ - vanille
+ - 2 cuillères à soupe de Rhum (ou d'eau de fleur d'oranger)
+quantite: Pour 8 personnes
+preptime: 20M
+cooktime: 20M
+totaltime: 40M
 rating:
   - 5
 votes:
@@ -44,16 +46,16 @@ mestags:
 
 ---
 Éplucher les patates douces, les couper en gros tronçons et les cuire à la vapeur.
-  
+
 Les réduire en purée à l&rsquo;aide d&rsquo;une fourchette (éviter d&rsquo;utiliser un robot car cela casse les fibres et la purée devient filandreuse).
 
-Ajouter le beurre et mélanger.
+Ajouter le **beurre** et mélanger.
 
-Ajouter les œufs et mélanger.
+Ajouter les **œufs** et mélanger.
 
-Ajouter le sucre et la farine et mélanger.
+Ajouter le **sucre** et la **farine** et mélanger.
 
-Ajouter la vanille et le rhum.
+Ajouter la **vanille** et le **rhum**.
 
 Beurrer un moule à manqué ou un moule à cake.
 
@@ -63,8 +65,6 @@ Pour vérifier si le gâteau est cuit, planter une lame de couteau au centre du 
 
 Déguster froid ou tiède, selon les goûts.
 
-> Pour plus de détails, consulter cette vidéo de Christian Antou, du site <a href="http://goutanou.re/" target="_blank">goutanou.re</a> :
+> Pour plus de détails, consulter cette vidéo de Christian Antou, du site [goutanou.re](http://goutanou.re/) :
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/bKxgU0uQtig" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube bKxgU0uQtig>}}

@@ -9,15 +9,15 @@ image:
   - 683
 image2: /images/2013/09/Panna-cotta-2.jpg
 ingredients:
- - 500 ml de lait de coco - 2 g d'agar agar - 3 cuillères à soupe de miel (ou de sucre roux en poudre, ou 2 cuillères à soupe de sirop d'agave pour une version vegan) - 1 cuillère à café de vanille en poudre - l'accompagnement choisi : coulis de fraises (<a title="Coulis de fraises" href="http://www.instamiam.fr/coulis-de-fraises/" target="_blank" rel="noopener">voir la recette du coulis de fraises</a>), ou caramel liquide, ou chocolat liquide, etc...
-quantite:
-  - Pour 5 personnes
-preptime:
-  - 1H
-cooktime:
-  - 2M
-totaltime:
-  - 1H
+ - 500 ml de lait de coco
+ - 2 g d'agar agar
+ - 3 cuillères à soupe de miel (ou de sucre roux en poudre, ou 2 cuillères à soupe de sirop d'agave pour une version vegan)
+ - 1 cuillère à café de vanille en poudre
+ - "l'accompagnement choisi : coulis de fraises, ou caramel liquide, ou chocolat liquide, etc..."
+quantite: Pour 5 personnes
+preptime: 1H
+cooktime: 2M
+totaltime: 1H
 rating:
   - 4.027777777778
 votes:
@@ -49,10 +49,10 @@ Verser dans des pots en verre (des pots pour yaourt, des verrines ou à défaut 
 
 Laisser refroidir un peu, puis placer au réfrigérateur 1 heure.
 
-Au moment de servir, ajouter le coulis (caramel liquide, coulis de mangue, <a title="Coulis de fraises" href="http://www.instamiam.fr/coulis-de-fraises/" target="_blank" rel="noopener">coulis de fraises</a>, chocolat liquide&#8230;)
+Au moment de servir, ajouter le coulis (caramel liquide, coulis de mangue, [Coulis de fraises]({{< ref "category/pratique-les-basiques/coulis-de-fraises.md" >}}), chocolat liquide&#8230;)
 
 > Si vous manquez de temps, vous pouvez placer les pots au congélateur pour faire solidifier la panna cotta plus vite.
-> 
+>
 > Il est possible de pencher un peu les pots dans le réfrigérateur afin de donner un effet plus « stylé » à votre dessert !
-> 
-> Cette recette vient du site « Gourmandise sans lactose » : <a href="http://gourmandisesanslactose.blogspot.fr/2013/08/panna-cotta-coco-mangue.html" target="_blank" rel="noopener">http://gourmandisesanslactose.blogspot.fr/2013/08/panna-cotta-coco-mangue.html</a>
+>
+> Cette recette vient du site « Gourmandise sans lactose » : [http://gourmandisesanslactose.blogspot.fr/2013/08/panna-cotta-coco-mangue.html](http://gourmandisesanslactose.blogspot.fr/2013/08/panna-cotta-coco-mangue.html)

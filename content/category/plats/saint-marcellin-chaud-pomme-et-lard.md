@@ -7,7 +7,7 @@ url: /saint-marcellin-chaud-pomme-et-lard/
 image1: /images/2014/04/saint-marcellin-lard-1.jpg
 image:
   - 882
-image2: /images/2014/04/saint-marcellin-lard-2.jpg
+image2: /images/2014/04/st-marcelin-lard-2.jpg
 ingredients:
  - 2 fromages Saint-Marcellin (compter 1 fromage par personne)
  - 4 tranches de lard fumé (2 tranches par fromage)

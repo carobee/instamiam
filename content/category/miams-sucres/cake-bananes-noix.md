@@ -12,15 +12,20 @@ image:
 image2: /images/2013/11/cake-bananes-noix-2.jpg
 ingredients:
  - (Utiliser un mug pour les mesures)
-  - 1/4 de tasse de beurre fondu (env. 70 g) - 2 tasses de farine (env. 300 g) - 3/4 de tasse de sucre en poudre (env. 190 g) - 1 sachet de levure - 1/2 cuillère à café de sel - 1/2 tasse de noix hachées (env. 70 g) - 2 oeufs - 1/4 de tasse de lait (env. 1 dl) - 1 cuillère à café de vanille (liquide ou en poudre) - 1 banane et demie coupé (ou 2 petites bananes)
-quantite:
-  - Pour 6 à 8 personnes
-preptime:
-  - 10M
-cooktime:
-  - 40M
-totaltime:
-  - 50M
+  - 1/4 de tasse de beurre fondu (env. 70 g)
+  - 2 tasses de farine (env. 300 g)
+  - 3/4 de tasse de sucre en poudre (env. 190 g)
+  - 1 sachet de levure
+  - 1/2 cuillère à café de sel
+  - 1/2 tasse de noix hachées (env. 70 g)
+  - 2 oeufs
+  - 1/4 de tasse de lait (env. 1 dl)
+  - 1 cuillère à café de vanille (liquide ou en poudre)
+  - 1 banane et demie coupée (ou 2 petites bananes)
+quantite: Pour 6 à 8 personnes
+preptime: 10M
+cooktime: 40M
+totaltime: 50M
 rating:
   - 4
 votes:

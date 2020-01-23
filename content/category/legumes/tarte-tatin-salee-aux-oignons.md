@@ -37,6 +37,12 @@ mestags:
   - vinaigre balsamique
 
 ---
+## Au préalable :
+
+Préparer la pâte brisée ([Voir la recette de la pâte brisée]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
+
+## Préparation :
+
 Préchauffer le four à 180°c (Th. 6)
 
 Éplucher les **oignons**, les couper en deux dans le sens de la hauteur, et trancher finement chaque moitié.

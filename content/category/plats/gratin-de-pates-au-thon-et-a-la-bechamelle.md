@@ -9,7 +9,7 @@ xyz_smap:
   - 1
 image:
   - 540
-image2: /images/2013/11/gratin-pates-thon-bechamel-2.jpg
+image2: /images/2013/11/gratin-pates-2.jpg
 ingredients:
  - 400 g de macaroni
  - 400 g de thon en boîte

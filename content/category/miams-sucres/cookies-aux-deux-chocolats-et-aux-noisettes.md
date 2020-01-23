@@ -9,15 +9,21 @@ image:
   - 837
 image2: /images/2014/03/cookies-choco-noisettes-2-650.jpg
 ingredients:
- - 125 g de beurre demi-sel mou - 50 g de sucre en poudre - 50 g de sucre roux - 1 cuillère à café d'extrait de vanille - 1 oeuf - 175 g de farine - 1 cuillère à café rase de levure chimique - 1 pincée de sel - 50 g de chocolat noir pour dessert - 50 g de chocolat blanc pour dessert - 50 g de noisettes décortiquées
-quantite:
-  - 20 à 30 cookies
-preptime:
-  - 20M
-cooktime:
-  - 10M
-totaltime:
-  - 30M
+ - 125 g de beurre demi-sel mou
+ - 50 g de sucre en poudre
+ - 50 g de sucre roux
+ - 1 cuillère à café d'extrait de vanille
+ - 1 oeuf
+ - 175 g de farine
+ - 1 cuillère à café rase de levure chimique
+ - 1 pincée de sel
+ - 50 g de chocolat noir pour dessert
+ - 50 g de chocolat blanc pour dessert
+ - 50 g de noisettes décortiquées
+quantite: 20 à 30 cookies
+preptime: 20M
+cooktime: 10M
+totaltime: 30M
 rating:
   - 5
 votes:
@@ -70,11 +76,9 @@ Dès la fin de la cuisson, sortir la plaque du four et y déposer la suivante.
 Laisser refroidir deux minutes, puis déposer les cookies sur une grille pour les faire refroidir. Conserver dans une boîte en fer.
 
 > Cette recette est librement inspirée de l&rsquo;excellentissime petit livre de Pascale Weeks « Cookies, muffins & Co ».
-> 
+>
 > Il est possible de remplacer les noisettes par des noix de pécan ou des noix.
 
-### Recettes des cookies en vidéo :
+### Recette des cookies en vidéo :
 
-<div class="video-container">
-  <iframe src="//www.youtube.com/embed/bX6D00wIw_0?list=UUhcSUQwuQF5BA84sJ1VXnLA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
+{{< youtube bX6D00wIw_0>}}

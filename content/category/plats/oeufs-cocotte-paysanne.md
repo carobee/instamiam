@@ -58,4 +58,6 @@ Faire cuire 6 à 8 minutes au bain-marie : le blanc de l&rsquo;œuf doit être p
 
 Dès la sortie du four, enlever les ramequins du bain-marie pour éviter qu&rsquo;ils ne continuent de cuire, et servir aussitôt.
 
-## Cuisson au micro-ondes : [Voir la technique de cuisson des oeufs cocotte au micro-ondes]({{< ref "category/pratique-les-basiques/cuisson-des-oeufs-cocotte-au-micro-ondes.md" >}})
+## Cuisson au micro-ondes :
+
+[Voir la technique de cuisson des oeufs cocotte au micro-ondes]({{< ref "category/pratique-les-basiques/cuisson-des-oeufs-cocotte-au-micro-ondes.md" >}})

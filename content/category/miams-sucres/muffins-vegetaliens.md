@@ -19,14 +19,10 @@ ingredients:
   - 1 mug de crème de soja liquide
   - 2 cuillères à café d’eau de fleur d’oranger (facultatif)
   - "garniture au choix : noix, noisettes, morceaux de chocolat, etc..., 100 à 150 g environ"
-quantite:
-  - Pour 20 à 30 mini-muffins, 6 à 10 muffins
-preptime:
-  - 10M
-cooktime:
-  - 20M
-totaltime:
-  - 30M
+quantite: Pour 20 à 30 mini-muffins, 6 à 10 muffins
+preptime: 10M
+cooktime: 20M
+totaltime: 30M
 categories:
   - Miams sucrés
 mestags:
@@ -58,4 +54,4 @@ Faire cuire pendant 20 minutes pour des mini-muffins et 30 minutes pour des gros
 
 Laisser refroidir avant de démouler.
 
-> J&rsquo;ai trouvé cette recette sur le site de Lilith : <a href="http://www.lilithlifestyle.fr/ma-recette-inratable-de-muffins-vegetaliens/" target="_blank">http://www.lilithlifestyle.fr/ma-recette-inratable-de-muffins-vegetaliens/</a>. Je n&rsquo;ai pas mis de fleur d&rsquo;oranger, et j&rsquo;ai ajouté du chocolat coupé en morceaux.
+> J&rsquo;ai trouvé cette recette sur le site de Lilith : [http://www.lilithlifestyle.fr/ma-recette-inratable-de-muffins-vegetaliens/](http://www.lilithlifestyle.fr/ma-recette-inratable-de-muffins-vegetaliens/). Je n&rsquo;ai pas mis de fleur d&rsquo;oranger, et j&rsquo;ai ajouté du chocolat coupé en morceaux.

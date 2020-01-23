@@ -9,15 +9,20 @@ image:
   - 1209
 image2: /images/2016/02/gateau-carottes-2-650.jpg
 ingredients:
- - 250 g de carottes - 2 oeufs - 100 g de sucre en poudre (blanc ou roux) - 50 g de farine - 10 g de levure chimique - 60 g de noisettes en poudre - 70 g d'amandes en poudre - 25 ml d'huile - 1 pincée de sel - facultatif : un peu de cannelle ou un peu de vanille en poudre
-quantite:
-  - Pour 4 à 6 personnes
-preptime:
-  - 10M
-cooktime:
-  - 40M
-totaltime:
-  - 50M
+ - 250 g de carottes
+ - 2 oeufs
+ - 100 g de sucre en poudre (blanc ou roux)
+ - 50 g de farine
+ - 10 g de levure chimique
+ - 60 g de noisettes en poudre
+ - 70 g d'amandes en poudre
+ - 25 ml d'huile
+ - 1 pincée de sel
+ - 'facultatif : un peu de cannelle ou un peu de vanille en poudre'
+quantite: Pour 4 à 6 personnes
+preptime: 10M
+cooktime: 40M
+totaltime: 50M
 rating:
   - 4.25
 votes:

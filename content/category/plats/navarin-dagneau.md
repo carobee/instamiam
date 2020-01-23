@@ -1,5 +1,5 @@
 ---
-title: 'Navarin d&rsquo;agneau'
+title: "Navarin d'agneau"
 author: Caro
 type: recette
 date: 2018-03-27T10:51:56+00:00

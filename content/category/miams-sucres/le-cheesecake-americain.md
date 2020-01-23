@@ -15,14 +15,10 @@ ingredients:
  - 3 œufs (3 jaunes et 3 blancs séparés)
  - 125 g de sucre en poudre
  - extrait de vanille
-quantite:
-  - Pour 8 personnes
-preptime:
-  - 20M
-cooktime:
-  - 30M
-totaltime:
-  - 50M
+quantite: Pour 8 personnes
+preptime: 20M
+cooktime: 30M
+totaltime: 50M
 rating:
   - 3.8749999999999
 votes:
@@ -62,4 +58,4 @@ Mettre au réfrigérateur au minimum 3 heures.
 
 Sortir 30 minutes du réfrigérateur avant de déguster.
 
-> Recette originale d&rsquo;Emma sur le site Cuisine Américaine : <a href="http://www.cuisineamericaine-cultureusa.com/le-vrai-cheesecake-americain-recette-et-conseils/" target="_blank">http://www.cuisineamericaine-cultureusa.com/le-vrai-cheesecake-americain-recette-et-conseils/</a>
+> Recette originale d&rsquo;Emma sur le site Cuisine Américaine : [http://www.cuisineamericaine-cultureusa.com/le-vrai-cheesecake-americain-recette-et-conseils/](http://www.cuisineamericaine-cultureusa.com/le-vrai-cheesecake-americain-recette-et-conseils/)

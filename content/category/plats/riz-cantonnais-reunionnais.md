@@ -11,7 +11,7 @@ votes:
   - 5
 image:
   - 712
-image2: /images/2013/08/riz-cantonnais-2.jpg
+image2: /images/2013/08/riz-cantonais-2.jpg
 ingredients:
  - 2 kg de riz (préférer un riz long grain à un riz basmati pour la consistance)
  - 400 g de petites crevettes (de préférence cuites et décortiquées)

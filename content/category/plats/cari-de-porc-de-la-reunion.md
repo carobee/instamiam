@@ -7,7 +7,7 @@ url: /cari-de-porc-de-la-reunion/
 image1: /images/2014/01/cari-porc-réunion-1.jpg
 image:
   - 564
-image2: /images/2014/01/cari-porc-réunion-2.jpg
+image2: /images/2014/01/cari-de-porc-reunion-2.jpg
 ingredients:
  - 600 g d'épaule de porc désossée ou de sauté de porc
  - 2 oignons
