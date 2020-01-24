@@ -2,66 +2,40 @@
 
 {{ partial "navigation.html" . }}
 
-<div itemscope itemtype="http://schema.org/Recipe" style="display:none">
-  <span itemprop="name">Recette {{ .Title }}</span>
-  By <span itemprop="author">{{ .Params.author }}</span>,
-  <meta itemprop="datePublished" content="{{ .Date.Year }}-{{ .Date.Month }}-{{ .Date.Day }}">{{ .Date.Year }}-{{ .Date.Month }}-{{ .Date.Day }}
-  <img itemprop="image" src="{{ .Params.image1 }}"
-       alt="Photo recette {{ .Title }}" />
-  <span itemprop="description">{{ with .Params.blabla}}{{.}}{{else}}{{ .Summary }}{{end}}</span>
-  Prep Time: <meta itemprop="prepTime" content="PT{{ .Params.preptime }}">{{ .Params.preptime }}
-  Cook time: <meta itemprop="cookTime" content="PT{{ .Params.cooktime }}">{{ .Params.cooktime }}
-  Ingredients:
-  {{ range .Params.ingredients }}
-  - <span itemprop="recipeIngredient">{{- . -}}</span>
-  {{ end }}
-  Mots-clés:
-  {{ range .Params.mestags }}
-  - <span itemprop="keywords">{{- . -}}</span>
-  {{ end }}
-  Catégorie:
-  {{ range .Params.categories }}
-  <span itemprop="recipeCategory">{{- . -}}</span>
-  {{ end }}
-  Instructions:
-  <span itemprop="recipeInstructions">{{ .Content }}</span>
-  Note:
-  <div itemprop="aggregateRating"
-    itemscope itemtype="http://schema.org/AggregateRating">
-   Rated <span itemprop="ratingValue">{{ .Params.rating }}</span>/5
-   based on <span itemprop="reviewCount">{{ .Params.votes }}</span> customer reviews
-  </div>
-</div>
+{{ partial "microformats.html" }}
 
 <section class="section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 offset-lg-2 text-center">
+            <div class="col-lg-8 offset-lg-2 text-left">
               <!-- PHOTO 1 -->
               {{ with .Params.image1 }}<img class="img-fluid mb-50 photo-miniature" src="{{ . | absURL }}" alt="blog-image">{{ end }}
               <h1>{{ .Title }}</h1>
                 <p>Publié par <a href="/author/{{ urlize .Params.author}}">{{ .Params.author }}</a> le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
-                <!-- CATEGORIES & TAGS -->
-                <ul class="list-mestags">
-                  <i class="tf-ion-pricetags"></i>
-                  {{ range .Params.categories }}
-                   <li>
-                     <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-                       {{- . -}}
-                     </a>
-                   </li>
-                  {{ end }}
-                  {{ range .Params.mestags }}
-                   <li>
-                     <a href="{{ "/tag/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-                       {{- . -}}
-                     </a>
-                   </li>
-                  {{ end }}
-                </ul>
+                
+                {{ if .Params.categories }}
+                  <!-- CATEGORIES & TAGS -->
+                  <ul class="list-mestags">
+                    <i class="tf-ion-pricetags"></i>
+                    {{ range .Params.categories }}
+                    <li>
+                      <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+                        {{- . -}}
+                      </a>
+                    </li>
+                    {{ end }}
+                    {{ range .Params.mestags }}
+                    <li>
+                      <a href="{{ "/tag/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+                        {{- . -}}
+                      </a>
+                    </li>
+                    {{ end }}
+                  </ul>
+                {{ end }}
               </div>
 
-              <div class="col-lg-12 text-center">
+              <div class="col-lg-12 text-left">
                 <!-- BLABLA -->
                 {{ if .Params.blabla }}
                 <div class="col-lg-8 offset-lg-2">
@@ -80,6 +54,7 @@
                 {{ end }}
 
                 <!-- INGREDIENTS -->
+                {{ if .Params.ingredients }}
                 <div class="col-lg-8 offset-lg-2 box-ingredients">
                   <p class="donnees-recette">
                     <i class="tf-ion-ios-people"></i>&nbsp;
@@ -97,12 +72,15 @@
                     {{ end }}
                   </ul>
                 </div>
+                {{ end }}
 
                 <!-- CONTENU -->
                 <div class="col-lg-10 offset-lg-1">
                     <div class="post-single-content">
                         {{ .Content }}
-                        {{ partial "share_post" . }}
+                        {{ if (isset .Params.type "recette") }}
+                          {{ partial "share_post" . }}
+                        {{ end }}
                         <!-- {{ partial "post_comments" . }} -->
                     </div>
                 </div>
