@@ -20,10 +20,8 @@ quantite: Pour 1 personne
 preptime: 1M
 cooktime: 2M
 totaltime: 3M
-rating:
-  - 3
-votes:
-  - 2
+rating: 3
+votes: 2
 categories:
   - Légumes
   - 'Pratique : Les basiques'

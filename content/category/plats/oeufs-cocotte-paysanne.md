@@ -7,10 +7,8 @@ url: /oeufs-cocotte-paysanne/
 image1: /images/2013/10/Oeufs-cocotte-paysane-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.1
-votes:
-  - 10
+rating: 4.1
+votes: 10
 image:
   - 467
 image2: /images/2013/10/Oeufs-cocotte-paysane-2.jpg

@@ -2,6 +2,37 @@
 
 {{ partial "navigation.html" . }}
 
+<div itemscope itemtype="http://schema.org/Recipe" style="display:none">
+  <span itemprop="name">Recette {{ .Title }}</span>
+  By <span itemprop="author">{{ .Params.author }}</span>,
+  <meta itemprop="datePublished" content="{{ .Date.Year }}-{{ .Date.Month }}-{{ .Date.Day }}">{{ .Date.Year }}-{{ .Date.Month }}-{{ .Date.Day }}
+  <img itemprop="image" src="{{ .Params.image1 }}"
+       alt="Photo recette {{ .Title }}" />
+  <span itemprop="description">{{ with .Params.blabla}}{{.}}{{else}}{{ .Summary }}{{end}}</span>
+  Prep Time: <meta itemprop="prepTime" content="PT{{ .Params.preptime }}">{{ .Params.preptime }}
+  Cook time: <meta itemprop="cookTime" content="PT{{ .Params.cooktime }}">{{ .Params.cooktime }}
+  Ingredients:
+  {{ range .Params.ingredients }}
+  - <span itemprop="recipeIngredient">{{- . -}}</span>
+  {{ end }}
+  Mots-clés:
+  {{ range .Params.mestags }}
+  - <span itemprop="keywords">{{- . -}}</span>
+  {{ end }}
+  Catégorie:
+  {{ range .Params.categories }}
+  <span itemprop="recipeCategory">{{- . -}}</span>
+  {{ end }}
+  Instructions:
+  <span itemprop="recipeInstructions">{{ .Content }}</span>
+  Note:
+  <div itemprop="aggregateRating"
+    itemscope itemtype="http://schema.org/AggregateRating">
+   Rated <span itemprop="ratingValue">{{ .Params.rating }}</span>/5
+   based on <span itemprop="reviewCount">{{ .Params.votes }}</span> customer reviews
+  </div>
+</div>
+
 <section class="section">
     <div class="container">
         <div class="row">
