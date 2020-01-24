@@ -24,10 +24,8 @@ quantite: 20 à 30 cookies
 preptime: 20M
 cooktime: 10M
 totaltime: 30M
-rating:
-  - 5
-votes:
-  - 19
+rating: 5
+votes: 19
 categories:
   - Miams sucrés
 mestags:

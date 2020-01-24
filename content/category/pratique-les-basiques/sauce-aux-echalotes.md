@@ -18,10 +18,8 @@ quantite: Pour 3 à 4 parts
 preptime: 5M
 cooktime: 15M
 totaltime: 20M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - 'Pratique : Les basiques'
 mestags:

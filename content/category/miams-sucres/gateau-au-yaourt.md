@@ -17,10 +17,8 @@ ingredients:
  - 1/2 sachet de levure
  - "Arôme au choix : 1 zeste de citron, de l'extrait de café, de la fleur d'oranger, un sachet de sucre vanillé, etc..."
  - un peu de beurre pour le moule
-rating:
-  - 4.875
-votes:
-  - 8
+rating: 4.875
+votes: 8
 quantite: Pour 6 à 8 personnes
 preptime: 10M
 cooktime: 30M

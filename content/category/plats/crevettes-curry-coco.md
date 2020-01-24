@@ -7,10 +7,8 @@ url: /crevettes-curry-coco/
 image1: /images/2013/09/Crevettes-curry-coco-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 5
-votes:
-  - 7
+rating: 5
+votes: 7
 image:
   - 667
 image2: /images/2013/09/Crevettes-curry-coco-2.jpg

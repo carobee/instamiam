@@ -19,10 +19,8 @@ quantite: Pour 8 personnes
 preptime: 20M
 cooktime: 30M
 totaltime: 50M
-rating:
-  - 3.8749999999999
-votes:
-  - 16
+rating: 3.8749999999999
+votes: 16
 categories:
   - Miams sucrés
 mestags:

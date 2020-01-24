@@ -5,10 +5,8 @@ type: recette
 date: 2014-02-12T14:41:08+00:00
 url: /panna-cotta-salee-au-parmesan-et-tomates-sechees/
 image1: /images/2014/02/pannacotta-parmesan-1.jpg
-rating:
-  - 4.6923076923076
-votes:
-  - 13
+rating: 4.6923076923076
+votes: 13
 image:
   - 604
 image2: /images/2014/02/pannacotta-parmesan-2.jpg

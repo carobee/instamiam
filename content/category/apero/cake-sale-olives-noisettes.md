@@ -23,10 +23,8 @@ quantite: Pour 4 à 6 personnes
 preptime: 10M
 cooktime: 1H
 totaltime: 1H10M
-rating:
-  - 4
-votes:
-  - 1
+rating: 4
+votes: 1
 categories:
   - Apéro
 mestags:

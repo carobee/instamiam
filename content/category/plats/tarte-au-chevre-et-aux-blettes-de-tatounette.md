@@ -19,10 +19,8 @@ quantite: Pour 6 parts
 preptime: 10M
 cooktime: 20M
 totaltime: 30M
-rating:
-  - 4
-votes:
-  - 1
+rating: 4
+votes: 1
 categories:
   - Légumes
   - Plats

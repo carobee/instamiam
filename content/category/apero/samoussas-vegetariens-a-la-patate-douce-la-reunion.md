@@ -26,10 +26,8 @@ quantite: Pour 6/8 personnes
 preptime: 1H
 cooktime: 5M
 totaltime: 1H
-rating:
-  - 5
-votes:
-  - 3
+rating: 5
+votes: 3
 categories:
   - Apéro
   - Légumes

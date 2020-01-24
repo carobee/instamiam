@@ -19,10 +19,8 @@ quantite: Pour 10 à 15 verrines (de contenance 50 ml)
 preptime: 2H
 cooktime: 20M
 totaltime: 2H20M
-rating:
-  - 4.1818181818182
-votes:
-  - 11
+rating: 4.1818181818182
+votes: 11
 categories:
   - Apéro
 mestags:

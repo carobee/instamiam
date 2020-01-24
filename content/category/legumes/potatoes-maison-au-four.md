@@ -5,10 +5,8 @@ type: recette
 date: 2016-12-04T21:45:28+00:00
 url: /potatoes-maison-au-four/
 image1: /images/2013/09/Potatoes-1.jpg
-rating:
-  - 4.0705882352942
-votes:
-  - 85
+rating: 4.0705882352942
+votes: 85
 image:
   - 985
 image2: /images/2013/09/Potatoes-2.jpg

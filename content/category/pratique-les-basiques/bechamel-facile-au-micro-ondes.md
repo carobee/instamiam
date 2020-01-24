@@ -13,10 +13,8 @@ ingredients:
   - 40 g de beurre
   - 4 cuillères à soupe de farine
   - sel, poivre, noix de muscade
-rating:
-  - 4.8333333333333
-votes:
-  - 6
+rating: 4.8333333333333
+votes: 6
 quantite: Pour 1/2 litre de béchamel
 preptime: 5M
 cooktime: 2M

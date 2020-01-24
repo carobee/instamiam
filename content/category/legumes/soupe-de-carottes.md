@@ -5,10 +5,8 @@ type: recette
 date: 2016-01-20T21:23:00+00:00
 url: /soupe-de-carottes/
 image1: /images/2014/01/soupe-carottes-1.jpg
-rating:
-  - 4.5
-votes:
-  - 2
+rating: 4.5
+votes: 2
 image:
   - 560
 image2: /images/2014/01/soupe-carottes-2.jpg

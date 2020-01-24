@@ -7,10 +7,8 @@ url: /mug-cake-cookie-aux-pepites-de-chocolat/
 image1: /images/2013/10/Mugcake-pépites-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.3571428571427
-votes:
-  - 42
+rating: 4.3571428571427
+votes: 42
 image:
   - 456
 image2: /images/2013/10/Mugcake-pépites-2.jpg

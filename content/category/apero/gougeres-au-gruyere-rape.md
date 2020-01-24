@@ -7,10 +7,8 @@ url: /gougeres-au-gruyere-rape/
 image1: /images/2013/11/gougeres-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.2
-votes:
-  - 5
+rating: 4.2
+votes: 5
 image:
   - 502
 image2: /images/2013/11/gougères-2.jpg

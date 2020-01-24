@@ -18,10 +18,8 @@ quantite: Pour 5 personnes
 preptime: 1H
 cooktime: 2M
 totaltime: 1H
-rating:
-  - 4.027777777778
-votes:
-  - 72
+rating: 4.027777777778
+votes: 72
 categories:
   - Miams sucrés
 mestags:

@@ -17,10 +17,8 @@ quantite: Pour 2 personnes
 preptime: 5M
 cooktime: 10M
 totaltime: 15M
-rating:
-  - 4
-votes:
-  - 1
+rating: 4
+votes: 1
 categories:
   - Plats
 mestags:

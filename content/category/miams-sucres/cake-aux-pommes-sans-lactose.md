@@ -26,10 +26,8 @@ cooktime:
   - 45M
 totaltime:
   - 1H
-rating:
-  - 4.1665714285716
-votes:
-  - 70
+rating: 4.1665714285716
+votes: 70
 categories:
   - Miams sucrés
 mestags:

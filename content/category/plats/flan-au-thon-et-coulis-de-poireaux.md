@@ -7,10 +7,8 @@ url: /flan-au-thon-et-coulis-de-poireaux/
 image1: /images/2013/10/Flan-thon-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.5
-votes:
-  - 2
+rating: 4.5
+votes: 2
 image:
   - 452
 image2: /images/2013/10/Flan-thon-2.jpg

@@ -5,10 +5,8 @@ type: recette
 date: 2015-04-21T06:50:19+00:00
 url: /gateau-des-familles/
 image1: /images/2014/02/gateau-des-familles-1.jpg
-rating:
-  - 4.0714285714285
-votes:
-  - 28
+rating: 4.0714285714285
+votes: 28
 image:
   - 593
 image2: /images/2014/02/gateau-des-familles-2.jpg

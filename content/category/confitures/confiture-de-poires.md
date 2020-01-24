@@ -7,10 +7,8 @@ url: /confiture-de-poires/
 image1: /images/2013/10/confiture-de-poires-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 3.2
-votes:
-  - 5
+rating: 3.2
+votes: 5
 image:
   - 446
 image2: /images/2013/10/confiture-de-poires-2.jpg

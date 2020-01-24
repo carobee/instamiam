@@ -22,10 +22,8 @@ quantite: Pour 3 à 4 parts
 preptime: 10M
 cooktime: 20M
 totaltime: 30M
-rating:
-  - 5
-votes:
-  - 6
+rating: 5
+votes: 6
 categories:
   - Plats
 mestags:

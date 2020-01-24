@@ -23,10 +23,8 @@ quantite: Pour environ 50 samoussas
 preptime: 1H
 cooktime: 10M
 totaltime: 1H10M
-rating:
-  - 5
-votes:
-  - 4
+rating: 5
+votes: 4
 categories:
   - Apéro
 mestags:

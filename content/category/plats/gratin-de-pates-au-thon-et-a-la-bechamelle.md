@@ -23,10 +23,8 @@ quantite: Pour 4 à 6 personnes
 preptime: 20M
 cooktime: 20M
 totaltime: 40M
-rating:
-  - 4
-votes:
-  - 5
+rating: 4
+votes: 5
 categories:
   - Plats
 mestags:

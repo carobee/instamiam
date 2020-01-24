@@ -5,10 +5,8 @@ type: recette
 date: 2013-09-01T17:09:41+00:00
 url: /fougasse-aux-olives/
 image1: /images/2013/09/fougasse-aux-olives.jpg
-rating:
-  - 4.5
-votes:
-  - 2
+rating: 4.5
+votes: 2
 image:
   - 705
 image2: /images/2013/09/fougasse-aux-olives-650.jpg

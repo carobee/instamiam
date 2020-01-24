@@ -5,10 +5,8 @@ type: recette
 date: 2013-08-24T10:15:27+00:00
 url: /yaourts-aux-biscuits-the-brun/
 image1: /images/2013/08/yaourts-the-brun.jpg
-rating:
-  - 5
-votes:
-  - 4
+rating: 5
+votes: 4
 xyz_smap:
   - 1
 image:

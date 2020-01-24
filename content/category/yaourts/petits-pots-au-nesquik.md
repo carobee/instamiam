@@ -16,10 +16,8 @@ quantite: Pour 3 à 4 personnes
 preptime: 5M
 cooktime: 10M
 totaltime: 15M
-rating:
-  - 4.1666666666667
-votes:
-  - 6
+rating: 4.1666666666667
+votes: 6
 categories:
   - Miams sucrés
   - Yaourts

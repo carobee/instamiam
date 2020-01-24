@@ -5,10 +5,8 @@ type: recette
 date: 2013-09-11T08:00:38+00:00
 url: /quiche-aux-oignons/
 image1: /images/2013/09/tarte-aux-oignons-1.jpg
-rating:
-  - 4.5
-votes:
-  - 2
+rating: 4.5
+votes: 2
 xyz_smap:
   - 1
 image:

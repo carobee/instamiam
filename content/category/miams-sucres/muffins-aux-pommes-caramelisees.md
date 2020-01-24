@@ -23,10 +23,8 @@ quantite: Pour 12 muffins
 preptime: 20M
 cooktime: 25M
 totaltime: 45M
-rating:
-  - 4.191489361702
-votes:
-  - 47
+rating: 4.191489361702
+votes: 47
 categories:
   - Miams sucrés
 mestags:

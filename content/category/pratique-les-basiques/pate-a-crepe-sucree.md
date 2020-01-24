@@ -19,10 +19,8 @@ quantite: Pour 4 à 6 personnes
 preptime: 1H
 cooktime: 10M
 totaltime: 1H10M
-rating:
-  - 4.7
-votes:
-  - 10
+rating: 4.7
+votes: 10
 categories:
   - Miams sucrés
   - 'Pratique : Les basiques'

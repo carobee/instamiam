@@ -21,10 +21,8 @@ quantite: Pour 8 personnes
 preptime: 20M
 cooktime: 20M
 totaltime: 40M
-rating:
-  - 4.5
-votes:
-  - 4
+rating: 4.5
+votes: 4
 categories:
   - Miams sucrés
 mestags:
@@ -41,7 +39,7 @@ mestags:
   - pique-nique
   - sucre
   - usa
-blabla: il est vraiment super bon !
+blabla: Il est vraiment super bon !
 
 ---
 Préchauffer le four à 180°C (Thermostat 6)

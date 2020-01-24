@@ -17,10 +17,8 @@ quantite: Pour une vingtaine de rochers
 preptime: 10M
 cooktime: 30M
 totaltime: 40M
-rating:
-  - 4.75
-votes:
-  - 4
+rating: 4.75
+votes: 4
 categories:
   - Miams sucrés
 mestags:

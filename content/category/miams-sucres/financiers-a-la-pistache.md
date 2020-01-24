@@ -22,10 +22,8 @@ quantite: Pour 16 à 20 financiers
 preptime: 20M
 cooktime: 15M
 totaltime: 35M
-rating:
-  - 4.5
-votes:
-  - 2
+rating: 4.5
+votes: 2
 categories:
   - Miams sucrés
 mestags:

@@ -5,10 +5,8 @@ type: recette
 date: 2017-06-10T18:33:09+00:00
 url: /brochettes-de-poulet-marine/
 image1: /images/2013/08/brochettes-poulet.jpg
-rating:
-  - 4.6666666666667
-votes:
-  - 3
+rating: 4.6666666666667
+votes: 3
 image:
   - 176
 image2: /images/2013/08/brochettes-poulet-2.jpg

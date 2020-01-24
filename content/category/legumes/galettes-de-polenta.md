@@ -18,10 +18,8 @@ quantite: Pour 2 personnes
 preptime: 10M
 cooktime: 5M
 totaltime: 15M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Légumes
   - 'Pratique : Les basiques'

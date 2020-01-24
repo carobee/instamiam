@@ -5,10 +5,8 @@ type: recette
 date: 2013-09-15T08:00:28+00:00
 url: /lasagnes-a-la-bolognaise/
 image1: /images/2013/09/Lasagnes-1.jpg
-rating:
-  - 3.4
-votes:
-  - 5
+rating: 3.4
+votes: 5
 image:
   - 679
 image2: /images/2013/09/Lasagnes-2.jpg

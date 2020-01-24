@@ -7,10 +7,8 @@ url: /aubergines-parmigiana/
 image1: /images/2013/09/Aubergines-parmigiana-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.25
-votes:
-  - 4
+rating: 4.25
+votes: 4
 image:
   - 675
 image2: /images/2013/09/Aubergines-parmigiana-2.jpg

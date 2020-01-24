@@ -5,10 +5,8 @@ type: recette
 date: 2018-07-25T15:47:50+00:00
 url: /marmelade-d-abricots/
 image1: /images/2017/06/confiture-abricots-1-650.jpg
-rating:
-  - 5
-votes:
-  - 5
+rating: 5
+votes: 5
 image:
   - 1315
 image2: /images/2017/06/confiture-abricots-2-650.jpg

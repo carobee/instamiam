@@ -17,10 +17,8 @@ quantite: Pour environ 3/4 de litre de coulis
 preptime: 5M
 cooktime: 0M
 totaltime: 5M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Miams sucrés
   - 'Pratique : Les basiques'

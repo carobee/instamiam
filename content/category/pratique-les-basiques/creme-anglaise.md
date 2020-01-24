@@ -17,10 +17,8 @@ quantite: Pour 6 personnes
 preptime: 10M
 cooktime: 30M
 totaltime: 40M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - 'Pratique : Les basiques'
 mestags:

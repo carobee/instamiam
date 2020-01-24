@@ -5,10 +5,8 @@ type: recette
 date: 2013-08-27T14:28:13+00:00
 url: /riz-cantonnais-reunionnais/
 image1: /images/2013/08/riz-cantonnais.jpg
-rating:
-  - 4.6
-votes:
-  - 5
+rating: 4.6
+votes: 5
 image:
   - 712
 image2: /images/2013/08/riz-cantonais-2.jpg

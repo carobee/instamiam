@@ -17,10 +17,8 @@ ingredients:
  - 1 pincée de sel
  - 1 cuillère à café de levure
  - 75 g de chocolat noir
-rating:
-  - 5
-votes:
-  - 6
+rating: 5
+votes: 6
 quantite: Pour 8 personnes
 preptime: 10M
 cooktime: 15M

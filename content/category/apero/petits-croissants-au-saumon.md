@@ -7,10 +7,8 @@ url: /petits-croissants-au-saumon/
 image1: /images/2013/09/Croissants-saumon-2.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.7
-votes:
-  - 10
+rating: 4.7
+votes: 10
 image:
   - 419
 image2: /images/2013/09/Croissants-saumon-1.jpg

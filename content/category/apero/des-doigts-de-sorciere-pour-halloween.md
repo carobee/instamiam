@@ -7,10 +7,8 @@ url: /des-doigts-de-sorciere-pour-halloween/
 image1: /images/2013/10/Doigts-de-sorciere-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.1666666666667
-votes:
-  - 6
+rating: 4.1666666666667
+votes: 6
 image:
   - 484
 image2: /images/2013/10/Doigts-sorcière-2.jpg

@@ -26,10 +26,8 @@ quantite: Pour 6 personnes
 preptime: 30M
 cooktime: 30M
 totaltime: 1H
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Légumes
   - 'Pratique : Les basiques'

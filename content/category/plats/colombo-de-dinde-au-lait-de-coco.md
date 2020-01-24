@@ -5,10 +5,8 @@ type: recette
 date: 2014-02-11T22:32:47+00:00
 url: /colombo-de-dinde-au-lait-de-coco/
 image1: /images/2014/02/colombo-dinde-1.jpg
-rating:
-  - 3.8181818181818
-votes:
-  - 11
+rating: 3.8181818181818
+votes: 11
 image:
   - 599
 image2: /images/2014/02/colombo-dinde-2.jpg

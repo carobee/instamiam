@@ -7,10 +7,8 @@ url: /ratatouille-2/
 image1: /images/2013/08/ratatouille.jpg
 ex_show_in_slideshow:
   - Yes
-rating:
-  - 4.75
-votes:
-  - 4
+rating: 4.75
+votes: 4
 image:
   - 108
 image2: /images/2013/08/ratatouille.jpg

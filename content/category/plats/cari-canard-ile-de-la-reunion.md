@@ -21,10 +21,8 @@ quantite: Pour 6 à 8 personnes
 preptime: 10M
 cooktime: 1H
 totaltime: 1H10
-rating:
-  - 5
-votes:
-  - 3
+rating: 5
+votes: 3
 categories:
   - Plats
 mestags:

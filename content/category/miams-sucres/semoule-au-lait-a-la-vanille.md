@@ -18,10 +18,8 @@ quantite: Pour 4 à 5 pots
 preptime: 1M
 cooktime: 5M
 totaltime: 6M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Miams sucrés
 mestags:

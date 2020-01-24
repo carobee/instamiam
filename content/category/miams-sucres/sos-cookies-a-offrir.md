@@ -24,10 +24,8 @@ quantite: Pour 1 bocal de 1 litre
 preptime: 10M
 cooktime: 0M
 totaltime: 10M
-rating:
-  - 5
-votes:
-  - 4
+rating: 5
+votes: 4
 categories:
   - Miams sucrés
 mestags:

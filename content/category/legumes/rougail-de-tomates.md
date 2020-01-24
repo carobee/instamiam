@@ -18,10 +18,8 @@ quantite: Pour 3 à 4 personnes
 preptime: 15M
 cooktime: 0M
 totaltime: 15M
-rating:
-  - 4.75
-votes:
-  - 8
+rating: 4.75
+votes: 8
 categories:
   - Légumes
 mestags:

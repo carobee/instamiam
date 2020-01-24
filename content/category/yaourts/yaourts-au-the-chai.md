@@ -7,10 +7,8 @@ url: /yaourts-au-the-chai/
 image1: /images/2013/08/yaourts-chai.jpg
 ex_show_in_slideshow:
   - Yes
-rating:
-  - 4
-votes:
-  - 1
+rating: 4
+votes: 1
 xyz_smap:
   - 1
 image:

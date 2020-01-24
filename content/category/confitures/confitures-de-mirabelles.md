@@ -5,10 +5,8 @@ type: recette
 date: 2017-09-15T08:00:53+00:00
 url: /confitures-de-mirabelles/
 image1: /images/2013/09/Confiture-mirabelles.jpg
-rating:
-  - 4.5
-votes:
-  - 2
+rating: 4.5
+votes: 2
 image:
   - 695
 image2: /images/2013/09/Confiture-mirabelles-2.jpg

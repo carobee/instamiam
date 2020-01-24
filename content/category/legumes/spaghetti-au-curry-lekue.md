@@ -5,10 +5,8 @@ type: recette
 date: 2013-08-16T17:18:58+00:00
 url: /spaghetti-au-curry-lekue/
 image1: /images/2013/08/spaghetti-lekue.jpg
-rating:
-  - 4
-votes:
-  - 1
+rating: 4
+votes: 1
 xyz_smap:
   - 1
 image:

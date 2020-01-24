@@ -18,10 +18,8 @@ quantite: Pour 6 à 8 personnes
 preptime: 20M
 cooktime: 20M
 totaltime: 40M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Légumes
   - Plats

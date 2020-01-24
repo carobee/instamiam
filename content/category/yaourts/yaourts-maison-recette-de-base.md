@@ -17,10 +17,8 @@ quantite: Pour 10 yaourts
 preptime: 5M
 cooktime: 8H
 totaltime: 8H05M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - 'Pratique : Les basiques'
   - Yaourts

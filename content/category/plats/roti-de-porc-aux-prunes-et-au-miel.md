@@ -7,10 +7,8 @@ url: /roti-de-porc-aux-prunes-et-au-miel/
 image1: /images/2013/09/Rôti-prunes-2.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.6666666666667
-votes:
-  - 6
+rating: 4.6666666666667
+votes: 6
 image:
   - 673
 image2: /images/2013/09/Rôti-prunes-3-650.jpg

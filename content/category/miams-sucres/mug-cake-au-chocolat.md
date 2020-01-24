@@ -7,10 +7,8 @@ url: /mug-cake-au-chocolat/
 image1: /images/2013/10/Mugcake-chocolat-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.5
-votes:
-  - 4
+rating: 4.5
+votes: 4
 image:
   - 429
 image2: /images/2013/10/Mugcake-chocolat-2.jpg

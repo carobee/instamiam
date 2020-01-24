@@ -7,10 +7,8 @@ url: /gratin-dauphinois-sans-lactose/
 image1: /images/2013/09/Gratin-dauphinois-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.448275862069
-votes:
-  - 29
+rating: 4.448275862069
+votes: 29
 image:
   - 418
 image2: /images/2013/09/Gratin-dauphinois-2.jpg

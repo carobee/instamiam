@@ -15,10 +15,8 @@ quantite: pour 100ml
 preptime: 10M
 cooktime: 10M
 totaltime: 20M
-rating:
-  - 5
-votes:
-  - 2
+rating: 5
+votes: 2
 categories:
   - 'Pratique : Les basiques'
 mestags:

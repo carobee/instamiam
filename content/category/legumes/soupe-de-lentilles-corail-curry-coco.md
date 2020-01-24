@@ -7,10 +7,8 @@ url: /soupe-de-lentilles-corail-curry-coco/
 image1: /images/2013/10/Soupe-lentilles-corail-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.5384615384615
-votes:
-  - 13
+rating: 4.5384615384615
+votes: 13
 image:
   - 435
 image2: /images/2013/10/Soupe-lentilles-corail-2.jpg

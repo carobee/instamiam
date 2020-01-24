@@ -17,10 +17,8 @@ quantite: Pour une vingtaine de meringues
 preptime: 10M
 cooktime: 50M
 totaltime: 1H
-rating:
-  - 4.6666666666667
-votes:
-  - 3
+rating: 4.6666666666667
+votes: 3
 categories:
   - Miams sucrés
   - 'Pratique : Les basiques'

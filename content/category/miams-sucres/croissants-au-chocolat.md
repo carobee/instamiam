@@ -18,10 +18,8 @@ quantite: Pour 4 croissants
 preptime: 5M
 cooktime: 10M
 totaltime: 15M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Miams sucrés
 mestags:

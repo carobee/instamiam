@@ -22,10 +22,8 @@ ingredients:
   - 200 g de lardons allumette fumés
   - 1 cuillère à soupe d'huile de colza (facultatif)
   - sel, poivre, noix de muscade
-rating:
-  - 4.5714285714285
-votes:
-  - 7
+rating: 4.5714285714285
+votes: 7
 quantite: Pour 6 personnes
 preptime: 1H
 cooktime: 20M

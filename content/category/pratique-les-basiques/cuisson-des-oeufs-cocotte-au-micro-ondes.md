@@ -16,10 +16,8 @@ ingredients:
  - beurre, sel, poivre
  - 1 cuillère à soupe de gruyère râpé (facultatif)
  - 2 cuillères à soupe de garniture pour le fond des ramequins (oignons et lardons rissolés ; champignons poêlés ; giroles, crème fraîche et dés de foie gras ; chèvre et ciboulette ; fondue de poireaux, etc...)
-rating:
-  - 4.4615384615384
-votes:
-  - 13
+rating: 4.4615384615384
+votes: 13
 quantite: Pour 1 personne
 preptime: 5M
 cooktime: 2M

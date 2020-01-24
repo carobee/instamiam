@@ -7,10 +7,8 @@ url: /pommes-facon-sarladaise/
 image1: /images/2013/10/Pommes-salardaises-1.jpg
 xyz_smap:
   - 1
-rating:
-  - 5
-votes:
-  - 3
+rating: 5
+votes: 3
 image:
   - 478
 image2: /images/2013/10/Pommes-salardaises-2.jpg

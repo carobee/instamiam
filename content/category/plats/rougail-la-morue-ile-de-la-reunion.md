@@ -18,10 +18,8 @@ cooktime:
   - 20M
 totaltime:
   - 50M
-rating:
-  - 5
-votes:
-  - 1
+rating: 5
+votes: 1
 categories:
   - Plats
 mestags:

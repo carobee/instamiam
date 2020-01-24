@@ -17,10 +17,8 @@ quantite: Pour 6 à 8 pots de yaourt
 preptime: 10M
 cooktime: 8H
 totaltime: 8H
-rating:
-  - 5
-votes:
-  - 2
+rating: 5
+votes: 2
 categories:
   - Yaourts
 mestags:

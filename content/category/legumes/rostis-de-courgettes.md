@@ -20,10 +20,8 @@ quantite: Pour 2 personnes
 preptime: 10M
 cooktime: 10M
 totaltime: 20M
-rating:
-  - 4.4444444444444
-votes:
-  - 9
+rating: 4.4444444444444
+votes: 9
 categories:
   - Légumes
 mestags:

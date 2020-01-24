@@ -7,10 +7,8 @@ url: /risotto-au-potiron/
 image1: /images/2018/01/risotto-potiron-650-1-2018.jpg
 xyz_smap:
   - 1
-rating:
-  - 4.7777777777778
-votes:
-  - 9
+rating: 4.7777777777778
+votes: 9
 image:
   - 1422
 image2: /images/2018/01/risotto-potiron-2-650.jpg
