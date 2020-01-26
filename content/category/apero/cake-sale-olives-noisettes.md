@@ -27,7 +27,7 @@ rating: 4
 votes: 1
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - classique
   - farine

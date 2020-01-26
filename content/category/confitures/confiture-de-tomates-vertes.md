@@ -20,7 +20,7 @@ cooktime: 3H
 totaltime: 27H
 categories:
   - Confitures
-mestags:
+tags:
   - citron
   - confiture
   - conserve

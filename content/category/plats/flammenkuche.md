@@ -31,7 +31,7 @@ totaltime: 1H20M
 categories:
   - Apéro
   - Plats
-mestags:
+tags:
   - alsace
   - boulange
   - crème fraîche

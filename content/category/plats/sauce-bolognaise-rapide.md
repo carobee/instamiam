@@ -32,7 +32,7 @@ votes: 2
 categories:
   - Plats
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - accompagnement
   - ail
   - boeuf

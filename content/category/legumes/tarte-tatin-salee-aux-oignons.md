@@ -23,7 +23,7 @@ votes: 1
 categories:
   - Légumes
   - Plats
-mestags:
+tags:
   - facile
   - four
   - miel

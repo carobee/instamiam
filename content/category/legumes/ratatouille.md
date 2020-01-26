@@ -27,7 +27,7 @@ cooktime: 40M
 totaltime: 1H
 categories:
   - Légumes
-mestags:
+tags:
   - aubergine
   - courgette
   - été

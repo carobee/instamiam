@@ -21,7 +21,7 @@ rating: 5
 votes: 1
 categories:
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - accompagnement
   - jaune d’œuf
   - lait

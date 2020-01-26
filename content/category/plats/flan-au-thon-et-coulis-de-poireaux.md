@@ -28,7 +28,7 @@ cooktime: 40M
 totaltime: 1H
 categories:
   - Plats
-mestags:
+tags:
   - entrée
   - four
   - gruyère râpé

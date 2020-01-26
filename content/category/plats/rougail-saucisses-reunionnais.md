@@ -23,7 +23,7 @@ rating: 4.8478260869567
 votes: 46
 categories:
   - Plats
-mestags:
+tags:
   - curcuma
   - exotique
   - facile

@@ -22,7 +22,7 @@ rating: 4.75
 votes: 8
 categories:
   - Légumes
-mestags:
+tags:
   - accompagnement
   - combava
   - exotique

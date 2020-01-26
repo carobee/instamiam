@@ -30,7 +30,7 @@ rating: 4
 votes: 1
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - automne

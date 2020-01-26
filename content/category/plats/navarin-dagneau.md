@@ -25,7 +25,7 @@ rating: 4.5714285714286
 votes: 7
 categories:
   - Plats
-mestags:
+tags:
   - agneau
   - carotte
   - facile

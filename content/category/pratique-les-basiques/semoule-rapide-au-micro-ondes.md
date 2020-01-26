@@ -25,7 +25,7 @@ votes: 2
 categories:
   - Légumes
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - hyper facile
   - micro-ondes
   - rapide
@@ -33,6 +33,8 @@ mestags:
   - végétalien
   - végétarien
   - vidéo
+video: DSCFhsM7QMc
+blabla: Ultra rapide
 
 ---
 Mettre dans un récipient plat et creux (pas exemple une assiette à soupe) la **semoule** et la même quantité d&rsquo;**eau**.

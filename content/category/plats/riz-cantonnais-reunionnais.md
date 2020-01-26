@@ -23,7 +23,7 @@ cooktime: 30M
 totaltime: 1H
 categories:
   - Plats
-mestags:
+tags:
   - ça en jette
   - crevettes
   - Ile de la Réunion

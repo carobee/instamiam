@@ -27,7 +27,7 @@ rating: 4
 votes: 5
 categories:
   - Plats
-mestags:
+tags:
   - beurre
   - facile
   - four

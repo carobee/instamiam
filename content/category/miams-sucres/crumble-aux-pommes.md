@@ -25,7 +25,7 @@ rating: 4.5
 votes: 2
 categories:
   - Miams sucrés
-mestags:
+tags:
   - automne
   - beurre
   - cannelle

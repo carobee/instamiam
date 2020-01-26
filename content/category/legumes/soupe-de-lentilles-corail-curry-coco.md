@@ -27,7 +27,7 @@ cooktime: 20M
 totaltime: 30M
 categories:
   - Légumes
-mestags:
+tags:
   - automne
   - curry
   - hiver

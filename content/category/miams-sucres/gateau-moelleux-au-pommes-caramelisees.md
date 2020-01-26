@@ -29,7 +29,7 @@ cooktime: 30M
 totaltime: 45M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - automne
   - dessert
   - facile

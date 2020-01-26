@@ -21,7 +21,7 @@ rating: 4
 votes: 1
 categories:
   - Plats
-mestags:
+tags:
   - chèvre
   - entrée
   - four

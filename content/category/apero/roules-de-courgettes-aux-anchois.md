@@ -21,7 +21,7 @@ rating: 4.5
 votes: 2
 categories:
   - Apéro
-mestags:
+tags:
   - à faire par les enfants
   - à manger avec les doigts
   - anchois

@@ -28,7 +28,7 @@ rating: 4.8
 votes: 5
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - beurre

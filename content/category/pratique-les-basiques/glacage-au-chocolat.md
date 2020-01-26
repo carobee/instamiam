@@ -19,7 +19,7 @@ rating: 5
 votes: 2
 categories:
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - chocolat
   - dessert
   - goûter

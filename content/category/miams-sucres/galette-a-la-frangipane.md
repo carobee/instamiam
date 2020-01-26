@@ -25,7 +25,7 @@ rating: 4.6
 votes: 5
 categories:
   - Miams sucrés
-mestags:
+tags:
   - amande
   - beurre
   - épiphanie

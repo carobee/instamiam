@@ -23,7 +23,7 @@ votes: 1
 categories:
   - Apéro
   - Plats
-mestags:
+tags:
   - à manger avec les doigts
   - apéro dinatoire
   - chapelure

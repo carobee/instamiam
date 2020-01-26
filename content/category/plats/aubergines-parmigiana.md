@@ -28,7 +28,7 @@ cooktime: 15M
 totaltime: 45M
 categories:
   - Légumes
-mestags:
+tags:
   - ail
   - aubergine
   - été

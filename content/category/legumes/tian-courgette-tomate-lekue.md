@@ -26,7 +26,7 @@ totaltime:
   - 10M
 categories:
   - Légumes
-mestags:
+tags:
   - courgette
   - été
   - lékué

@@ -22,7 +22,7 @@ cooktime: 30M
 totaltime: 50M
 categories:
   - Légumes
-mestags:
+tags:
   - ail
   - carotte
   - gingembre

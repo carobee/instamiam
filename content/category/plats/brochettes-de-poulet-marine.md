@@ -23,7 +23,7 @@ cooktime: 10M
 totaltime: 1H10M
 categories:
   - Plats
-mestags:
+tags:
   - barbecue
   - brochettes
   - curry

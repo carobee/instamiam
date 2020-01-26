@@ -28,7 +28,7 @@ rating: 5
 votes: 19
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - beurre
@@ -43,6 +43,7 @@ mestags:
   - sucre
   - usa
   - vidéo
+video: bX6D00wIw_0
 
 ---
 Préchauffer le four Thermostat 6 (180°c).

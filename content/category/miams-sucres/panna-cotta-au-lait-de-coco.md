@@ -22,7 +22,7 @@ rating: 4.027777777778
 votes: 72
 categories:
   - Miams sucrés
-mestags:
+tags:
   - agar-agar
   - agave
   - ça en jette

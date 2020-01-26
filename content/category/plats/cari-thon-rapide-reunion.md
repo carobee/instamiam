@@ -26,7 +26,7 @@ rating: 4.25
 votes: 8
 categories:
   - Plats
-mestags:
+tags:
   - ail
   - curcuma
   - exotique

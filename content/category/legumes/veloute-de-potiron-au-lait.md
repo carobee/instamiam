@@ -19,7 +19,7 @@ totaltime: 30M
 categories:
   - Légumes
   - Plats
-mestags:
+tags:
   - automne
   - halloween
   - hyper facile

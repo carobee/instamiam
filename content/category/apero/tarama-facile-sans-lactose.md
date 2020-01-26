@@ -23,7 +23,7 @@ rating: 5
 votes: 1
 categories:
   - Apéro
-mestags:
+tags:
   - ça en jette
   - chapelure
   - citron

@@ -23,7 +23,7 @@ rating: 3.8749999999999
 votes: 16
 categories:
   - Miams sucrés
-mestags:
+tags:
   - beurre
   - oeuf
   - philadelphia

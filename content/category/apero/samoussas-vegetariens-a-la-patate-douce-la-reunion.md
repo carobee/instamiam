@@ -31,7 +31,7 @@ votes: 3
 categories:
   - Apéro
   - Légumes
-mestags:
+tags:
   - ail
   - combava
   - coriandre fraîche
@@ -47,6 +47,7 @@ mestags:
   - végétalien
   - végétarien
   - vidéo
+video: nahhIT5TZUw
 
 ---
 ## Préparation de la farce :

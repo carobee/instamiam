@@ -28,7 +28,7 @@ cooktime: 1H
 totaltime: 1H05M
 categories:
   - Plats
-mestags:
+tags:
   - été
   - four
   - miel

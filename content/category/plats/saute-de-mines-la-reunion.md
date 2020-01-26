@@ -26,7 +26,7 @@ rating: 3.7619047619048
 votes: 21
 categories:
   - Plats
-mestags:
+tags:
   - ail chinois
   - carotte
   - chou chinois

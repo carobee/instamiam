@@ -27,7 +27,7 @@ cooktime: 1M
 totaltime: 2M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à faire par les enfants
   - beurre
   - chocolat

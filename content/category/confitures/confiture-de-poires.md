@@ -22,7 +22,7 @@ cooktime: 1H
 totaltime: 2H
 categories:
   - Confitures
-mestags:
+tags:
   - automne
   - confiture
   - conserve

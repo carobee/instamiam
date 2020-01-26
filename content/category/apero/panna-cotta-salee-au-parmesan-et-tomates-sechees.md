@@ -24,7 +24,7 @@ cooktime: 10M
 totaltime: 2H10M
 categories:
   - Apéro
-mestags:
+tags:
   - agar-agar
   - ça en jette
   - crème fraîche

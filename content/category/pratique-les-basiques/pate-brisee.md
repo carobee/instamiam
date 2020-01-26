@@ -21,7 +21,7 @@ rating: 5
 votes: 5
 categories:
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - beurre
   - farine
   - sel

@@ -21,7 +21,7 @@ cooktime: 2M
 totaltime: 7M
 categories:
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - béchamel
   - beurre
   - farine

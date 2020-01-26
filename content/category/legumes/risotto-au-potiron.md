@@ -32,7 +32,7 @@ totaltime: 1H
 categories:
   - Légumes
   - Plats
-mestags:
+tags:
   - ail
   - automne
   - ça en jette

@@ -22,7 +22,7 @@ rating: 4
 votes: 2
 categories:
   - Yaourts
-mestags:
+tags:
   - lait
   - oeuf
   - sucre roux

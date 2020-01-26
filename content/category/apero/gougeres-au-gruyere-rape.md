@@ -25,7 +25,7 @@ cooktime: 25M
 totaltime: 40M
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - beurre

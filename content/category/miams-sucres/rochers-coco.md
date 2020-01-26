@@ -21,7 +21,7 @@ rating: 4.75
 votes: 4
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - "blanc d'oeuf"
   - four

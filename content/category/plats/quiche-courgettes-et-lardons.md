@@ -24,7 +24,7 @@ cooktime: 30M
 totaltime: 45M
 categories:
   - Plats
-mestags:
+tags:
   - courgette
   - four
   - gruyère râpé

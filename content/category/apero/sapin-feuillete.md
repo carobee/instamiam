@@ -20,7 +20,7 @@ rating: 5
 votes: 1
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - à faire par les enfants
   - à manger avec les doigts

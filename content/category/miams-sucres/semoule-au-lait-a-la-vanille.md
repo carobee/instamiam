@@ -22,7 +22,7 @@ rating: 5
 votes: 1
 categories:
   - Miams sucrés
-mestags:
+tags:
   - dessert
   - goûter
   - hyper facile

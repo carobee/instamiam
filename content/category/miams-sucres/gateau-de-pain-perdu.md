@@ -27,7 +27,7 @@ rating: 2
 votes: 1
 categories:
   - Miams sucrés
-mestags:
+tags:
   - beurre
   - dessert
   - facile

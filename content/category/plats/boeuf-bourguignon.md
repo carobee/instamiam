@@ -29,7 +29,7 @@ rating: 4.8888888888889
 votes: 9
 categories:
   - Plats
-mestags:
+tags:
   - boeuf
   - carotte
   - France

@@ -28,7 +28,7 @@ rating: 5
 votes: 2
 categories:
   - Plats
-mestags:
+tags:
   - boeuf
   - carotte
   - cumin

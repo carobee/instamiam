@@ -21,7 +21,7 @@ cooktime: 1H
 totaltime: 13H
 categories:
   - Confitures
-mestags:
+tags:
   - août
   - citron
   - confiture

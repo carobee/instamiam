@@ -21,7 +21,7 @@ rating: 5
 votes: 2
 categories:
   - Yaourts
-mestags:
+tags:
   - lait
   - sucre vanillé
   - vanille

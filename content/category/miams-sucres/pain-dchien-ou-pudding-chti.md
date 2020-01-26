@@ -24,7 +24,7 @@ rating: 4.5625
 votes: 16
 categories:
   - Miams sucrés
-mestags:
+tags:
   - cassonade
   - chti
   - four

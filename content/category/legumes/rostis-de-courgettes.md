@@ -24,7 +24,7 @@ rating: 4.4444444444444
 votes: 9
 categories:
   - Légumes
-mestags:
+tags:
   - ail
   - courgette
   - été

@@ -21,7 +21,7 @@ votes: 6
 categories:
   - Miams sucrés
   - Yaourts
-mestags:
+tags:
   - agar-agar
   - chocolat
   - hyper facile

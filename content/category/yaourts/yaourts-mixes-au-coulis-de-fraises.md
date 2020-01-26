@@ -23,7 +23,7 @@ cooktime: 8H
 totaltime: 8H05M
 categories:
   - Yaourts
-mestags:
+tags:
   - été
   - fraise
   - lait

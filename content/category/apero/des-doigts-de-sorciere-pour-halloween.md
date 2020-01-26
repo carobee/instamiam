@@ -27,7 +27,7 @@ cooktime: 15M
 totaltime: 25M
 categories:
   - Apéro
-mestags:
+tags:
   - à faire par les enfants
   - ça en jette
   - four

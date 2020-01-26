@@ -1,4 +1,4 @@
----
+<!-- ---
 draft: true
 title: 
 author: Caro
@@ -26,7 +26,7 @@ cooktime: 20M
 totaltime: 50M
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - Antilles
   - cabillaud
@@ -82,4 +82,4 @@ ex
 
 [Voir la recette de la pâte brisée]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})
 
-[Voir la recette de la Béchamel facile au micro-ondes]({{< ref "category/pratique-les-basiques/bechamel-facile-au-micro-ondes.md" >}})
+[Voir la recette de la Béchamel facile au micro-ondes]({{< ref "category/pratique-les-basiques/bechamel-facile-au-micro-ondes.md" >}}) -->

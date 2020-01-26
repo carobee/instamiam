@@ -28,7 +28,7 @@ rating: 5
 votes: 4
 categories:
   - Miams sucrés
-mestags:
+tags:
   - cadeau
   - chocolat
   - chocolat blanc

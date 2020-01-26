@@ -23,7 +23,7 @@ votes: 1
 categories:
   - Légumes
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - hyper facile
   - italie
   - lait

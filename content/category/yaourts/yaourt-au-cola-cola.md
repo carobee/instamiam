@@ -21,7 +21,7 @@ cooktime: 8H
 totaltime: 8H05M
 categories:
   - Yaourts
-mestags:
+tags:
   - coca-cola
   - lait
   - sucre

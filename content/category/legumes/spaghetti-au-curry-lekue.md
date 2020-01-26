@@ -27,7 +27,7 @@ totaltime: 11M
 categories:
   - Légumes
   - Plats
-mestags:
+tags:
   - curry
   - facile
   - lékué

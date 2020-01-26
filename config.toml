@@ -10,6 +10,7 @@ removePathAccents=true
   author = "author"
   category = "categories"
   tag = "tags"
+  video = "videos"
 
 # Menu
 [menu]

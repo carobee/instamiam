@@ -21,7 +21,7 @@ cooktime: 30M
 totaltime: 40M
 categories:
   - Légumes
-mestags:
+tags:
   - automne
   - épinard
   - hiver

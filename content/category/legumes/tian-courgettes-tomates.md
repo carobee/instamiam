@@ -21,7 +21,7 @@ cooktime: 45M
 totaltime: 1H
 categories:
   - Légumes
-mestags:
+tags:
   - courgette
   - été
   - facile

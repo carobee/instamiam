@@ -26,7 +26,7 @@ rating: 5
 votes: 2
 categories:
   - Plats
-mestags:
+tags:
   - boeuf
   - classique
   - repas du dimanche

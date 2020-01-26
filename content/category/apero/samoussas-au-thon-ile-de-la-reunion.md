@@ -27,7 +27,7 @@ rating: 5
 votes: 4
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - apéro dinatoire
   - coriandre fraîche
@@ -42,6 +42,7 @@ mestags:
   - pique-nique
   - thon
   - vidéo
+video: nahhIT5TZUw
 
 ---
 ### Préparation de la farce :

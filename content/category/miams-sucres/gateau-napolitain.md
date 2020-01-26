@@ -31,7 +31,7 @@ rating: 5
 votes: 2
 categories:
   - Miams sucrés
-mestags:
+tags:
   - anniversaire
   - beurre
   - "blanc d'oeuf"

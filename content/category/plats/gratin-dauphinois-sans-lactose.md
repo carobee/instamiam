@@ -23,7 +23,7 @@ cooktime: 40M
 totaltime: 50M
 categories:
   - Légumes
-mestags:
+tags:
   - ail
   - amande cuisine
   - facile

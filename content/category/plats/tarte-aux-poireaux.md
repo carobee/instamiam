@@ -26,7 +26,7 @@ cooktime: 45M
 totaltime: 1H05M
 categories:
   - Plats
-mestags:
+tags:
   - automne
   - beurre
   - crème fraîche

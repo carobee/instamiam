@@ -23,7 +23,7 @@ cooktime: 6M
 totaltime: 11M
 categories:
   - Plats
-mestags:
+tags:
   - facile
   - hyper facile
   - lékué

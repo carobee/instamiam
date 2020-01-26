@@ -25,7 +25,7 @@ cooktime: 15M
 totaltime: 25M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - café
   - chocolat
   - dessert

@@ -24,7 +24,7 @@ cooktime: 8H
 totaltime: 8H10M
 categories:
   - Yaourts
-mestags:
+tags:
   - café
   - lait
   - vanille

@@ -23,7 +23,7 @@ cooktime: 8H
 totaltime: 8H15M
 categories:
   - Yaourts
-mestags:
+tags:
   - lait
   - praliné
   - végétarien

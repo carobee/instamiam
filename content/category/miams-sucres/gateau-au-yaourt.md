@@ -27,7 +27,7 @@ categories:
   - Miams sucrés
   - 'Pratique : Les basiques'
   - Yaourts
-mestags:
+tags:
   - à faire par les enfants
   - dessert
   - facile

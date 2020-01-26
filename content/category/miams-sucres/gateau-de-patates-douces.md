@@ -24,7 +24,7 @@ rating: 5
 votes: 3
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - beurre
@@ -41,7 +41,7 @@ mestags:
   - sucre roux
   - vanille
   - vidéo
-
+video: bKxgU0uQtig
 ---
 Éplucher les patates douces, les couper en gros tronçons et les cuire à la vapeur.
 

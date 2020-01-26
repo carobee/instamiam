@@ -25,7 +25,7 @@ rating: 5
 votes: 2
 categories:
   - Miams sucrés
-mestags:
+tags:
   - beurre
   - cerises
   - farine

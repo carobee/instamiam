@@ -24,7 +24,7 @@ votes: 1
 categories:
   - Légumes
   - Plats
-mestags:
+tags:
   - blettes
   - chèvre
   - crème fraîche

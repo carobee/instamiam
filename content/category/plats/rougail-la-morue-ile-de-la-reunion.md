@@ -22,7 +22,7 @@ rating: 5
 votes: 1
 categories:
   - Plats
-mestags:
+tags:
   - curcuma
   - exotique
   - gingembre
@@ -31,7 +31,7 @@ mestags:
   - oignon
   - poisson
   - tomate
-
+video: dDOFSTZZDxI
 ---
 > Si la morue n&rsquo;est pas dessalée, il faut la dessaler. Pour cela suivre les indications de Chef Simon dans cette recette : [http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/brandade-de-morue--8](http://chefsimon.lemonde.fr/gourmets/chef-simon/recettes/brandade-de-morue--8)
 

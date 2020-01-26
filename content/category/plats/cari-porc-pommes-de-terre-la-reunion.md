@@ -28,7 +28,7 @@ totaltime:
   - 1H
 categories:
   - Plats
-mestags:
+tags:
   - ail
   - curcuma
   - Ile de la Réunion

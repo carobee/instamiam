@@ -25,7 +25,7 @@ cooktime: 2H
 totaltime: 2H30M
 categories:
   - Légumes
-mestags:
+tags:
   - à emporter
   - citron
   - concombre

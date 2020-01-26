@@ -25,7 +25,7 @@ cooktime: 30M
 totaltime: 45M
 categories:
   - Légumes
-mestags:
+tags:
   - automne
   - beurre
   - carotte

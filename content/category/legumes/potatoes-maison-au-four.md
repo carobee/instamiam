@@ -24,7 +24,7 @@ cooktime: 30M
 totaltime: 35M
 categories:
   - Légumes
-mestags:
+tags:
   - curcuma
   - curry
   - facile
@@ -34,6 +34,7 @@ mestags:
   - végétalien
   - végétarien
   - vidéo
+video: UagLYcZyLII
 
 ---
 Préchauffer le four à 180°c (ou 200°c si votre four n&rsquo;a pas de chaleur tournante).

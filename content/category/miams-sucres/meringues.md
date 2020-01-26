@@ -22,7 +22,7 @@ votes: 3
 categories:
   - Miams sucrés
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - à emporter
   - "blanc d'oeuf"
   - four

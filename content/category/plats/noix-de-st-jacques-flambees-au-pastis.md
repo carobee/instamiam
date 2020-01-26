@@ -26,7 +26,7 @@ rating: 4.3333333333333
 votes: 3
 categories:
   - Plats
-mestags:
+tags:
   - ça en jette
   - crème fraîche
   - facile

@@ -19,7 +19,7 @@ cooktime: 30M
 totaltime: 12H30
 categories:
   - Confitures
-mestags:
+tags:
   - abricots
   - confiture
   - été

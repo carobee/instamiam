@@ -25,7 +25,7 @@ rating: 4.5
 votes: 4
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - beurre

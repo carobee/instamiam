@@ -21,7 +21,7 @@ rating: 3.7
 votes: 10
 categories:
   - Apéro
-mestags:
+tags:
   - à faire par les enfants
   - à manger avec les doigts
   - chèvre

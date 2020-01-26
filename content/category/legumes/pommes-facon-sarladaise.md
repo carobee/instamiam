@@ -24,7 +24,7 @@ cooktime: 30M
 totaltime: 35M
 categories:
   - Légumes
-mestags:
+tags:
   - ail
   - France
   - pomme de terre

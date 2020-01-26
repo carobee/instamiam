@@ -20,7 +20,7 @@ cooktime: 25M
 totaltime: 50M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - compote
   - dessert
   - four

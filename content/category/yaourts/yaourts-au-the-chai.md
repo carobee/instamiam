@@ -28,7 +28,7 @@ cooktime: 8H
 totaltime: 9H
 categories:
   - Yaourts
-mestags:
+tags:
   - dessert
   - infusion
   - lait

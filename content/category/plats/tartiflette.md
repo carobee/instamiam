@@ -25,7 +25,7 @@ rating: 5
 votes: 1
 categories:
   - Plats
-mestags:
+tags:
   - four
   - fromage
   - hiver

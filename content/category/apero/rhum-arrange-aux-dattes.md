@@ -17,7 +17,7 @@ cooktime: 5M
 totaltime: 10M
 categories:
   - Apéro
-mestags:
+tags:
   - à boire
   - alcool
   - boisson
@@ -27,6 +27,7 @@ mestags:
   - sans lactose
   - végétalien
   - végétarien
+  - ile de la reunion
 
 ---
 Couper les **dattes** en deux et enlever le noyau.

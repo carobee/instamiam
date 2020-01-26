@@ -22,7 +22,7 @@ cooktime: 20M
 totaltime: 35M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - beurre
   - farine
   - goûter

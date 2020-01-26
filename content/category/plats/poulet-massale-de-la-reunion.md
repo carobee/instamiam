@@ -27,7 +27,7 @@ rating: 5
 votes: 3
 categories:
   - Plats
-mestags:
+tags:
   - ail
   - cumin
   - épicé

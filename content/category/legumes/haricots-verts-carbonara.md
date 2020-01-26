@@ -25,7 +25,7 @@ votes: 1
 categories:
   - Légumes
   - Plats
-mestags:
+tags:
   - champignons
   - crème fraîche
   - haricots verts

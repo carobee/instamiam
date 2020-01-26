@@ -22,7 +22,7 @@ votes: 1
 categories:
   - Miams sucrés
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - citron
   - été
   - fraise

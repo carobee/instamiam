@@ -26,7 +26,7 @@ rating: 5
 votes: 6
 categories:
   - Plats
-mestags:
+tags:
   - à manger avec les doigts
   - beurre
   - boeuf

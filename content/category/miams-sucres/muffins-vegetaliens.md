@@ -25,7 +25,7 @@ cooktime: 20M
 totaltime: 30M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - bicarbonate

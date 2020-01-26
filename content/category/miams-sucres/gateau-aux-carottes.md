@@ -27,7 +27,7 @@ rating: 4.25
 votes: 8
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à manger avec les doigts
   - amande
   - carotte

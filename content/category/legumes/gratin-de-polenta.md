@@ -24,7 +24,7 @@ rating: 4.6666666666667
 votes: 3
 categories:
   - Légumes
-mestags:
+tags:
   - four
   - fromage
   - gratin

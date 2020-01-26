@@ -25,7 +25,7 @@ rating: 5
 votes: 1
 categories:
   - Légumes
-mestags:
+tags:
   - automne
   - beurre
   - courge

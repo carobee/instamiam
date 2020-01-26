@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Madeleines
 author: Caro
 type: recette
@@ -20,7 +20,7 @@ cooktime: 15M
 totaltime: 25M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - oeuf
   - farine
@@ -69,4 +69,4 @@ Enfourner :
 
 Démouler tiède et laisser refroidir.
 
-> La recette originale de Pierre Hermé (Larousse des desserts) utilise 120 g de sucre et le zeste de citron.
+> La recette originale de Pierre Hermé (Larousse des desserts) utilise 120 g de sucre et le zeste de citron. -->

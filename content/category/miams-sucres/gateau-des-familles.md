@@ -23,7 +23,7 @@ cooktime: 1H
 totaltime: 13H
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à faire par les enfants
   - anniversaire
   - beurre

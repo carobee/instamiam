@@ -22,7 +22,7 @@ rating: 5
 votes: 1
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à manger avec les doigts
   - chocolat
   - four

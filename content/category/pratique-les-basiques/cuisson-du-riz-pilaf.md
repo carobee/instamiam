@@ -22,7 +22,7 @@ totaltime: 20M
 categories:
   - Légumes
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - facile
   - oignon
   - riz

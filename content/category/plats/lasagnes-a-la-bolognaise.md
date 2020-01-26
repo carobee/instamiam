@@ -32,7 +32,7 @@ cooktime: 45M
 totaltime: 1H45M
 categories:
   - Plats
-mestags:
+tags:
   - béchamel
   - boeuf
   - four

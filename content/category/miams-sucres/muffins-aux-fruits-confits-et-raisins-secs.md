@@ -27,7 +27,7 @@ cooktime: 25M
 totaltime: 45M
 categories:
   - Miams sucrés
-mestags:
+tags:
   - à emporter
   - à manger avec les doigts
   - beurre

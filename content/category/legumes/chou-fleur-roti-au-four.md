@@ -22,7 +22,7 @@ rating: 5
 votes: 1
 categories:
   - Légumes
-mestags:
+tags:
   - ail
   - chou-fleur
   - cumin

@@ -22,7 +22,7 @@ cooktime: 15M
 totaltime: 20M
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - à faire par les enfants
   - à manger avec les doigts
@@ -34,6 +34,7 @@ mestags:
   - pique-nique
   - saumon fumé
   - vidéo
+video: P7tfashvsbI
 
 ---
 Préchauffer votre four à 180°C (th 6).

@@ -25,7 +25,7 @@ cooktime: 10M
 totaltime: 3H10M
 categories:
   - Apéro
-mestags:
+tags:
   - boulange
   - curry
   - farine
@@ -36,6 +36,7 @@ mestags:
   - végétalien
   - végétarien
   - vidéo
+video: jIhIEDGVP38
 
 ---
 Réhydrater la levure en suivant les indications sur le sachet (dans notre cas : mettre la levure dans 3 cuillères à soupe d&rsquo;eau tiède et une cuillère à café de sucre en poudre, et délayer quelques minutes).

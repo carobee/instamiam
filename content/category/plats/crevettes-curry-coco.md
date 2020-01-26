@@ -26,7 +26,7 @@ cooktime: 5M
 totaltime: 6M
 categories:
   - Plats
-mestags:
+tags:
   - crevettes
   - curry
   - exotique

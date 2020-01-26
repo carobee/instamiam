@@ -26,7 +26,7 @@ rating: 4.6666666666667
 votes: 6
 categories:
   - Légumes
-mestags:
+tags:
   - gruyère râpé
   - hiver
   - léger

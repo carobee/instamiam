@@ -24,7 +24,7 @@ votes: 10
 categories:
   - Miams sucrés
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - facile
   - farine
   - goûter

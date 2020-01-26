@@ -27,7 +27,7 @@ cooktime: 30M
 totaltime: 45M
 categories:
   - Plats
-mestags:
+tags:
   - facile
   - four
   - gruyère râpé

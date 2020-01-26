@@ -25,7 +25,7 @@ cooktime: 40M
 totaltime: 45M
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - cake
   - farine

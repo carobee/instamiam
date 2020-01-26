@@ -24,7 +24,7 @@ totaltime:
   - 20M
 categories:
   - Plats
-mestags:
+tags:
   - ça en jette
   - crème fraîche
   - facile

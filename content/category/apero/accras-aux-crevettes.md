@@ -27,7 +27,7 @@ rating: 5
 votes: 2
 categories:
   - Apéro
-mestags:
+tags:
   - à emporter
   - Antilles
   - cabillaud

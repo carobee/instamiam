@@ -25,7 +25,7 @@ rating: 5
 votes: 4
 categories:
   - Plats
-mestags:
+tags:
   - automne
   - courge
   - farine

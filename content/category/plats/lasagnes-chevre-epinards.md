@@ -31,7 +31,7 @@ votes: 1
 categories:
   - Légumes
   - 'Pratique : Les basiques'
-mestags:
+tags:
   - béchamel
   - beurre
   - blettes

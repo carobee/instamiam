@@ -26,7 +26,7 @@ rating: 4.5
 votes: 2
 categories:
   - Miams sucrés
-mestags:
+tags:
   - amande
   - beurre
   - "blanc d'oeuf"

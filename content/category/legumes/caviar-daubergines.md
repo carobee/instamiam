@@ -22,7 +22,7 @@ totaltime: 50M
 categories:
   - Apéro
   - Légumes
-mestags:
+tags:
   - ail
   - apéro dinatoire
   - aubergine

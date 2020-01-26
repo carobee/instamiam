@@ -22,7 +22,7 @@ rating: 5
 votes: 6
 categories:
   - Légumes
-mestags:
+tags:
   - accompagnement
   - ail
   - asperges

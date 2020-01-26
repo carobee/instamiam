@@ -23,7 +23,7 @@ rating: 4.1818181818182
 votes: 11
 categories:
   - Apéro
-mestags:
+tags:
   - agar-agar
   - asperge
   - ça en jette

@@ -28,7 +28,7 @@ rating: 5
 votes: 5
 categories:
   - Plats
-mestags:
+tags:
   - beurre
   - bière
   - boeuf

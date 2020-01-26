@@ -22,7 +22,7 @@ votes: 1
 categories:
   - 'Pratique : Les basiques'
   - Yaourts
-mestags:
+tags:
   - lait
   - yaourtière
   - yaourts
