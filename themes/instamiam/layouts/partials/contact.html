@@ -29,7 +29,18 @@
 
             {{"<!-- Contact Form -->" | safeHTML}}
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form name="contact" method="POST" data-netlify="true"id="contact-form" class="form-meghna" role="form">
+                <form name="contact" netlify>
+                    <p>
+                      <label>Name <input type="text" name="name" /></label>
+                    </p>
+                    <p>
+                      <label>Email <input type="email" name="email" /></label>
+                    </p>
+                    <p>
+                      <button type="submit">Send</button>
+                    </p>
+                  </form>
+                {{/*  <form name="contact" method="POST" data-netlify="true"id="contact-form" class="form-meghna" role="form">
 
                     <input name="e-mail" type="text" id="e-mail" autocomplete="off">
                     <div class="form-group">
@@ -54,7 +65,7 @@
                     <div id="cf-submit">
                         <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">
                     </div>
-                </form>
+                </form>  */}}
             </div>
         </div>
     </div>
