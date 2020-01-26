@@ -1,5 +1,5 @@
 ---
-title: 'Confiture d Abricots'
+title: "Confiture d'Abricots"
 author: Caro
 type: recette
 date: 2018-07-25T15:47:50+00:00
@@ -26,6 +26,7 @@ tags:
   - fruits
   - marmelade
   - sucre
+keywords: ["confiture abricots", "marmelade abricots", "recette confiture facile abricots", "confiture été"]
 
 ---
 > Astuce : Si vous achetez vos abricots au marché de producteurs, n&rsquo;hésitez pas à leur demander des abricots « spécial confitures » : en effet, bien souvent les producteurs préparent des caisses avec des fruits trop abîmés ou trop mûrs pour être vendus au prix normal. Les abricots que j&rsquo;ai trouvés au marché d&rsquo;Escalquens étaient parfaitement mûrs pour les confitures et ne m&rsquo;ont coûté qu&rsquo;1.5€ le kilo.
