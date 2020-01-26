@@ -1,6 +1,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{else if .IsPage}}{{ .Summary | plainify}}{{ else }}{{.Site.Params.description}}{{ end }}">
+    <meta name="keywords" content="recettes, {{ if .Params.ingredients }} recette {{ .Params.Title }}, {{end}}{{ if .Params.categories }}recette {{ range .Params.categories }}{{- . -}},{{ end }}{{ end }}">
     <meta name="author" content="{{ with .Params.author }}{{ . }}{{else}}{{ with .Site.Params.author}}{{ . }}{{ end }}{{end}}">
 
     {{ "<!-- Mobile Specific Meta -->" | safeHTML }}
