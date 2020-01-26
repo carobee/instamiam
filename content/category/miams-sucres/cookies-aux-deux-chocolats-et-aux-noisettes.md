@@ -4,10 +4,10 @@ author: Caro
 type: recette
 date: 2014-03-26T22:19:07+00:00
 url: /cookies-aux-deux-chocolats-et-aux-noisettes/
-image1: /images/2014/03/cookies-choco-noisettes-1-650.jpg
+image1: /images/2014/03/cookies-deux-chocolats-noisettes-1-650.jpg
 image:
   - 837
-image2: /images/2014/03/cookies-choco-noisettes-2-650.jpg
+image2: /images/2014/03/cookies-deux-chocolats-noisettes-2-650.jpg
 ingredients:
  - 125 g de beurre demi-sel mou
  - 50 g de sucre en poudre
