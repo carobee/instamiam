@@ -13,15 +13,17 @@ image:
   - 467
 image2: /images/2013/10/Oeufs-cocotte-paysane-2.jpg
 ingredients:
- - 200 g de lardons - 1 oignon - 1 petite boîte de champignons de Paris émincés - 2 œufs - 2 cuillères à soupe de crème fraîche - beurre, sel, poivre - gruyère râpé (facultatif)
-quantite:
-  - Pour 2 œufs cocotte
-preptime:
-  - 10M
-cooktime:
-  - 10M
-totaltime:
-  - 20M
+ - 200 g de lardons 
+ - 1 oignon 
+ - 1 petite boîte de champignons de Paris émincés 
+ - 2 œufs 
+ - 2 cuillères à soupe de crème fraîche 
+ - beurre, sel, poivre 
+ - gruyère râpé (facultatif)
+quantite:  Pour 2 œufs cocotte
+preptime: 10M
+cooktime: 10M
+totaltime: 20M
 categories:
   - Plats
 tags:
@@ -34,6 +36,7 @@ tags:
   - oeuf
   - oignon
 blabla: Peut se préparer au four ou au micro-ondes
+keywords: recette oueufs cocotte, recette oeufs micro-ondes, oeufs cocote lardons, recette oeuf four, recette oeufs garnis ramequins
 
 ---
 Eplucher **l&rsquo;oignon** et l&rsquo;émincer.
