@@ -1,7 +1,7 @@
 ---
 title: Sauté de mines (La Réunion)
 author: Caro
-type: post
+type: recette
 date: 2019-03-22T17:35:35+00:00
 url: /saute-de-mines-la-reunion/
 image1: /images/2018/08/saute-mines-1-650.jpg
@@ -40,7 +40,8 @@ tags:
   - oignon nouveau
   - sauce soja
   - wok
-
+blabla: Le sauté de mines est une recette de nouilles sautées que l'on cuisine beaucoup sur l'île de la Réunion.
+keywords: Sauté de mines, nouilles sautées, nouilles chinoises, sauté mine 974, sauté mines la réunion, recette nouilles sautées la réunion
 ---
 > Si vous ne trouvez pas d&rsquo;ail chinois, il est possible de remplacer par une botte supplémentaire d&rsquo;oignons chinois.
 

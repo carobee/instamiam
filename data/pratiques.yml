@@ -14,14 +14,14 @@ serviceItem :
   - title : Cuisson des oeufs cocotte au micro-ondes
     url : /cuisson-des-oeufs-cocotte-au-micro-ondes
 
-  - title : Glaçage au chocolat
-    url : /glacage-au-chocolat
-
   - title : Cuisson du riz pilaf
     url : /cuisson-du-riz-pilaf
 
+  - title : Glaçage au chocolat
+    url : /glacage-au-chocolat
+
   - title : Pâte à crêpes sucrée
-    url : //pate-a-crepe-sucree
+    url : /pate-a-crepe-sucree
 
   - title : Pâte à gaufres
     url : /pate-a-gaufres

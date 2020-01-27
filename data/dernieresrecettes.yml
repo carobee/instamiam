@@ -17,8 +17,8 @@ filterList :
   - filterType : confitures
     filterTitle : Confitures
 
-  - filterType : yaourts
-    filterTitle : Yaourts
+  # - filterType : yaourts
+  #   filterTitle : Yaourts
 
 recettes:
   - types : miams-sucres
@@ -28,6 +28,13 @@ recettes:
     title : Crumble aux pommes
     description : Sortir le beurre au préalable afin de le ramollir.
 
+  - types : plats
+    image : /images/2013/10/Oeufs-cocotte-paysane-1.jpg
+    icon : tf-ion-android-search
+    URL : /oeufs-cocotte-paysanne/
+    title : Oeufs cocotte « Paysanne »
+    description : Peut se préparer au four ou au micro-ondes
+    
   - types : apero
     image : /images/2018/03/samoussas-thon-1-650.jpg
     icon : tf-ion-android-search
@@ -49,8 +56,8 @@ recettes:
   - types : confitures
     image : /images/2015/12/confiture-kiwis-1-650.jpg
     icon : tf-ion-android-search
-    URL : Confiture de kiwis
-    title : /confiture-de-kiwis/
+    URL : /confiture-de-kiwis/
+    title : Confiture de kiwis
 
   - types : legumes
     image : /images/2017/11/chou-fleur-roti-1-650.jpg
@@ -72,9 +79,4 @@ recettes:
     title : Burger au Cantal et à la fondue de poireaux
     description : Un burger maison très gourmand !
 
-  - types : plats
-    image : /images/2013/10/Oeufs-cocotte-paysane-1.jpg
-    icon : tf-ion-android-search
-    URL : /oeufs-cocotte-paysanne/
-    title : Oeufs cocotte « Paysanne »
-    description : Peut se préparer au four ou au micro-ondes
+

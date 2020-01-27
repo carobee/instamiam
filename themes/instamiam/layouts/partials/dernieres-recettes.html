@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="portfolio-filter">
-                    <button type="button" data-filter="all">All</button>
+                    <button type="button" data-filter="all">Toutes</button>
                     {{ range .Site.Data.dernieresrecettes.filterList }}
                     <button type="button" data-filter="{{ .filterType }}">{{ .filterTitle }}</button>
                     {{ end }}
@@ -32,7 +32,7 @@
                         <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL}}" data-lightbox="image-1">
                             <i class="{{ .icon }}"></i>
                         </a>
-                        <h4><a href="{{ .URL | absURL }}">{{ .title }}</a></h4>
+                        <h4><a href="{{ .URL | absURL }}">{{ .title }}<br><small>Voir la recette <i class="tf-ion-ios-arrow-right"></i></small></a></h4>
                         <p>{{ .description }}</p>
                     </div>
                 </div>

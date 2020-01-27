@@ -1,3 +1,12 @@
+.navbar-brand small, .title small {
+  font-size:60%;
+}
+@media (max-width: 490px) {
+  .navbar-brand small, .title small {
+    display:none;
+  }
+}
+
 .blabla {
   font-style: italic;
   font-size: 1.3em;

@@ -6,7 +6,12 @@
             <div class="col-lg-12">
                 {{"<!-- section title -->" | safeHTML }}
                 <div class="title text-center wow fadeIn" data-wow-duration="500ms">
-                    <h2>{{ with .Site.Data.pratiques.heading }} {{ . }} {{ end }}<span class="color">{{ with .Site.Data.pratiques.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <h2><a href="/category/pratique-les-basiques">
+                        {{ with .Site.Data.pratiques.heading }} {{ . }} {{ end }}
+                        <span class="color">{{ with .Site.Data.pratiques.headingSpan }} {{ . }} {{ end }}</span>
+                        <small>Voir la rubrique <i class="tf-ion-ios-arrow-right"></i></small>
+                        </a>
+                    </h2>
                     <div class="border-meghna"></div>
                 </div>
             </div>
