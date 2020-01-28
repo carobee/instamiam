@@ -14,7 +14,7 @@
             </section>
         </div>
         <div class="row">
-            {{ range .Pages.ByDate.Reverse }}
+            {{ range .Pages.ByTitle }}
             {{"<!-- single blog post -->" | safeHTML}}
             {{ .Render "article" }}
             {{"<!-- /single blog post -->" | safeHTML}}
@@ -25,3 +25,4 @@
 {{"<!-- /blog -->" | safeHTML}}
 
 {{ end }}
+

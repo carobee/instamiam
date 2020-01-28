@@ -8,13 +8,12 @@
         <div class="row">
             <section class="col-12 clearfix wow fadeInUp text-center" data-wow-duration="500ms">
                 <header>
-                    <h1>{{.Title}}</h1>
+                    <h1>Recettes avec le tag "{{.Title}}"</h1>
                 </header>
-                {{.Content}}
             </section>
         </div>
         <div class="row">
-            {{ range .Pages.ByDate.Reverse }}
+            {{ range .Pages.ByTitle }}
             {{"<!-- single blog post -->" | safeHTML}}
             {{ .Render "article" }}
             {{"<!-- /single blog post -->" | safeHTML}}
