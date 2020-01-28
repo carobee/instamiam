@@ -6,7 +6,16 @@
 <section id="blog" class="section">
     <div class="container">
         <div class="row">
-            {{ range .Data.Pages }}
+            <section class="col-12 clearfix wow fadeInUp text-center" data-wow-duration="500ms">
+                <header>
+                    <h1>{{.Title}}</h1>
+                </header>
+                <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+                {{.Content}}
+            </section>
+        </div>
+        <div class="row">
+            {{ range .Pages.ByDate.Reverse }}
             {{"<!-- single blog post -->" | safeHTML}}
             {{ .Render "article" }}
             {{"<!-- /single blog post -->" | safeHTML}}

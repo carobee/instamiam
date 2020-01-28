@@ -4,7 +4,7 @@ headingSpan :
 serviceItem :
   - icon : tf-ion-beer
     title : Apéro
-    content : À boire et à manger !
+    content : Des recettes pour l'apéro, à boire et à manger !
     url : category/apero
 
   - icon : tf-ion-fork
@@ -24,7 +24,7 @@ serviceItem :
 
   - icon : tf-ion-spoon
     title : Yaourts
-    content : Recettes de yaourts nature et sucrés
+    content : Recettes de yaourts nature et sucrés avec ou sans yaourtière
     url : category/yaourts
 
   - icon : tf-ion-beaker
