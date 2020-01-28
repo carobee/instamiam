@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section id="blog" class="section">
+    <div class="container">
+        <div class="row">
+            <section class="col-12 clearfix wow fadeInUp text-center" data-wow-duration="500ms">
+                <header>
+                    <h1>{{.Title}}</h1>
+                </header>
+                {{.Content}}
+            </section>
+        </div>
+        <div class="row">
+            {{ range .Site.RegularPages.ByTitle }}
+            {{"<!-- single blog post -->" | safeHTML}}
+            {{ if isset .Params "ingredients" }}
+            {{ .Render "article" }}
+            {{ end }}
+            {{"<!-- /single blog post -->" | safeHTML}}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}
