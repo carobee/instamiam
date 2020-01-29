@@ -1,5 +1,5 @@
 ---
-title: 'Tarte aux figues et poudre d&rsquo;amandes'
+title: "Tarte aux figues et poudre d'amandes"
 author: Caro
 type: recette
 date: 2017-09-09T15:53:56+00:00
@@ -7,7 +7,7 @@ url: /tarte-aux-figues/
 image1: /images/2014/09/tarte-amandes-figues-1-650.jpg
 image:
   - 923
-image2: /images/2014/09/tarte-amandes-figues-2-650.jpg
+image2: /images/2014/09/tarte-figues-amandes-2-650.jpg
 ingredients:
  - 1 pâte brisée
  - 20 à 30 figues fraîches, selon la taille
