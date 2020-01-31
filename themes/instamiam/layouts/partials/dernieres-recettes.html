@@ -24,7 +24,7 @@
         </div>
         <div class="row filtr-container">
             {{"<!-- portfolio item -->" | safeHTML}}
-            {{ range .Site.Data.dernieresrecettes.recettes }}
+            {{/*  {{ range .Site.Data.dernieresrecettes.recettes }}
             <div class="col-lg-4 filtr-item" data-category="{{ .types }}">
                 <div class="portfolio-block mb-4">
                     <img class="img-fluid" src="{{ .image | absURL}}" alt="work-image">
@@ -37,6 +37,13 @@
                     </div>
                 </div>
             </div>
+            {{ end }}  */}}
+            {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+            {{"<!-- single blog post -->" | safeHTML}}
+            {{ if isset .Params "ingredients" }}
+            {{ .Render "article" }}
+            {{ end }}
+            {{"<!-- /single blog post -->" | safeHTML}}
             {{ end }}
         </div>
     </div>

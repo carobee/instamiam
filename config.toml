@@ -29,11 +29,11 @@ removePathAccents=true
     URL = "pratiques-les-basiques"
     weight = 4
 
-    [[menu.nav]]
-    ancre = false
-    name = "Toutes les recettes"
-    URL = "toutes-les-recettes"
-    weight = 5
+    # [[menu.nav]]
+    # ancre = false
+    # name = "Toutes les recettes"
+    # URL = "toutes-les-recettes"
+    # weight = 5
 
     [[menu.nav]]
     name = "Contact"
