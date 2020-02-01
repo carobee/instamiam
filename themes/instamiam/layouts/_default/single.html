@@ -79,12 +79,13 @@
                 <div class="col-lg-10 offset-lg-1">
                     <div class="post-single-content">
                         {{ .Content }}
-                        {{ if (isset .Params.type "recette") }}
-                          {{ partial "share_post" . }}
-                        {{ end }}
-                        <!-- {{ partial "post_comments" . }} -->
                     </div>
                 </div>
+            </div>
+            <div  class="col-lg-12 text-center">
+              {{ if isset .Params "ingredients" }}
+                {{ partial "share_post" . }}
+              {{ end }}
             </div>
         </div>
     </div>
