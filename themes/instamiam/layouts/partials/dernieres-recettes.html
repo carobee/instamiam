@@ -1,4 +1,3 @@
-{{ if .Site.Data.dernieresrecettes.enable}}
 {{"<!-- Portfolio Section -->" | safeHTML}}
 <section class="portfolio section bg-dark" id="dernieres-recettes">
     <div class="container">
@@ -6,7 +5,7 @@
             <div class="col-xl-12">
                 {{"<!-- section title -->" | safeHTML}}
                 <div class="title text-center">
-                    <h2> {{ with .Site.Data.dernieresrecettes.heading }} {{ . }} {{ end }} <span class="color">{{ with .Site.Data.dernieresrecettes.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <h2> Les dernières <span class="color">recettes</span></h2>
                     <div class="border-meghna"></div>
                 </div>
                 {{"<!-- /section title -->" | safeHTML}}
@@ -16,37 +15,38 @@
             <div class="col-lg-12">
                 <div class="portfolio-filter">
                     <button type="button" data-filter="all">Toutes</button>
-                    {{ range .Site.Data.dernieresrecettes.filterList }}
-                    <button type="button" data-filter="{{ .filterType }}">{{ .filterTitle }}</button>
+                    {{ range .Site.Data.categories.serviceItem }}
+                    <button type="button" data-filter="{{ .title }}">{{ .title }}</button>
                     {{ end }}
                 </div>
             </div>
         </div>
         <div class="row filtr-container">
             {{"<!-- portfolio item -->" | safeHTML}}
-            {{/*  {{ range .Site.Data.dernieresrecettes.recettes }}
-            <div class="col-lg-4 filtr-item" data-category="{{ .types }}">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="{{ .image | absURL}}" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL}}" data-lightbox="image-1">
-                            <i class="{{ .icon }}"></i>
-                        </a>
-                        <h4><a href="{{ .URL | absURL }}">{{ .title }}<br><small>Voir la recette <i class="tf-ion-ios-arrow-right"></i></small></a></h4>
-                        <p>{{ .description }}</p>
-                    </div>
-                </div>
-            </div>
-            {{ end }}  */}}
             {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
             {{"<!-- single blog post -->" | safeHTML}}
             {{ if isset .Params "ingredients" }}
-            {{ .Render "article" }}
+            <div class="col-lg-4 filtr-item" data-category="{{ range .Params.categories }}{{ . }}{{ end }}">
+                <div class="portfolio-block mb-4">
+                    <img class="img-fluid" src="{{ .Params.image1 | absURL}}" alt="work-image">
+                    <div class="caption">
+                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .Params.image1 | absURL}}" data-lightbox="image-1">
+                            <i class="tf-ion-android-search"></i>
+                        </a>
+                        <h4><a href="{{ .Permalink | absURL }}">{{ .Params.title }}<br><small>Voir la recette <i class="tf-ion-ios-arrow-right"></i></small></a></h4>
+                        <p>{{ with .Params.blabla}}{{.}}{{else}}{{ .Summary }}{{end}}</p>
+                    </div>
+                </div>
+            </div>
             {{ end }}
             {{"<!-- /single blog post -->" | safeHTML}}
             {{ end }}
         </div>
+        <br>
+        <div class="content text-center">
+            <a class="btn btn-transparent" href="/toutes-les-recettes/">Voir toutes les recettes</a>
+        </div>
     </div>
 </section>
 {{"<!-- /Portfolio -->" | safeHTML}}
-{{ end }}
+
