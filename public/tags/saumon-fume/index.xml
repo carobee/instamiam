@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saumon fumé on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/saumon-fume/</link>
+    <description>Recent content in saumon fumé on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 21 Dec 2015 09:00:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/saumon-fume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Petits croissants au saumon</title>
+      <link>https://instamiam-go.netlify.com/petits-croissants-au-saumon/</link>
+      <pubDate>Mon, 21 Dec 2015 09:00:40 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/petits-croissants-au-saumon/</guid>
+      <description>Préchauffer votre four à 180°C (th 6).
+Etaler sur la plaque du four la pâte feuilletée.</description>
+    </item>
+    
+  </channel>
+</rss>

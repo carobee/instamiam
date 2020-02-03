@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>épinard on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/epinard/</link>
+    <description>Recent content in épinard on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 07 May 2018 17:07:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/epinard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tarte au chèvre et aux blettes de Tatounette</title>
+      <link>https://instamiam-go.netlify.com/tarte-au-chevre-et-aux-blettes-de-tatounette/</link>
+      <pubDate>Mon, 07 May 2018 17:07:36 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/tarte-au-chevre-et-aux-blettes-de-tatounette/</guid>
+      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+    </item>
+    
+    <item>
+      <title>Soupe aux épinards</title>
+      <link>https://instamiam-go.netlify.com/soupe-aux-epinards/</link>
+      <pubDate>Sun, 06 Dec 2015 17:17:27 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/soupe-aux-epinards/</guid>
+      <description>Note : les épinards vont énormément réduire durant la cuisson</description>
+    </item>
+    
+  </channel>
+</rss>

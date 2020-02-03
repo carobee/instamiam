@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>café on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/cafe/</link>
+    <description>Recent content in café on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 21 Apr 2015 06:50:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/cafe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>« Gâteau des Familles »</title>
+      <link>https://instamiam-go.netlify.com/gateau-des-familles/</link>
+      <pubDate>Tue, 21 Apr 2015 06:50:19 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/gateau-des-familles/</guid>
+      <description>A préparer la veille !
+Au préalable : Préparer un café bien fort et le laisser refroidir.</description>
+    </item>
+    
+    <item>
+      <title>Rhum arrangé café-vanille</title>
+      <link>https://instamiam-go.netlify.com/rhum-arrange-cafe-vanille/</link>
+      <pubDate>Mon, 09 Feb 2015 21:55:42 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/rhum-arrange-cafe-vanille/</guid>
+      <description>Vider le rhum dans un récipient (avec un bec verseur)</description>
+    </item>
+    
+    <item>
+      <title>Yaourts au café</title>
+      <link>https://instamiam-go.netlify.com/yaourts-au-cafe/</link>
+      <pubDate>Sat, 26 Oct 2013 08:00:47 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/yaourts-au-cafe/</guid>
+      <description>Faire tiédir le lait au micro-ondes (4 minutes à puissance maximum).</description>
+    </item>
+    
+    <item>
+      <title>Blondie chocolat café</title>
+      <link>https://instamiam-go.netlify.com/blondie-chocolat-cafe/</link>
+      <pubDate>Mon, 02 Sep 2013 08:59:06 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/blondie-chocolat-cafe/</guid>
+      <description>Préchauffez le four à 180°C.
+Coupez le chocolat au couteau pour faire des gros morceaux (couper chaque carré en 4), et réservez.</description>
+    </item>
+    
+  </channel>
+</rss>

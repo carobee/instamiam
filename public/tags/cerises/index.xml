@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cerises on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/cerises/</link>
+    <description>Recent content in cerises on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 31 May 2014 14:54:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/cerises/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clafoutis aux cerises</title>
+      <link>https://instamiam-go.netlify.com/clafoutis-aux-cerises/</link>
+      <pubDate>Sat, 31 May 2014 14:54:54 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/clafoutis-aux-cerises/</guid>
+      <description>Préchauffer le four à 180°C (Thermostat 6-7).
+Laver, équeuter et dénoyauter les cerises.</description>
+    </item>
+    
+  </channel>
+</rss>

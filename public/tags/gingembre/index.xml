@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gingembre on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/gingembre/</link>
+    <description>Recent content in gingembre on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 18 Mar 2018 14:24:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/gingembre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samoussas au thon (Ile de La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/samoussas-au-thon-ile-de-la-reunion/</link>
+      <pubDate>Sun, 18 Mar 2018 14:24:51 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/samoussas-au-thon-ile-de-la-reunion/</guid>
+      <description>Préparation de la farce : Egoutter le thon et l’écraser à la fourchette.</description>
+    </item>
+    
+    <item>
+      <title>Bonbons piment (La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/bonbons-piment-la-reunion/</link>
+      <pubDate>Mon, 01 Jan 2018 18:56:11 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/bonbons-piment-la-reunion/</guid>
+      <description>La veille : Faire tremper les pois dans un bol d’eau froide la veille.</description>
+    </item>
+    
+    <item>
+      <title>Soupe carottes coco gingembre</title>
+      <link>https://instamiam-go.netlify.com/soupe-carottes-coco-gingembre/</link>
+      <pubDate>Mon, 13 Nov 2017 19:41:18 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/soupe-carottes-coco-gingembre/</guid>
+      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
+    </item>
+    
+    <item>
+      <title>Rougail La Morue (Ile de La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/rougail-la-morue-ile-de-la-reunion/</link>
+      <pubDate>Wed, 04 Oct 2017 21:09:53 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/rougail-la-morue-ile-de-la-reunion/</guid>
+      <description>Si la morue n’est pas dessalée, il faut la dessaler.</description>
+    </item>
+    
+    <item>
+      <title>Poulet Massalé de la Réunion</title>
+      <link>https://instamiam-go.netlify.com/poulet-massale-de-la-reunion/</link>
+      <pubDate>Mon, 31 Jul 2017 17:10:06 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/poulet-massale-de-la-reunion/</guid>
+      <description>Note : Vous pouvez également préparer cette recette avec un poulet entier, à découper en morceaux, ou encore avec des escalopes de poulet, également coupées en morceaux.</description>
+    </item>
+    
+    <item>
+      <title>Samoussas végétariens à la patate douce (La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/samoussas-vegetariens-a-la-patate-douce-la-reunion/</link>
+      <pubDate>Sun, 24 May 2015 19:12:10 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/samoussas-vegetariens-a-la-patate-douce-la-reunion/</guid>
+      <description>Préparation de la farce : Peler la patate douce et les pommes de terre et les couper en gros cubes.</description>
+    </item>
+    
+  </channel>
+</rss>

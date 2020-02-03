@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biscuits on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/biscuits/</link>
+    <description>Recent content in biscuits on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 21 Apr 2015 06:50:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/biscuits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>« Gâteau des Familles »</title>
+      <link>https://instamiam-go.netlify.com/gateau-des-familles/</link>
+      <pubDate>Tue, 21 Apr 2015 06:50:19 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/gateau-des-familles/</guid>
+      <description>A préparer la veille !
+Au préalable : Préparer un café bien fort et le laisser refroidir.</description>
+    </item>
+    
+    <item>
+      <title>Yaourts aux biscuits « Thé Brun »</title>
+      <link>https://instamiam-go.netlify.com/yaourts-aux-biscuits-the-brun/</link>
+      <pubDate>Sat, 24 Aug 2013 10:15:27 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/yaourts-aux-biscuits-the-brun/</guid>
+      <description>Faire tiédir le lait.
+Mixer ensemble tous les ingrédients, et les répartir dans des pots.</description>
+    </item>
+    
+  </channel>
+</rss>

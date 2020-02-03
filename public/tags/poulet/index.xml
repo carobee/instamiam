@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poulet on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/poulet/</link>
+    <description>Recent content in poulet on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 31 Jul 2017 17:10:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/poulet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poulet Massalé de la Réunion</title>
+      <link>https://instamiam-go.netlify.com/poulet-massale-de-la-reunion/</link>
+      <pubDate>Mon, 31 Jul 2017 17:10:06 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/poulet-massale-de-la-reunion/</guid>
+      <description>Note : Vous pouvez également préparer cette recette avec un poulet entier, à découper en morceaux, ou encore avec des escalopes de poulet, également coupées en morceaux.</description>
+    </item>
+    
+    <item>
+      <title>Brochettes de poulet mariné</title>
+      <link>https://instamiam-go.netlify.com/brochettes-de-poulet-marine/</link>
+      <pubDate>Sat, 10 Jun 2017 18:33:09 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/brochettes-de-poulet-marine/</guid>
+      <description>Découper chaque filet de poulet dans la longueur en lamelles de 3 cm de large environ.</description>
+    </item>
+    
+    <item>
+      <title>Nuggets de poulet maison</title>
+      <link>https://instamiam-go.netlify.com/nuggets-de-poulet-maison/</link>
+      <pubDate>Sat, 16 Apr 2016 15:10:26 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/nuggets-de-poulet-maison/</guid>
+      <description>Préparation : Couper les blancs de poulet en morceaux de 2 ou 3 cm de côté (la bonne taille est pour pouvoir être mangés en une seule bouchée, sans les couper car ils seront certainement mangés avec les doigts !</description>
+    </item>
+    
+  </channel>
+</rss>

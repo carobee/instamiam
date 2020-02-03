@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>friture on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/friture/</link>
+    <description>Recent content in friture on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 18 Mar 2018 14:24:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/friture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samoussas au thon (Ile de La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/samoussas-au-thon-ile-de-la-reunion/</link>
+      <pubDate>Sun, 18 Mar 2018 14:24:51 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/samoussas-au-thon-ile-de-la-reunion/</guid>
+      <description>Préparation de la farce : Egoutter le thon et l’écraser à la fourchette.</description>
+    </item>
+    
+    <item>
+      <title>Bonbons piment (La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/bonbons-piment-la-reunion/</link>
+      <pubDate>Mon, 01 Jan 2018 18:56:11 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/bonbons-piment-la-reunion/</guid>
+      <description>La veille : Faire tremper les pois dans un bol d’eau froide la veille.</description>
+    </item>
+    
+  </channel>
+</rss>

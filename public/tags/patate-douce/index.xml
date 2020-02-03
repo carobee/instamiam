@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>patate douce on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/patate-douce/</link>
+    <description>Recent content in patate douce on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 13 Nov 2017 19:41:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/patate-douce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soupe carottes coco gingembre</title>
+      <link>https://instamiam-go.netlify.com/soupe-carottes-coco-gingembre/</link>
+      <pubDate>Mon, 13 Nov 2017 19:41:18 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/soupe-carottes-coco-gingembre/</guid>
+      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
+    </item>
+    
+    <item>
+      <title>Gâteau de patates douces</title>
+      <link>https://instamiam-go.netlify.com/gateau-de-patates-douces/</link>
+      <pubDate>Sun, 23 Oct 2016 20:00:54 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/gateau-de-patates-douces/</guid>
+      <description>Éplucher les patates douces, les couper en gros tronçons et les cuire à la vapeur.</description>
+    </item>
+    
+    <item>
+      <title>Samoussas végétariens à la patate douce (La Réunion)</title>
+      <link>https://instamiam-go.netlify.com/samoussas-vegetariens-a-la-patate-douce-la-reunion/</link>
+      <pubDate>Sun, 24 May 2015 19:12:10 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/samoussas-vegetariens-a-la-patate-douce-la-reunion/</guid>
+      <description>Préparation de la farce : Peler la patate douce et les pommes de terre et les couper en gros cubes.</description>
+    </item>
+    
+    <item>
+      <title>Cari Thon rapide (Réunion)</title>
+      <link>https://instamiam-go.netlify.com/cari-thon-rapide-reunion/</link>
+      <pubDate>Thu, 09 Oct 2014 19:34:32 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/cari-thon-rapide-reunion/</guid>
+      <description>Éplucher l’ail et l’oignon. Émincer l’oignon. Émietter le thon.
+Éplucher la patate douce et la couper en gros cubes.</description>
+    </item>
+    
+  </channel>
+</rss>

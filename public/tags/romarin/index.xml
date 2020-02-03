@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>romarin on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/romarin/</link>
+    <description>Recent content in romarin on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 06 Aug 2018 14:50:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/romarin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caviar d&#39;Aubergines</title>
+      <link>https://instamiam-go.netlify.com/caviar-daubergines/</link>
+      <pubDate>Mon, 06 Aug 2018 14:50:13 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/caviar-daubergines/</guid>
+      <description>Préchauffer le four à 200°C.
+Rincer les aubergines et les couper en deux dans le sens de la longueur.</description>
+    </item>
+    
+  </channel>
+</rss>

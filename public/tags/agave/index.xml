@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agave on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/agave/</link>
+    <description>Recent content in agave on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 06 May 2018 11:00:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/agave/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Panna Cotta sans lactose et vegan</title>
+      <link>https://instamiam-go.netlify.com/panna-cotta-au-lait-de-coco/</link>
+      <pubDate>Sun, 06 May 2018 11:00:26 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/panna-cotta-au-lait-de-coco/</guid>
+      <description>Mettre dans une casserole le lait de coco, le miel (ou le sucre roux), la vanille en poudre et l’agar-agar.</description>
+    </item>
+    
+  </channel>
+</rss>

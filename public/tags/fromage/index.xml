@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fromage on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/fromage/</link>
+    <description>Recent content in fromage on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 16 Apr 2018 18:30:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/fromage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lasagnes chèvre épinards</title>
+      <link>https://instamiam-go.netlify.com/lasagnes-chevre-epinards/</link>
+      <pubDate>Mon, 16 Apr 2018 18:30:33 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/lasagnes-chevre-epinards/</guid>
+      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
+    </item>
+    
+    <item>
+      <title>Tartiflette</title>
+      <link>https://instamiam-go.netlify.com/tartiflette/</link>
+      <pubDate>Mon, 04 Dec 2017 18:34:31 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/tartiflette/</guid>
+      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
+    </item>
+    
+    <item>
+      <title>Gratin de polenta</title>
+      <link>https://instamiam-go.netlify.com/gratin-de-polenta/</link>
+      <pubDate>Wed, 19 Nov 2014 21:32:01 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/gratin-de-polenta/</guid>
+      <description>Faire bouillir le lait avec du sel. Quand l’eau bout, verser la polenta et laisser cuire 2 minutes en remuant, jusqu’à ce qu’elle devienne pâteuse.</description>
+    </item>
+    
+    <item>
+      <title>Saint-Marcellin chaud, pomme et lard</title>
+      <link>https://instamiam-go.netlify.com/saint-marcellin-chaud-pomme-et-lard/</link>
+      <pubDate>Thu, 24 Apr 2014 19:33:24 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/saint-marcellin-chaud-pomme-et-lard/</guid>
+      <description>Préchauffer le four à 180°c (Thermostat 6).
+Éplucher une pomme, l’évider et la couper en rondelles de 1 cm d’épaisseur dans la hauteur.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>potiron on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/potiron/</link>
+    <description>Recent content in potiron on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 23 Nov 2017 09:30:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/potiron/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Risotto au potiron</title>
+      <link>https://instamiam-go.netlify.com/risotto-au-potiron/</link>
+      <pubDate>Thu, 23 Nov 2017 09:30:31 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/risotto-au-potiron/</guid>
+      <description>Mettre le riz et l’eau (sans sel) à bouillir quelques minutes dans une casserole.</description>
+    </item>
+    
+    <item>
+      <title>Tarte potiron lardons oignons</title>
+      <link>https://instamiam-go.netlify.com/tarte-potiron-lardons-oignons/</link>
+      <pubDate>Fri, 28 Oct 2016 17:00:48 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/tarte-potiron-lardons-oignons/</guid>
+      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+    </item>
+    
+    <item>
+      <title>Purée de courge (Potimarron)</title>
+      <link>https://instamiam-go.netlify.com/puree-de-courge-potimarron/</link>
+      <pubDate>Wed, 22 Oct 2014 09:36:55 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/puree-de-courge-potimarron/</guid>
+      <description>Faire cuire les pommes de terre à la vapeur 30 minutes, puis les éplucher et les écraser pour les réduire en purée.</description>
+    </item>
+    
+    <item>
+      <title>Velouté de potiron au lait</title>
+      <link>https://instamiam-go.netlify.com/veloute-de-potiron-au-lait/</link>
+      <pubDate>Thu, 12 Dec 2013 17:29:26 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/veloute-de-potiron-au-lait/</guid>
+      <description>Éplucher le potiron et le rincer. Le couper en dés d’environ 4-5 cm de largeur.</description>
+    </item>
+    
+  </channel>
+</rss>

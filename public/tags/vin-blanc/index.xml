@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vin blanc on Instamiam</title>
+    <link>https://instamiam-go.netlify.com/tags/vin-blanc/</link>
+    <description>Recent content in vin blanc on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 09 Oct 2014 20:03:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam-go.netlify.com/tags/vin-blanc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cake salé olives noisettes</title>
+      <link>https://instamiam-go.netlify.com/cake-sale-olives-noisettes/</link>
+      <pubDate>Thu, 09 Oct 2014 20:03:48 +0000</pubDate>
+      
+      <guid>https://instamiam-go.netlify.com/cake-sale-olives-noisettes/</guid>
+      <description>Faire préchauffer le four à 180°c (Thermostat 6/7)
+Mélanger ensemble les ingrédients « secs » : Farine, levure, sel, piment d’Espelette.</description>
+    </item>
+    
+  </channel>
+</rss>
