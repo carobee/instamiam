@@ -30,6 +30,11 @@ removePathAccents=true
     weight = 4
 
     [[menu.nav]]
+    name = "Recherche"
+    URL = "searchBox"
+    weight = 5
+
+    [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
     weight = 8

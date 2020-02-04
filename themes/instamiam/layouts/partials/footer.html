@@ -49,6 +49,10 @@
 {{"<!-- Portfolio Filtering -->" | safeHTML}}
 <script type="text/javascript" src="{{ "plugins/filterzr/jquery.filterizr.min.js" | absURL}}"></script>
 
+{{"<!-- Recherche Algolia -->" | safeHTML}}
+<script src="https://cdn.jsdelivr.net/algoliasearch/3.32.0/algoliasearchLite.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.2.0"></script>
+
 {{"<!-- Custom js -->" | safeHTML}}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>

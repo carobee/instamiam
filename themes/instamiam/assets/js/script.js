@@ -111,3 +111,51 @@ $(document).ready(function () {
 		}
 	});
 });
+
+/* ========================================================================= */
+/*	Recherche Algolia
+/* ========================================================================= */
+/* global algoliasearch instantsearch */
+
+const searchClient = algoliasearch('CWMYOSSE93', '924f0979d2bf21684401063991d99d52');
+
+const search = instantsearch({
+  indexName: 'test_INSTAMIAM',
+  searchClient,
+});
+
+
+
+search.addWidgets([
+  instantsearch.widgets.searchBox({
+    container: '#searchbox',
+  }),
+
+  instantsearch.widgets.hits({
+    container: '#hits',
+    templates: {
+      item: `
+	  <div>
+	  <div class="hit-name">
+		({{type}}) - <a href="{{url}}">{{title}}</a>
+	  </div>
+	  <div class="hit-description">
+		<small>{{categories0}}</small>
+	  </div>
+	</div>
+      `,
+    },
+  }),
+
+  instantsearch.widgets.currentRefinements({
+    container: '#current-refinements',
+  }),
+
+  instantsearch.widgets.refinementList({
+    container: '#brand-list',
+    attribute: 'brand',
+  })
+]);
+
+
+search.start();
