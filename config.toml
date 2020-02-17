@@ -20,24 +20,23 @@ removePathAccents=true
     weight = 2
 
     [[menu.nav]]
+    name = "Recherche"
+    URL = "searchBox"
+    weight = 3
+    [[menu.nav]]
     name = "Catégories"
     URL = "categories"
-    weight = 3
+    weight = 4
 
     [[menu.nav]]
     name = "Pratique les basiques"
     URL = "pratiques-les-basiques"
-    weight = 4
-
-    [[menu.nav]]
-    name = "Recherche"
-    URL = "searchBox"
     weight = 5
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 8
+    weight = 6
 
 # Site params
 [params]

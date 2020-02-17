@@ -93,15 +93,35 @@
 .hit-name { margin-bottom: 0.5em; }
 .hit-description { color: #888; font-size: 14px; margin-bottom: 0.5em; }
 
+/*****************************/
+/** formulaire de recherche **/
+/*****************************/
+#searchBox {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+}
+.ais-SearchBox-submit, .ais-SearchBox-reset {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  background: #57cbcc;
+  padding: 2px 0;
+  width: 10%;
+  margin: 0 5px 0 0;
+}
+
 .ais-SearchBox-form {
   background-color: transparent;
   border-radius: 0;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid rgba(236, 239, 241, 0.07);
 }
 
-.ais-SearchBox-form:focus
+.ais-SearchBox-form .ais-SearchBox-input
+{
+  background-color:transparent;
+  color:#fff;
+  margin: 15px;
+}
+
+.ais-SearchBox-form .ais-SearchBox-input:focus
 {
   border-color: none;
   box-shadow: none;
@@ -109,19 +129,11 @@
 
 .ais-SearchBox-form input:hover,
 .ais-SearchBox-form textarea:hover,
-.ais-SearchBox-submit:hover {
+#contact-submit:hover {
   border-color: #57cbcc;
 }
 
 .ais-SearchBox-form ::placeholder
 {
   color: #ddd !important;
-}
-
-.ais-SearchBox-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
-  padding: 12px 0;
-  width: 10%;
-  margin: 0;
 }
