@@ -137,24 +137,14 @@ search.addWidgets([
       item: `
 	  <div>
 	  <div class="hit-name">
-		({{type}}) - <a href="{{url}}">{{title}}</a>
-	  </div>
-	  <div class="hit-description">
-		<small>{{categories0}}</small>
+		<a href="{{url}}">{{title}}</a>&nbsp;[{{categories}}]
 	  </div>
 	</div>
       `,
     },
   }),
 
-  instantsearch.widgets.currentRefinements({
-    container: '#current-refinements',
-  }),
 
-  instantsearch.widgets.refinementList({
-    container: '#brand-list',
-    attribute: 'brand',
-  })
 ]);
 
 

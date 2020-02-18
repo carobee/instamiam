@@ -1,7 +1,9 @@
 ---
 title: Mentions légales
 author: Caro
-type: article
+type: 
+categories:
+  - Page
 date: 2020-01-24T21:40:58+00:00
 url: /mentions-legales/
 draft: false
