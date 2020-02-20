@@ -1,4 +1,4 @@
-baseurl = "https://instamiam-go.netlify.com"
+baseurl = "https://instamiam.netlify.com"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 title = "Instamiam"
