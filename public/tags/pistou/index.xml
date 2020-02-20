@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pistou on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/pistou/</link>
+    <link>https://instamiam.netlify.com/tags/pistou/</link>
     <description>Recent content in pistou on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 21 Dec 2017 11:01:19 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/pistou/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/pistou/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sapin feuilleté</title>
-      <link>https://instamiam-go.netlify.com/sapin-feuillete/</link>
+      <link>https://instamiam.netlify.com/sapin-feuillete/</link>
       <pubDate>Thu, 21 Dec 2017 11:01:19 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/sapin-feuillete/</guid>
+      <guid>https://instamiam.netlify.com/sapin-feuillete/</guid>
       <description>Préchauffer le four à 180°C (Thermostat 6) à chaleur tournante, ou 200°C en cuisson classique.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reblochon on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/reblochon/</link>
+    <link>https://instamiam.netlify.com/tags/reblochon/</link>
     <description>Recent content in reblochon on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 04 Dec 2017 18:34:31 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/reblochon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/reblochon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tartiflette</title>
-      <link>https://instamiam-go.netlify.com/tartiflette/</link>
+      <link>https://instamiam.netlify.com/tartiflette/</link>
       <pubDate>Mon, 04 Dec 2017 18:34:31 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/tartiflette/</guid>
+      <guid>https://instamiam.netlify.com/tartiflette/</guid>
       <description>Éplucher les pommes de terre et les couper en petits dés.</description>
     </item>
     

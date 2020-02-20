@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wok on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/wok/</link>
+    <link>https://instamiam.netlify.com/tags/wok/</link>
     <description>Recent content in wok on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 22 Mar 2019 17:35:35 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/wok/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/wok/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sauté de mines (La Réunion)</title>
-      <link>https://instamiam-go.netlify.com/saute-de-mines-la-reunion/</link>
+      <link>https://instamiam.netlify.com/saute-de-mines-la-reunion/</link>
       <pubDate>Fri, 22 Mar 2019 17:35:35 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/saute-de-mines-la-reunion/</guid>
+      <guid>https://instamiam.netlify.com/saute-de-mines-la-reunion/</guid>
       <description>Si vous ne trouvez pas d’ail chinois, il est possible de remplacer par une botte supplémentaire d’oignons chinois.</description>
     </item>
     

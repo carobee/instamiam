@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sauce on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/sauce/</link>
+    <link>https://instamiam.netlify.com/tags/sauce/</link>
     <description>Recent content in sauce on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 15 Jul 2017 18:09:51 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sauce aux échalotes</title>
-      <link>https://instamiam-go.netlify.com/sauce-aux-echalotes/</link>
+      <link>https://instamiam.netlify.com/sauce-aux-echalotes/</link>
       <pubDate>Sat, 15 Jul 2017 18:09:51 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/sauce-aux-echalotes/</guid>
+      <guid>https://instamiam.netlify.com/sauce-aux-echalotes/</guid>
       <description>Éplucher et couper finement les échalotes en rondelles.
 Préparer un bol de fond de veau.</description>
     </item>
     
     <item>
       <title>Sauce bolognaise rapide</title>
-      <link>https://instamiam-go.netlify.com/sauce-bolognaise-rapide/</link>
+      <link>https://instamiam.netlify.com/sauce-bolognaise-rapide/</link>
       <pubDate>Wed, 24 Sep 2014 10:01:14 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/sauce-bolognaise-rapide/</guid>
+      <guid>https://instamiam.netlify.com/sauce-bolognaise-rapide/</guid>
       <description>Éplucher et émincer les oignons.
 Éplucher et râper la carotte.</description>
     </item>
     
     <item>
       <title>Rougail de tomates</title>
-      <link>https://instamiam-go.netlify.com/rougail-de-tomates/</link>
+      <link>https://instamiam.netlify.com/rougail-de-tomates/</link>
       <pubDate>Mon, 17 Mar 2014 10:00:11 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/rougail-de-tomates/</guid>
+      <guid>https://instamiam.netlify.com/rougail-de-tomates/</guid>
       <description>Couper l’oignon et la tomate au couteau, en petits morceaux.</description>
     </item>
     

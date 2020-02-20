@@ -120,7 +120,7 @@ $(document).ready(function () {
 const searchClient = algoliasearch('CWMYOSSE93', '924f0979d2bf21684401063991d99d52');
 
 const search = instantsearch({
-  indexName: 'test_INSTAMIAM',
+  indexName: 'prod_INSTAMIAM',
   searchClient,
 });
 

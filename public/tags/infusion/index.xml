@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>infusion on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/infusion/</link>
+    <link>https://instamiam.netlify.com/tags/infusion/</link>
     <description>Recent content in infusion on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 04 Aug 2013 13:46:14 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/infusion/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/infusion/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Yaourts au thé Chai</title>
-      <link>https://instamiam-go.netlify.com/yaourts-au-the-chai/</link>
+      <link>https://instamiam.netlify.com/yaourts-au-the-chai/</link>
       <pubDate>Sun, 04 Aug 2013 13:46:14 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/yaourts-au-the-chai/</guid>
+      <guid>https://instamiam.netlify.com/yaourts-au-the-chai/</guid>
       <description>Dans une casserole, mélanger tous les ingrédients (sauf le ferment) et amener à ébullition.</description>
     </item>
     

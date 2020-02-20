@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>anniversaire on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/anniversaire/</link>
+    <link>https://instamiam.netlify.com/tags/anniversaire/</link>
     <description>Recent content in anniversaire on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 20 May 2017 14:24:35 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/anniversaire/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/anniversaire/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gâteau napolitain</title>
-      <link>https://instamiam-go.netlify.com/gateau-napolitain/</link>
+      <link>https://instamiam.netlify.com/gateau-napolitain/</link>
       <pubDate>Sat, 20 May 2017 14:24:35 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/gateau-napolitain/</guid>
+      <guid>https://instamiam.netlify.com/gateau-napolitain/</guid>
       <description>Info : Ce gâteau est assez simple à réaliser. Il faut d’abord préparer la base de la pâte dans un grand récipient, puis séparer la quantité de pâte obtenue en deux : deux tiers pour la partie qui sera vanillée, et le tiers restant pour la partie chocolatée.</description>
     </item>
     
     <item>
       <title>« Gâteau des Familles »</title>
-      <link>https://instamiam-go.netlify.com/gateau-des-familles/</link>
+      <link>https://instamiam.netlify.com/gateau-des-familles/</link>
       <pubDate>Tue, 21 Apr 2015 06:50:19 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/gateau-des-familles/</guid>
+      <guid>https://instamiam.netlify.com/gateau-des-familles/</guid>
       <description>A préparer la veille !
 Au préalable : Préparer un café bien fort et le laisser refroidir.</description>
     </item>

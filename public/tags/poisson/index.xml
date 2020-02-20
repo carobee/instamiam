@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poisson on Instamiam</title>
-    <link>https://instamiam-go.netlify.com/tags/poisson/</link>
+    <link>https://instamiam.netlify.com/tags/poisson/</link>
     <description>Recent content in poisson on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 04 Oct 2017 21:09:53 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam-go.netlify.com/tags/poisson/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.netlify.com/tags/poisson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rougail La Morue (Ile de La Réunion)</title>
-      <link>https://instamiam-go.netlify.com/rougail-la-morue-ile-de-la-reunion/</link>
+      <link>https://instamiam.netlify.com/rougail-la-morue-ile-de-la-reunion/</link>
       <pubDate>Wed, 04 Oct 2017 21:09:53 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/rougail-la-morue-ile-de-la-reunion/</guid>
+      <guid>https://instamiam.netlify.com/rougail-la-morue-ile-de-la-reunion/</guid>
       <description>Si la morue n’est pas dessalée, il faut la dessaler.</description>
     </item>
     
     <item>
       <title>Papillote de poisson au micro-ondes</title>
-      <link>https://instamiam-go.netlify.com/papillote-de-poisson-au-micro-ondes/</link>
+      <link>https://instamiam.netlify.com/papillote-de-poisson-au-micro-ondes/</link>
       <pubDate>Tue, 01 Oct 2013 08:00:30 +0000</pubDate>
       
-      <guid>https://instamiam-go.netlify.com/papillote-de-poisson-au-micro-ondes/</guid>
+      <guid>https://instamiam.netlify.com/papillote-de-poisson-au-micro-ondes/</guid>
       <description>(Recette testée avec la papillote pour micro-ondes Lékué, avec la grille)</description>
     </item>
     
