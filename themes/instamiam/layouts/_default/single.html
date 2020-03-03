@@ -82,11 +82,18 @@
                     </div>
                 </div>
             </div>
-            <div  class="col-lg-12 text-center">
+            
               {{ if isset .Params "ingredients" }}
-                {{ partial "share_post" . }}
+                <div  class="col-lg-12 text-center">
+                  {{ partial "share_post" . }}
+                </div>
+                <div  class="col-lg-12">
+                  <section class="portfolio section">
+                    {{ partial "recherche.html" }}
+                  </section>
+                </div>
               {{ end }}
-            </div>
+
         </div>
     </div>
 </section>

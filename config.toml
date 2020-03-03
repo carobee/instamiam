@@ -43,6 +43,7 @@ removePathAccents=true
 [params]
 home= "Accueil"
 logo = "images/logo.png"
+logoAlgolia = "images/logo-algolia-white-full.png"
 # Meta data
 description = "Recettes simples, familiales et gourmandes"
 author = "carobee"
