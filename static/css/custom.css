@@ -76,7 +76,7 @@
 }
 
 .post-single-content {
-  color: #A0ACB7;
+  color: #bebebe;
 }
 .post-single-content > p > strong {
   color: #e83e8c;
@@ -137,4 +137,9 @@
 .ais-SearchBox-form ::placeholder
 {
   color: #ddd !important;
+}
+
+.caption p {
+  color: #555555;
+  font-size: 12px;
 }
