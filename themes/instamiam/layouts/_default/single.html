@@ -11,7 +11,7 @@
               <!-- PHOTO 1 -->
               {{ if .Params.image1 }}<img class="img-fluid mb-50 photo-miniature" src="{{ .Params.image1 | absURL }}" alt="Miniature photo {{ .Title }}">{{ end }}
               <h1>{{ .Title }}</h1>
-                <p>Publié par <a href="/author/{{ urlize .Params.author}}">{{ .Params.author }}</a> le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
+                <p>Publié par <a href="/author/{{ urlize .Params.author}}" aria-label="Voir la page de l'auteur">{{ .Params.author }}</a> le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
                 
                 {{ if .Params.categories }}
                   <!-- CATEGORIES & TAGS -->
@@ -19,14 +19,14 @@
                     <i class="tf-ion-pricetags"></i>
                     {{ range .Params.categories }}
                     <li>
-                      <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+                      <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif" aria-label="Voir la page de la catégorie&nbsp; {{- . -}}">
                         {{- . -}}
                       </a>
                     </li>
                     {{ end }}
                     {{ range .Params.tags }}
                     <li>
-                      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+                      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif" aria-label="Voir la page du tag&nbsp; {{- . -}}">
                         {{- . -}}
                       </a>
                     </li>

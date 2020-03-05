@@ -8,8 +8,8 @@
 
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
-					<a href="{{ .Site.BaseURL | absURL }}">
-						<img src="{{ .Site.Params.logo | absURL }}" alt="Meghna" />
+					<a href="{{ .Site.BaseURL | absURL }}"  aria-label="Retour à l'accueil">
+						<img src="{{ .Site.Params.logo | absURL }}" alt="Logo Instamiam" />
 					</a>
 				</div>
 
@@ -17,17 +17,17 @@
 				<div class="social-icon">
 					<ul class="list-inline">
 						{{ range .Site.Params.footer.socialIcon }}
-						<li class="list-inline-item"><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
+						<li class="list-inline-item"><a href="{{ .url }}"  aria-label="Vers le compte {{ .nom }}" ><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
 
 				<div class="copyright text-center">
-				<p>Developed by <a href="{{ .Site.Params.footer.copyrightURL | absURL }}"> {{ with .Site.Params.footer.copyright }} {{ . }} {{ end }}</a> |
-					Design by <a href="http://www.Themefisher.com" tager="_blank">Themefisher</a> | Copyright &copy; <script>
+				<p>Developed by <a href="{{ .Site.Params.footer.copyrightURL | absURL }}"  aria-label="Vers le site de CaroBee"> {{ with .Site.Params.footer.copyright }} {{ . }} {{ end }}</a> |
+					Design by <a href="http://www.Themefisher.com" tager="_blank" aria-label="Voir le site de Themefisher">Themefisher</a> | Copyright &copy; <script>
 						document.write(new Date().getFullYear())
 					</script>. All Rights Reserved. | 
-				<a href="/mentions-legales/">Mentions légales</a></p>
+				<a href="/mentions-legales/" aria-label="Voir les mentions légales">Mentions légales</a></p>
 				</div>
 			</div>
 		</div>

@@ -62,23 +62,28 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
         url = "https://www.facebook.com/instamiam"
+        nom = "Facebook"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "https://twitter.com/Instamiam"
+        nom = "Twitter"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
         url = "https://www.youtube.com/channel/UChcSUQwuQF5BA84sJ1VXnLA/videos"
+        nom = "Youtube"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
         url = "http://pinterest.com/instamiam/"
+        nom = "Pinterest"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-instagram"
         url = "http://instagram.com/instamiam_fr"
+        nom = "Instagram"
 
 [outputFormats.Algolia]
 baseName = "algolia"
