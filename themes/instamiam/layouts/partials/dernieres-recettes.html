@@ -28,7 +28,7 @@
             {{ if isset .Params "ingredients" }}
             <div class="col-lg-4 filtr-item" data-category="{{ range .Params.categories }}{{ . }}{{ end }}">
                 <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="{{ .Params.image1 | absURL}}" alt="work-image">
+                    <img class="img-fluid" src="{{ .Params.image1 | absURL}}" alt="Photo {{ .Title }}">
                     <div class="caption">
                         <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .Params.image1 | absURL}}" data-lightbox="image-1">
                             <i class="tf-ion-android-search"></i>
