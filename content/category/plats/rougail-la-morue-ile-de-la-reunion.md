@@ -9,7 +9,14 @@ image:
   - 1349
 image2: /images/2017/10/rougail-morue-2-650.jpg
 ingredients:
- - 1 kg de morue dessalée (ou de morue salée à dessaler) - 600 g de tomates - 600 g d'oignons - un petit morceau de gingembre - 1 cuillère à soupe de curcuma - thym - huile - sel, poivre
+ - 1 kg de morue dessalée (ou de morue salée à dessaler) 
+ - 600 g de tomates 
+ - 600 g d'oignons 
+ - un petit morceau de gingembre 
+ - 1 cuillère à soupe de curcuma 
+ - thym 
+ - huile 
+ - sel, poivre
 quantite:
   - Pour 4 personnes
 preptime:
