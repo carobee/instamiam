@@ -1,5 +1,5 @@
 ---
-title: '« Pain d&rsquo;chien » ou pudding ch&rsquo;ti'
+title: « Pain d'chien » ou pudding ch'ti
 author: Caro
 type: recette
 date: 2020-03-30T19:07:37+00:00
