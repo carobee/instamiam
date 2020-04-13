@@ -1,3 +1,10 @@
+h1.titre {
+  line-height: inherit;
+  white-space: nowrap;
+  color:#f178a1;
+  font-weight: 900;
+  font-size: 3em;
+}
 .navbar-brand small, .title small {
   font-size:60%;
 }
@@ -92,7 +99,7 @@ ul.list-ingredients li {
 .ais-Pagination { margin-top: 1em; }
 .left-panel { float: left; width: 250px; }
 .right-panel { margin-left: 260px; }
-.ais-InstantSearch { max-width: 960px; overflow: hidden; margin: 0 auto; }
+.ais-InstantSearch { max-width: 650px; overflow: hidden; margin: 0 auto; }
 .ais-Hits-item { margin-bottom: 1em; }
 .ais-Hits-item img { margin-right: 1em; }
 .hit-name { margin-bottom: 0.5em; }
