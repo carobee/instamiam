@@ -50,7 +50,6 @@ author = "carobee"
 # Google Analitycs
 googleAnalitycsID = "UA-6335497-8 "
 custom_css = ["css/custom.css"]
-logoAlgolia= "images/logo-algolia-white-full.png"
 
 
 

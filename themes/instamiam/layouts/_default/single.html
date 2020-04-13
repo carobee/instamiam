@@ -9,15 +9,13 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
               <!-- PHOTO 1 -->
-<<<<<<< HEAD
-              {{ if .Params.image1 }}<img class="img-fluid mb-50 photo-miniature" src="{{ .Params.image1 | absURL }}" alt="Miniature photo {{ .Title }}">{{ end }}
-=======
+
               {{ with .Params.image1 }}
                 <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ . | absURL}}" data-lightbox="image-1">
                   <img class="img-fluid mb-50 photo-miniature" src="{{ . | absURL }}" alt="blog-image">
                 </a>
               {{ end }}
->>>>>>> dev
+
               <h1>{{ .Title }}</h1>
                 <p>Publié par <a href="/author/{{ urlize .Params.author}}" aria-label="Voir la page de l'auteur">{{ .Params.author }}</a> le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
                 
@@ -92,24 +90,13 @@
             </div>
             
               {{ if isset .Params "ingredients" }}
-<<<<<<< HEAD
-                <div  class="col-lg-12 text-center">
-                  {{ partial "share_post" . }}
-                </div>
-                <div  class="col-lg-12">
-                  <section class="portfolio section">
-                    {{ partial "recherche.html" }}
-                  </section>
-                </div>
-              {{ end }}
 
-=======
-                {{ partial "share_post" . }}
+<div  class="col-lg-12 text-center">
+                  {{ partial "share_post" . }}
+                  </div>
                 
               {{ end }}
             </div>
-            
->>>>>>> dev
         </div>
     </div>
 
