@@ -1,3 +1,10 @@
+h1.titre {
+  line-height: inherit;
+  white-space: nowrap;
+  color:#f178a1;
+  font-weight: 900;
+  font-size: 3em;
+}
 .navbar-brand small, .title small {
   font-size:60%;
 }
