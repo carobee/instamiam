@@ -29,7 +29,7 @@
             {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
             {{"<!-- single blog post -->" | safeHTML}}
             {{ if isset .Params "ingredients" }}
-            <div class="col-lg-4 filtr-item" data-category="{{ range .Params.categories }}{{ . }}{{ end }}">
+            <div class="col-lg-4 filtr-item" data-category="{{ range .Params.categories }}{{ . }}, {{ end }}">
                 <div class="portfolio-block mb-4">
                     <img class="img-fluid" src="{{ .Params.image1 | absURL}}" alt="Photo {{ .Title }}">
                     <div class="caption">
