@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saucisse on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/saucisse/</link>
+    <description>Recent content in saucisse on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 24 Oct 2016 20:05:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/saucisse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Des doigts de sorcière pour Halloween !</title>
+      <link>https://instamiam.netlify.com/des-doigts-de-sorciere-pour-halloween/</link>
+      <pubDate>Mon, 24 Oct 2016 20:05:40 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/des-doigts-de-sorciere-pour-halloween/</guid>
+      <description>Préchauffer le four à 180°C (th 6).
+ Facultatif : mettre un peu de colorant alimentaire rouge sur les amandes (pour que les ongles des sorcières soient vernis !</description>
+    </item>
+    
+    <item>
+      <title>Rougail saucisses réunionnais</title>
+      <link>https://instamiam.netlify.com/rougail-saucisses-reunionnais/</link>
+      <pubDate>Sat, 21 Feb 2015 07:55:16 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/rougail-saucisses-reunionnais/</guid>
+      <description>Éplucher les oignons et les émincer. Couper les tomates en fins quartiers ou en dés.</description>
+    </item>
+    
+  </channel>
+</rss>

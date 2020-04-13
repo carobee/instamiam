@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poudre d&#39;amandes on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/poudre-damandes/</link>
+    <description>Recent content in poudre d&#39;amandes on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 03 Jan 2018 17:21:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/poudre-damandes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Galette à la frangipane</title>
+      <link>https://instamiam.netlify.com/galette-a-la-frangipane/</link>
+      <pubDate>Wed, 03 Jan 2018 17:21:04 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/galette-a-la-frangipane/</guid>
+      <description>Au préalable : Préparer la pâte feuilletée et séparer en 2 parties égales.</description>
+    </item>
+    
+    <item>
+      <title>Muffins végétaliens</title>
+      <link>https://instamiam.netlify.com/muffins-vegetaliens/</link>
+      <pubDate>Wed, 30 Dec 2015 08:33:55 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/muffins-vegetaliens/</guid>
+      <description>Préchauffer le four à 180°C (thermostat 6)
+Dans un grand récipient, verser tous les ingrédients, sauf le jus de citron, et mélanger un peu.</description>
+    </item>
+    
+  </channel>
+</rss>

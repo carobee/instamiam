@@ -2,7 +2,7 @@
 title: Panna Cotta sans lactose et vegan
 author: Caro
 type: recette
-date: 2018-05-06T11:00:26+00:00
+date: 2020-04-06T11:00:26+00:00
 url: /panna-cotta-au-lait-de-coco/
 image1: /images/2013/09/Panna-cotta-1.jpg
 image:

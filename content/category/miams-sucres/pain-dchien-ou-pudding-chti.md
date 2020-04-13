@@ -2,7 +2,7 @@
 title: '« Pain d&rsquo;chien » ou pudding ch&rsquo;ti'
 author: Caro
 type: recette
-date: 2014-09-30T19:07:37+00:00
+date: 2020-03-30T19:07:37+00:00
 url: /pain-dchien-ou-pudding-chti/
 image1: /images/2014/09/recette-puddding-pain-dchien-1.jpg
 image:

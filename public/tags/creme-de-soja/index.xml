@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>creme de soja on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/creme-de-soja/</link>
+    <description>Recent content in creme de soja on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 24 Dec 2017 07:38:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/creme-de-soja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tarama facile sans lactose</title>
+      <link>https://instamiam.netlify.com/tarama-facile-sans-lactose/</link>
+      <pubDate>Sun, 24 Dec 2017 07:38:30 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/tarama-facile-sans-lactose/</guid>
+      <description>Dans un récipient, ajouter la crème de soja, les œufs de poisson, la chapelure, le jus de citron.</description>
+    </item>
+    
+    <item>
+      <title>Muffins végétaliens</title>
+      <link>https://instamiam.netlify.com/muffins-vegetaliens/</link>
+      <pubDate>Wed, 30 Dec 2015 08:33:55 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/muffins-vegetaliens/</guid>
+      <description>Préchauffer le four à 180°C (thermostat 6)
+Dans un grand récipient, verser tous les ingrédients, sauf le jus de citron, et mélanger un peu.</description>
+    </item>
+    
+  </channel>
+</rss>

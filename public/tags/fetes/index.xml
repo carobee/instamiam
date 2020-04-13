@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fêtes on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/fetes/</link>
+    <description>Recent content in fêtes on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 03 Jan 2018 17:21:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/fetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Galette à la frangipane</title>
+      <link>https://instamiam.netlify.com/galette-a-la-frangipane/</link>
+      <pubDate>Wed, 03 Jan 2018 17:21:04 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/galette-a-la-frangipane/</guid>
+      <description>Au préalable : Préparer la pâte feuilletée et séparer en 2 parties égales.</description>
+    </item>
+    
+    <item>
+      <title>Noix de St Jacques flambées au pastis</title>
+      <link>https://instamiam.netlify.com/noix-de-st-jacques-flambees-au-pastis/</link>
+      <pubDate>Sun, 24 Dec 2017 08:35:11 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/noix-de-st-jacques-flambees-au-pastis/</guid>
+      <description>Au préalable : Noix de St Jacques : Si vous avez acheté des noix de st jacques surgelées, laissez-les décongeler, soit à partir de la veille dans le réfrigérateur, soit en plongeant le sachet dans un récipient contenant de l’eau chaude (pas bouillante).</description>
+    </item>
+    
+    <item>
+      <title>Tarama facile sans lactose</title>
+      <link>https://instamiam.netlify.com/tarama-facile-sans-lactose/</link>
+      <pubDate>Sun, 24 Dec 2017 07:38:30 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/tarama-facile-sans-lactose/</guid>
+      <description>Dans un récipient, ajouter la crème de soja, les œufs de poisson, la chapelure, le jus de citron.</description>
+    </item>
+    
+    <item>
+      <title>Sapin feuilleté</title>
+      <link>https://instamiam.netlify.com/sapin-feuillete/</link>
+      <pubDate>Thu, 21 Dec 2017 11:01:19 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/sapin-feuillete/</guid>
+      <description>Préchauffer le four à 180°C (Thermostat 6) à chaleur tournante, ou 200°C en cuisson classique.</description>
+    </item>
+    
+  </channel>
+</rss>

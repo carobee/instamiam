@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comté on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/comte/</link>
+    <description>Recent content in comté on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 07 Feb 2016 20:50:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/comte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quiche aux trois fromages</title>
+      <link>https://instamiam.netlify.com/quiche-aux-trois-fromages/</link>
+      <pubDate>Sun, 07 Feb 2016 20:50:11 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/quiche-aux-trois-fromages/</guid>
+      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+    </item>
+    
+  </channel>
+</rss>

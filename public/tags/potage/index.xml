@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>potage on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/potage/</link>
+    <description>Recent content in potage on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 13 Nov 2017 19:41:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/potage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soupe carottes coco gingembre</title>
+      <link>https://instamiam.netlify.com/soupe-carottes-coco-gingembre/</link>
+      <pubDate>Mon, 13 Nov 2017 19:41:18 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/soupe-carottes-coco-gingembre/</guid>
+      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
+    </item>
+    
+    <item>
+      <title>Soupe aux épinards</title>
+      <link>https://instamiam.netlify.com/soupe-aux-epinards/</link>
+      <pubDate>Sun, 06 Dec 2015 17:17:27 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/soupe-aux-epinards/</guid>
+      <description>Note : les épinards vont énormément réduire durant la cuisson</description>
+    </item>
+    
+    <item>
+      <title>Soupe légère poireaux-oignons</title>
+      <link>https://instamiam.netlify.com/soupe-legere-poireaux-oignons/</link>
+      <pubDate>Sun, 17 Nov 2013 18:00:24 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/soupe-legere-poireaux-oignons/</guid>
+      <description>Enlever la partie abîmée des feuilles de poireaux, tailler les poireaux et le nettoyer.</description>
+    </item>
+    
+  </channel>
+</rss>

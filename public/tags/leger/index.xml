@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>léger on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/leger/</link>
+    <description>Recent content in léger on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 17 Nov 2013 18:00:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/leger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soupe légère poireaux-oignons</title>
+      <link>https://instamiam.netlify.com/soupe-legere-poireaux-oignons/</link>
+      <pubDate>Sun, 17 Nov 2013 18:00:24 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/soupe-legere-poireaux-oignons/</guid>
+      <description>Enlever la partie abîmée des feuilles de poireaux, tailler les poireaux et le nettoyer.</description>
+    </item>
+    
+  </channel>
+</rss>

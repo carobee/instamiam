@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speculos on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/speculos/</link>
+    <description>Recent content in speculos on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 Feb 2015 21:41:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/speculos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le Cheesecake américain</title>
+      <link>https://instamiam.netlify.com/le-cheesecake-americain/</link>
+      <pubDate>Mon, 09 Feb 2015 21:41:53 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/le-cheesecake-americain/</guid>
+      <description>Prévoir de préférence un moule spécial pour les cheesecakes, à savoir un moule à manqué avec une charnière pour pouvoir ouvrir le moule et ainsi ne pas avoir besoin de démouler le gâteau.</description>
+    </item>
+    
+  </channel>
+</rss>

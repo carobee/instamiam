@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Instamiam</title>
+    <link>https://instamiam.netlify.com/categories/</link>
+    <description>Recent content in Categories on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 13 Apr 2020 10:15:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Légumes</title>
+      <link>https://instamiam.netlify.com/categories/legumes/</link>
+      <pubDate>Mon, 13 Apr 2020 10:15:56 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/legumes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pratique : Les basiques</title>
+      <link>https://instamiam.netlify.com/categories/pratique-les-basiques/</link>
+      <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/pratique-les-basiques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miams sucrés</title>
+      <link>https://instamiam.netlify.com/categories/miams-sucres/</link>
+      <pubDate>Sat, 11 Apr 2020 09:01:03 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/miams-sucres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plats</title>
+      <link>https://instamiam.netlify.com/categories/plats/</link>
+      <pubDate>Fri, 10 Apr 2020 10:51:56 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/plats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Page</title>
+      <link>https://instamiam.netlify.com/categories/page/</link>
+      <pubDate>Fri, 24 Jan 2020 21:40:58 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apéro</title>
+      <link>https://instamiam.netlify.com/categories/apero/</link>
+      <pubDate>Mon, 06 Aug 2018 14:50:13 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/apero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confitures</title>
+      <link>https://instamiam.netlify.com/categories/confitures/</link>
+      <pubDate>Wed, 25 Jul 2018 15:47:50 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/confitures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaourts</title>
+      <link>https://instamiam.netlify.com/categories/yaourts/</link>
+      <pubDate>Mon, 13 Nov 2017 21:04:49 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/categories/yaourts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

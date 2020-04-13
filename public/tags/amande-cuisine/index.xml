@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amande cuisine on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/amande-cuisine/</link>
+    <description>Recent content in amande cuisine on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 02 Jun 2015 17:15:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/amande-cuisine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gratin dauphinois sans lactose</title>
+      <link>https://instamiam.netlify.com/gratin-dauphinois-sans-lactose/</link>
+      <pubDate>Tue, 02 Jun 2015 17:15:25 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/gratin-dauphinois-sans-lactose/</guid>
+      <description>Préchauffer le four à 180°C (th 6).
+Eplucher les pommes de terre et les trancher finement.</description>
+    </item>
+    
+  </channel>
+</rss>

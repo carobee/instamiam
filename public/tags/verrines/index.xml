@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verrines on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/verrines/</link>
+    <description>Recent content in verrines on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 06 Apr 2020 11:00:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/verrines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Panna Cotta sans lactose et vegan</title>
+      <link>https://instamiam.netlify.com/panna-cotta-au-lait-de-coco/</link>
+      <pubDate>Mon, 06 Apr 2020 11:00:26 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/panna-cotta-au-lait-de-coco/</guid>
+      <description>Mettre dans une casserole le lait de coco, le miel (ou le sucre roux), la vanille en poudre et l’agar-agar.</description>
+    </item>
+    
+    <item>
+      <title>Verrines de panna cotta salée aux asperges</title>
+      <link>https://instamiam.netlify.com/verrines-de-panna-cotta-salee-aux-asperges/</link>
+      <pubDate>Sun, 06 Apr 2014 13:35:59 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/verrines-de-panna-cotta-salee-aux-asperges/</guid>
+      <description>Verser dans une casserole le lait, la crème fraîche, les asperges et un peu de leur jus, l’agar-agar, du sel et du poivre.</description>
+    </item>
+    
+    <item>
+      <title>Panna Cotta salée au parmesan et tomates séchées</title>
+      <link>https://instamiam.netlify.com/panna-cotta-salee-au-parmesan-et-tomates-sechees/</link>
+      <pubDate>Wed, 12 Feb 2014 14:41:08 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/panna-cotta-salee-au-parmesan-et-tomates-sechees/</guid>
+      <description>A préparer au moins 2 heures à l’avance.
+Mixer les tomates confites pour réaliser une purée.</description>
+    </item>
+    
+  </channel>
+</rss>

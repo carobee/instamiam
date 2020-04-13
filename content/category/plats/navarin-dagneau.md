@@ -2,7 +2,7 @@
 title: "Navarin d'agneau"
 author: Caro
 type: recette
-date: 2018-03-27T10:51:56+00:00
+date: 2020-04-10T10:51:56+00:00
 url: /navarin-dagneau/
 image1: /images/2014/11/navarin-agneau1.jpg
 image:

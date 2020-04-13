@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semoule on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/semoule/</link>
+    <description>Recent content in semoule on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 16 Apr 2018 17:24:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/semoule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semoule au lait à la vanille</title>
+      <link>https://instamiam.netlify.com/semoule-au-lait-a-la-vanille/</link>
+      <pubDate>Mon, 16 Apr 2018 17:24:50 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/semoule-au-lait-a-la-vanille/</guid>
+      <description>Dans une casserole, ajouter le lait, le sucre en poudre et le sucre vanillé (et les raisins secs si vous avez choisi d’en ajouter) et monter à ébullition.</description>
+    </item>
+    
+    <item>
+      <title>Taboulé aux herbes</title>
+      <link>https://instamiam.netlify.com/taboule-aux-herbes/</link>
+      <pubDate>Sun, 11 Jun 2017 21:03:15 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/taboule-aux-herbes/</guid>
+      <description>Eplucher le concombre, et enlever la première peau des oignons et couper le vert.</description>
+    </item>
+    
+    <item>
+      <title>Semoule rapide au micro-ondes</title>
+      <link>https://instamiam.netlify.com/semoule-rapide-au-micro-ondes/</link>
+      <pubDate>Tue, 24 Sep 2013 08:00:27 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/semoule-rapide-au-micro-ondes/</guid>
+      <description>Mettre dans un récipient plat et creux (pas exemple une assiette à soupe) la semoule et la même quantité d’eau.</description>
+    </item>
+    
+  </channel>
+</rss>

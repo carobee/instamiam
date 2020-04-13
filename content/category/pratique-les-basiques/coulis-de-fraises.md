@@ -2,7 +2,7 @@
 title: Coulis de fraises
 author: Caro
 type: recette
-date: 2017-04-18T09:01:03+00:00
+date: 2020-04-11T09:01:03+00:00
 url: /coulis-de-fraises/
 image1: /images/2013/09/Coulis-fraises-1.jpg
 image:

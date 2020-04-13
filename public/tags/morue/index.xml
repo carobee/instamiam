@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>morue on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/morue/</link>
+    <description>Recent content in morue on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 04 Oct 2017 21:09:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/morue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rougail La Morue (Ile de La Réunion)</title>
+      <link>https://instamiam.netlify.com/rougail-la-morue-ile-de-la-reunion/</link>
+      <pubDate>Wed, 04 Oct 2017 21:09:53 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/rougail-la-morue-ile-de-la-reunion/</guid>
+      <description>Si la morue n’est pas dessalée, il faut la dessaler.</description>
+    </item>
+    
+  </channel>
+</rss>

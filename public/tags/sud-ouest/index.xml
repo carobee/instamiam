@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sud-ouest on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/sud-ouest/</link>
+    <description>Recent content in sud-ouest on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 24 Oct 2013 08:00:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/sud-ouest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pommes façon sarladaise</title>
+      <link>https://instamiam.netlify.com/pommes-facon-sarladaise/</link>
+      <pubDate>Thu, 24 Oct 2013 08:00:37 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/pommes-facon-sarladaise/</guid>
+      <description>Éplucher et couper les pommes de terre en rondelles assez épaisses.</description>
+    </item>
+    
+  </channel>
+</rss>

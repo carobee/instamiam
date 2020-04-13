@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fruits on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/fruits/</link>
+    <description>Recent content in fruits on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 25 Jul 2018 15:47:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/fruits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Confiture d&#39;Abricots</title>
+      <link>https://instamiam.netlify.com/marmelade-d-abricots/</link>
+      <pubDate>Wed, 25 Jul 2018 15:47:50 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/marmelade-d-abricots/</guid>
+      <description>Astuce : Si vous achetez vos abricots au marché de producteurs, n’hésitez pas à leur demander des abricots « spécial confitures » : en effet, bien souvent les producteurs préparent des caisses avec des fruits trop abîmés ou trop mûrs pour être vendus au prix normal.</description>
+    </item>
+    
+    <item>
+      <title>Confitures de mirabelles</title>
+      <link>https://instamiam.netlify.com/confitures-de-mirabelles/</link>
+      <pubDate>Fri, 15 Sep 2017 08:00:53 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/confitures-de-mirabelles/</guid>
+      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
+    </item>
+    
+  </channel>
+</rss>

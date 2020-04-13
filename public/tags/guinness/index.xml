@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guinness on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/guinness/</link>
+    <description>Recent content in guinness on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 09 Mar 2018 09:29:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/guinness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bœuf braisé à la Guinness</title>
+      <link>https://instamiam.netlify.com/boeuf-braise-a-la-guinness/</link>
+      <pubDate>Fri, 09 Mar 2018 09:29:30 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/boeuf-braise-a-la-guinness/</guid>
+      <description>Éplucher les carottes et les couper en rondelles.
+Éplucher les oignons et les couper en tranches.</description>
+    </item>
+    
+  </channel>
+</rss>

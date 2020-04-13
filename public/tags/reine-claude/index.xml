@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reine-claude on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/reine-claude/</link>
+    <description>Recent content in reine-claude on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 15 Sep 2017 09:00:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/reine-claude/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roti de porc aux prunes et au miel</title>
+      <link>https://instamiam.netlify.com/roti-de-porc-aux-prunes-et-au-miel/</link>
+      <pubDate>Fri, 15 Sep 2017 09:00:34 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/roti-de-porc-aux-prunes-et-au-miel/</guid>
+      <description>Préchauffer le four thermostat 6 (180°c)
+Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la lèche-frites du four si pas de plat assez grand)</description>
+    </item>
+    
+    <item>
+      <title>Confitures de mirabelles</title>
+      <link>https://instamiam.netlify.com/confitures-de-mirabelles/</link>
+      <pubDate>Fri, 15 Sep 2017 08:00:53 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/confitures-de-mirabelles/</guid>
+      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
+    </item>
+    
+  </channel>
+</rss>

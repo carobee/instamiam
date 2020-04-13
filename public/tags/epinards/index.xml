@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>épinards on Instamiam</title>
+    <link>https://instamiam.netlify.com/tags/epinards/</link>
+    <description>Recent content in épinards on Instamiam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://instamiam.netlify.com/tags/epinards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lasagnes chèvre épinards</title>
+      <link>https://instamiam.netlify.com/lasagnes-chevre-epinards/</link>
+      <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
+      
+      <guid>https://instamiam.netlify.com/lasagnes-chevre-epinards/</guid>
+      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
+    </item>
+    
+  </channel>
+</rss>
