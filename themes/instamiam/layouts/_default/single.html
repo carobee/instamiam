@@ -85,10 +85,14 @@
             <div  class="col-lg-12 text-center">
               {{ if isset .Params "ingredients" }}
                 {{ partial "share_post" . }}
+                
               {{ end }}
             </div>
+            
         </div>
     </div>
+
+    {{ partial "recherche.html" . }}
 </section>
 
 {{ end }}
