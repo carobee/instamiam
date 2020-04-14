@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bavette on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/bavette/</link>
+    <link>https://instamiam.fr/tags/bavette/</link>
     <description>Recent content in bavette on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 15 Jul 2017 18:09:51 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/bavette/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/bavette/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sauce aux échalotes</title>
-      <link>https://instamiam.netlify.com/sauce-aux-echalotes/</link>
+      <link>https://instamiam.fr/sauce-aux-echalotes/</link>
       <pubDate>Sat, 15 Jul 2017 18:09:51 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/sauce-aux-echalotes/</guid>
+      <guid>https://instamiam.fr/sauce-aux-echalotes/</guid>
       <description>Éplucher et couper finement les échalotes en rondelles.
 Préparer un bol de fond de veau.</description>
     </item>

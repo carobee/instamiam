@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provence on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/provence/</link>
+    <link>https://instamiam.fr/tags/provence/</link>
     <description>Recent content in Provence on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 01 Sep 2013 17:09:41 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/provence/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/provence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fougasse aux olives</title>
-      <link>https://instamiam.netlify.com/fougasse-aux-olives/</link>
+      <link>https://instamiam.fr/fougasse-aux-olives/</link>
       <pubDate>Sun, 01 Sep 2013 17:09:41 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/fougasse-aux-olives/</guid>
+      <guid>https://instamiam.fr/fougasse-aux-olives/</guid>
       <description>Réhydrater la levure en suivant les indications sur le sachet (dans notre cas : mettre la levure dans 3 cuillères à soupe d’eau tiède et une cuillère à café de sucre en poudre, et délayer quelques minutes).</description>
     </item>
     

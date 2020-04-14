@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>champignons on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/champignons/</link>
+    <link>https://instamiam.fr/tags/champignons/</link>
     <description>Recent content in champignons on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 28 Mar 2014 10:45:24 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/champignons/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/champignons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Risotto aux champignons</title>
-      <link>https://instamiam.netlify.com/risotto-aux-champignons/</link>
+      <link>https://instamiam.fr/risotto-aux-champignons/</link>
       <pubDate>Fri, 28 Mar 2014 10:45:24 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/risotto-aux-champignons/</guid>
+      <guid>https://instamiam.fr/risotto-aux-champignons/</guid>
       <description>Champignons : ici, j’ai utilisé une petite boîte de conserve de champignons de Paris, ainsi qu’un petite boîte de champignons déshydratés (30 g de champignons secs donnent 130 g environ de champignons).</description>
     </item>
     
     <item>
       <title>Haricots verts « Carbonara »</title>
-      <link>https://instamiam.netlify.com/haricots-verts-carbonara/</link>
+      <link>https://instamiam.fr/haricots-verts-carbonara/</link>
       <pubDate>Sat, 12 Oct 2013 08:00:23 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/haricots-verts-carbonara/</guid>
+      <guid>https://instamiam.fr/haricots-verts-carbonara/</guid>
       <description>Si les haricots sont frais ou surgelés, les faire cuire, et égoutter.</description>
     </item>
     

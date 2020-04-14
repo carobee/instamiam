@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>viande on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/viande/</link>
+    <link>https://instamiam.fr/tags/viande/</link>
     <description>Recent content in viande on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 15 Sep 2017 18:40:19 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/viande/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/viande/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bavette à l&#39;échalote</title>
-      <link>https://instamiam.netlify.com/bavette-a-lechalote/</link>
+      <link>https://instamiam.fr/bavette-a-lechalote/</link>
       <pubDate>Fri, 15 Sep 2017 18:40:19 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/bavette-a-lechalote/</guid>
+      <guid>https://instamiam.fr/bavette-a-lechalote/</guid>
       <description>Au préalable : Sortir la viande du réfrigérateur au moins 30 minutes avant la cuisson afin qu’elle ne durcisse pas à cause de la différence de température.</description>
     </item>
     

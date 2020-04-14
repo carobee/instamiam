@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fraise on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/fraise/</link>
+    <link>https://instamiam.fr/tags/fraise/</link>
     <description>Recent content in fraise on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 11 Apr 2020 09:01:03 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/fraise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/fraise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coulis de fraises</title>
-      <link>https://instamiam.netlify.com/coulis-de-fraises/</link>
+      <link>https://instamiam.fr/coulis-de-fraises/</link>
       <pubDate>Sat, 11 Apr 2020 09:01:03 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/coulis-de-fraises/</guid>
+      <guid>https://instamiam.fr/coulis-de-fraises/</guid>
       <description>Mettre dans un mixeur ou un blender les fraises, le jus du citron et le sucre.</description>
     </item>
     
     <item>
       <title>Yaourts mixés au coulis de fraises</title>
-      <link>https://instamiam.netlify.com/yaourts-mixes-au-coulis-de-fraises/</link>
+      <link>https://instamiam.fr/yaourts-mixes-au-coulis-de-fraises/</link>
       <pubDate>Sun, 22 Sep 2013 08:00:09 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/yaourts-mixes-au-coulis-de-fraises/</guid>
+      <guid>https://instamiam.fr/yaourts-mixes-au-coulis-de-fraises/</guid>
       <description>Faire tiédir le lait au micro ondes pendant 4 minutes.</description>
     </item>
     

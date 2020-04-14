@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nutella on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/nutella/</link>
+    <link>https://instamiam.fr/tags/nutella/</link>
     <description>Recent content in nutella on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 20 May 2017 14:24:35 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/nutella/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/nutella/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gâteau napolitain</title>
-      <link>https://instamiam.netlify.com/gateau-napolitain/</link>
+      <link>https://instamiam.fr/gateau-napolitain/</link>
       <pubDate>Sat, 20 May 2017 14:24:35 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/gateau-napolitain/</guid>
+      <guid>https://instamiam.fr/gateau-napolitain/</guid>
       <description>Info : Ce gâteau est assez simple à réaliser. Il faut d’abord préparer la base de la pâte dans un grand récipient, puis séparer la quantité de pâte obtenue en deux : deux tiers pour la partie qui sera vanillée, et le tiers restant pour la partie chocolatée.</description>
     </item>
     

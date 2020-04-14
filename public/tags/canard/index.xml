@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>canard on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/canard/</link>
+    <link>https://instamiam.fr/tags/canard/</link>
     <description>Recent content in canard on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 20 Nov 2016 20:34:51 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/canard/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/canard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cari canard (Ile de la Réunion)</title>
-      <link>https://instamiam.netlify.com/cari-canard-ile-de-la-reunion/</link>
+      <link>https://instamiam.fr/cari-canard-ile-de-la-reunion/</link>
       <pubDate>Sun, 20 Nov 2016 20:34:51 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/cari-canard-ile-de-la-reunion/</guid>
+      <guid>https://instamiam.fr/cari-canard-ile-de-la-reunion/</guid>
       <description>Couper les magrets de canard en gros dés de 2 cm.</description>
     </item>
     

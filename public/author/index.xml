@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Instamiam</title>
-    <link>https://instamiam.netlify.com/author/</link>
+    <link>https://instamiam.fr/author/</link>
     <description>Recent content in Author on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 13 Apr 2020 10:15:56 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://instamiam.netlify.com/author/caro/</link>
+      <link>https://instamiam.fr/author/caro/</link>
       <pubDate>Mon, 13 Apr 2020 10:15:56 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/author/caro/</guid>
-      <description>Je suis Caroline, maman d&#39;une graaande fille et d&#39;un p&#39;tit loulou, toulousaine depuis une vingtaine d’années, geek, et GOURMANDE !</description>
+      <guid>https://instamiam.fr/author/caro/</guid>
+      <description>Je suis Caroline, maman d&amp;rsquo;une graaande fille et d&amp;rsquo;un p&amp;rsquo;tit loulou, toulousaine depuis une vingtaine d’années, geek, et GOURMANDE !</description>
     </item>
     
   </channel>

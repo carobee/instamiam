@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>petit-déjeuner on Instamiam</title>
-    <link>https://instamiam.netlify.com/tags/petit-dejeuner/</link>
+    <link>https://instamiam.fr/tags/petit-dejeuner/</link>
     <description>Recent content in petit-déjeuner on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 29 Mar 2014 15:00:24 +0000</lastBuildDate>
     
-	<atom:link href="https://instamiam.netlify.com/tags/petit-dejeuner/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://instamiam.fr/tags/petit-dejeuner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Croissants au chocolat</title>
-      <link>https://instamiam.netlify.com/croissants-au-chocolat/</link>
+      <link>https://instamiam.fr/croissants-au-chocolat/</link>
       <pubDate>Sat, 29 Mar 2014 15:00:24 +0000</pubDate>
       
-      <guid>https://instamiam.netlify.com/croissants-au-chocolat/</guid>
+      <guid>https://instamiam.fr/croissants-au-chocolat/</guid>
       <description>Préchauffer le four à 180°c (Th. 6).
 Dérouler la pâte feuilletée sur la plaque du four.</description>
     </item>
