@@ -4,14 +4,44 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: content/category/yaourts
+  label: Yaourts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/category/pratique-les-basiques
+  label: Pratiques les basiques
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/category/plats
+  label: Plats
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/category/miams-sucres
+  label: Miams sucrés
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/category/legumes
+  label: Légumes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/category/confitures
+  label: Confitures
+  create: documents
+  match: "**/*"
+- type: directory
+  path: content/category/apero
+  label: Apero
+  create: documents
+  match: "**/*"
 - type: document
   path: themes/instamiam/layouts/partials/dernieres-recettes.html
   label: Bloc dernieres recettes
-  match: "**/*"
-- type: directory
-  path: content/toutes-les-recettes
-  label: Toutes les recettes
-  create: all
   match: "**/*"
 - type: directory
   path: content/articles
