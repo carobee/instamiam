@@ -4,29 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: document
+  path: themes/instamiam/layouts/partials/dernieres-recettes.html
+  label: Bloc dernieres recettes
+  match: "**/*"
 - type: directory
   path: content/toutes-les-recettes
   label: Toutes les recettes
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/draft
-  label: Draft
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/category
-  label: Category
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/author
-  label: Author
   create: all
   match: "**/*"
 - type: directory
