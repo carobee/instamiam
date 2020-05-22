@@ -6,6 +6,11 @@ theme = "instamiam"
 summaryLength = 10
 removePathAccents=true
 enableRobotsTXT=true
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+rssLimit = 25
+
+[author]
+    name = "Caro"
 
 [taxonomies]
   author = "author"
