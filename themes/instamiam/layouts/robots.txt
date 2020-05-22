@@ -1,0 +1,7 @@
+
+User-agent: *
+
+Disallow: /articles/
+Disallow: /author/
+Disallow: /mentions-legales/
+Disallow: /draft/

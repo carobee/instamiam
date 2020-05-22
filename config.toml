@@ -5,6 +5,7 @@ title = "Instamiam"
 theme = "instamiam"
 summaryLength = 10
 removePathAccents=true
+enableRobotsTXT=true
 
 [taxonomies]
   author = "author"
@@ -50,34 +51,32 @@ googleAnalitycsID = "UA-6335497-8 "
 custom_css = ["css/custom.css"]
 logoAlgolia= "images/logo-algolia-white-full.png"
 
+  # footer
+  [params.footer]
+      copyright = "Carobee"
+      copyrightURL = "http://www.carobee.com"
 
+      # social Icons
+      [[params.footer.socialIcon]]
+      icon = "tf-ion-social-facebook"
+      url = "https://www.facebook.com/instamiam"
 
-    # footer
-    [params.footer]
-        copyright = "Carobee"
-        copyrightURL = "http://www.carobee.com"
+      [[params.footer.socialIcon]]
+      icon = "tf-ion-social-twitter"
+      url = "https://twitter.com/Instamiam"
 
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "https://www.facebook.com/instamiam"
+      [[params.footer.socialIcon]]
+      icon = "tf-ion-social-youtube"
+      url = "https://www.youtube.com/channel/UChcSUQwuQF5BA84sJ1VXnLA/videos"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "https://twitter.com/Instamiam"
+      [[params.footer.socialIcon]]
+      icon = "tf-ion-social-pinterest-outline"
+      url = "http://pinterest.com/instamiam/"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "https://www.youtube.com/channel/UChcSUQwuQF5BA84sJ1VXnLA/videos"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "http://pinterest.com/instamiam/"
-
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-instagram"
-        url = "http://instagram.com/instamiam_fr"
+      # social Icons
+      [[params.footer.socialIcon]]
+      icon = "tf-ion-social-instagram"
+      url = "http://instagram.com/instamiam_fr"
 
 [outputFormats.Algolia]
 baseName = "algolia"
