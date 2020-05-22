@@ -1,0 +1,129 @@
+---
+label: Recette
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: author
+  label: author
+  default: Caro
+  config:
+    required: true
+- type: text
+  name: type
+  label: type
+  default: recette
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
+    display_utc: false
+    required: true
+  default: now
+- type: text
+  name: url
+  label: url
+  config:
+    required: true
+  default: "/url-de-la-recette/"
+- type: file
+  name: image1
+  label: image de vignette
+- type: list
+  name: image
+  label: image
+- type: file
+  name: image2
+  label: image preparation recette
+- type: list
+  name: ingredients
+  label: ingredients
+  config:
+    use_select: false
+    min: 1
+- type: text
+  name: quantite
+  label: quantite
+  config:
+    required: true
+  default: Pour 4 à 6 personnes
+- type: text
+  name: preptime
+  label: preptime
+  config:
+    required: true
+  default: 30M
+- type: text
+  name: cooktime
+  label: cooktime
+  config:
+    required: true
+  default: 30M
+- type: text
+  name: totaltime
+  label: totaltime
+  config:
+    required: true
+  default: 1H
+- type: number
+  name: rating
+  label: rating
+  description: valeur entre 1 et 5
+  default: 5
+- type: number
+  name: votes
+  label: votes (nombre)
+  default: 4
+- type: list
+  name: categories
+  label: categories
+  config:
+    min: 1
+    use_select: true
+    source:
+      type: simple
+      section: yaourts
+    options:
+    - Apéro
+    - Confitures
+    - Légumes
+    - Miams sucrés
+    - Plats
+    - Pratiques les basiques
+- type: list
+  name: tags
+  label: tags
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - printemps
+    - été
+    - automne
+    - hiver
+    - four
+    - friture
+    - Ile de la Réunion
+    - exotique
+    - à emporter
+    - cake
+    - farine
+    - thon
+    - oeuf
+    - lait
+    - pique-nique
+    - curcuma
+    - oignon
+    - tomate
+    - gruyère râpé
+    - lait
+    - courge
+    - potiron
