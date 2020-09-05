@@ -2,7 +2,7 @@
 title: Confitures de mirabelles
 author: Caro
 type: recette
-date: 2017-09-15T08:00:53+00:00
+date: 2020-09-05T08:00:53+00:00
 url: /confitures-de-mirabelles/
 image1: /images/2013/09/Confiture-mirabelles.jpg
 rating: 4.5
