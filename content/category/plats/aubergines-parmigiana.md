@@ -2,7 +2,7 @@
 title: Aubergines Parmigiana
 author: Caro
 type: recette
-date: 2013-09-19T08:00:18+00:00
+date: 2020-09-01T08:00:18+00:00
 url: /aubergines-parmigiana/
 image1: /images/2013/09/Aubergines-parmigiana-1.jpg
 xyz_smap:

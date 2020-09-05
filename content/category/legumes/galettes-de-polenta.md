@@ -2,7 +2,7 @@
 title: Galettes de polenta
 author: Caro
 type: recette
-date: 2018-02-26T09:15:11+00:00
+date: 2020-08-26T09:15:11+00:00
 url: /galettes-de-polenta/
 image1: /images/2014/09/galette-polenta-1-650.jpg
 image:

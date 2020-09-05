@@ -2,7 +2,7 @@
 title: Petits croissants au saumon
 author: Caro
 type: recette
-date: 2015-12-21T09:00:40+00:00
+date: 2020-08-20T09:00:40+00:00
 url: /petits-croissants-au-saumon/
 image1: /images/2013/09/Croissants-saumon-2.jpg
 xyz_smap:

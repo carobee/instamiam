@@ -2,7 +2,7 @@
 title: Yaourt au Cola-Cola
 author: Caro
 type: recette
-date: 2013-09-07T17:41:44+00:00
+date: 2020-09-02T17:41:44+00:00
 url: /yaourt-au-cola-cola/
 image1: /images/2013/09/yaourt-coca.jpg
 image:

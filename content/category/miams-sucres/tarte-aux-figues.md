@@ -2,7 +2,7 @@
 title: "Tarte aux figues et poudre d'amandes"
 author: Caro
 type: recette
-date: 2017-09-09T15:53:56+00:00
+date: 2020-09-03T15:53:56+00:00
 url: /tarte-aux-figues/
 image1: /images/2014/09/tarte-amandes-figues-1-650.jpg
 image:

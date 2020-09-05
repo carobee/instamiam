@@ -11,7 +11,7 @@ image:
   - 489
 image2: /images/2013/11/cake-bananes-noix-2.jpg
 ingredients:
- - (Utiliser un mug pour les mesures)
+  - (Utiliser un mug pour les mesures)
   - 1/4 de tasse de beurre fondu (env. 70 g)
   - 2 tasses de farine (env. 300 g)
   - 3/4 de tasse de sucre en poudre (env. 190 g)
