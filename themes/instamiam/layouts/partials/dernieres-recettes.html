@@ -26,7 +26,7 @@
         </div>
         <div class="row filtr-container">
             {{"<!-- portfolio item -->" | safeHTML}}
-            {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+            {{ range first 9 .Site.RegularPages.ByDate.Reverse }}
             {{"<!-- single blog post -->" | safeHTML}}
             {{ if isset .Params "ingredients" }}
             <div class="col-lg-4 filtr-item" data-category="{{ range .Params.categories }}{{ . }}, {{ end }}">
