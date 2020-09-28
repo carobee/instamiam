@@ -14,8 +14,8 @@
 <div class="ui centered relaxed grid dream-grid">
   <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column markdown-body dream-single" id="dream-save-post-as-img">
     {{ if and .Params.image1 .Site.Params.showSummaryCoverInPost }}
-    <section class="ui top attached segment cover">
-      <div class="cover-img" style="background-image: url({{ .Params.image1 }});height: 256px;background-position: center;background-size: cover;"></div> 
+    <section class="">
+      <div class="cover-img" style="background-image: url({{ .Params.image1 }});height: 256px;background-position: center;background-size: cover;border-radius:.2em .2em 0 0"></div> 
     </section>
     {{ end }}
     <section class="ui {{ if not .Site.Params.showSummaryCoverInPost }}top {{ end }}attached segment">
@@ -31,16 +31,14 @@
       <section>
         <!-- BLABLA -->
         {{ if .Params.blabla }}
-        <div class="col-lg-8 offset-lg-2">
             <div class="blabla">
                 <i class="tf-ion-quote"></i>&nbsp;{{ .Params.blabla }}
             </div>
-        </div>
         {{ end }}
 
         <!-- INGREDIENTS -->
         {{ if .Params.ingredients }}
-        <div class="col-lg-8 offset-lg-2 box-ingredients">
+        <div class="box-ingredients">
           <p class="donnees-recette">
             <i class="tf-ion-ios-people"></i>&nbsp;
             <span class="yield">{{ .Params.quantite }}</span>
@@ -62,7 +60,9 @@
         <!-- PHOTO 2 -->
         {{ if .Params.image2 }}
           {{ with .Params.image2 }}
-            <img class="img-fluid mb-50" src="{{ . | absURL }}" alt="photo préparation recette">
+          <div class="photo2">  
+            <img class="img-fluid" src="{{ . | absURL }}" alt="photo préparation recette">
+          </div>
           {{ end }}
         {{ end }}
       </section>
