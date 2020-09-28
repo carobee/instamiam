@@ -1,0 +1,110 @@
+{{ define "title" }}
+{{- .Title -}}
+{{ end }}
+
+{{ define "css" }}
+
+<!-- {{ if .Site.Params.valine }}
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+{{ end }} -->
+
+{{ end }}
+
+{{ define "main" }}
+<div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column markdown-body dream-single" id="dream-save-post-as-img">
+    {{ if and .Params.image1 .Site.Params.showSummaryCoverInPost }}
+    <section class="ui top attached segment cover">
+      <div class="cover-img" style="background-image: url({{ .Params.image1 }});height: 256px;background-position: center;background-size: cover;"></div> 
+    </section>
+    {{ end }}
+    <section class="ui {{ if not .Site.Params.showSummaryCoverInPost }}top {{ end }}attached segment">
+      <header>
+        <h1 class="ui large header">
+          {{ .Title }}
+        </h1>
+        <div class="sub header">
+          <p>Publié par <a href="/author/{{ urlize .Params.author}}">{{ .Params.author }}</a> le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
+        </div>
+      </header>
+
+      <section>
+        <!-- BLABLA -->
+        {{ if .Params.blabla }}
+        <div class="col-lg-8 offset-lg-2">
+            <div class="blabla">
+                <i class="tf-ion-quote"></i>&nbsp;{{ .Params.blabla }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- INGREDIENTS -->
+        {{ if .Params.ingredients }}
+        <div class="col-lg-8 offset-lg-2 box-ingredients">
+          <p class="donnees-recette">
+            <i class="tf-ion-ios-people"></i>&nbsp;
+            <span class="yield">{{ .Params.quantite }}</span>
+            &nbsp;<i class="tf-ion-ios-clock"></i>&nbsp;
+            Préparation <span class="preptime">{{ .Params.preptime }}<span class="duration"><span class="value-title" title="PT{{ .Params.preptime }}"></span></span></span>
+            Cuisson <span class="cooktime">{{ .Params.cooktime }}<span class="duration"><span class="value-title" title="PT{{ .Params.cooktime }}"></span></span></span>
+            Temps total <span class="totaltime">{{ .Params.totaltime }}<span class="duration"><span class="value-title" title="PT{{ .Params.totaltime }}"></span></span></span>
+          </p>
+        <hr>
+          <h4>Ingrédients :</h4>
+          <ul class="list-ingredients">
+            {{ range .Params.ingredients }}
+            <li>{{- . -}}</li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        <!-- PHOTO 2 -->
+        {{ if .Params.image2 }}
+          {{ with .Params.image2 }}
+            <img class="img-fluid mb-50" src="{{ . | absURL }}" alt="photo préparation recette">
+          {{ end }}
+        {{ end }}
+      </section>
+      <!-- RECETTE -->
+      <article style="margin-top: 2rem;">
+        {{ .Content | emojify }}
+      </article>
+    </section>
+
+    <footer class="ui attached segment dream-tags" data-html2canvas-ignore>
+      {{ if isset .Params "categories" }}
+        <i class="th list icon" title="Catégorie"></i>
+        {{ range .Params.categories }}
+          <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="ui label ">
+            {{- . -}}
+          </a>
+        {{ end }}
+      {{ end }}
+      {{ if isset .Params "tags" }}
+        <i class="tags icon" title="Tous les tags"></i>  
+        {{ range $tag := .Params.tags }}
+          <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
+        {{ end }}
+      {{ end }}
+    </footer>
+
+    {{ if .Site.Copyright }}
+      <footer class="ui attached segment" data-html2canvas-ignore>
+        {{ .Site.Copyright | safeHTML }}
+      </footer>
+    {{ end }}
+
+  </div>
+  <div class="sixteen wide mobile sixteen wide tablet four wide computer column">
+    {{ partial "header.html" . }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "js" }}
+<script src="{{ "/js/html2canvas.min.js" | relURL }}"></script>
+<script src="{{ "/js/post.js" | relURL }}"></script>
+
+
+{{ end }}

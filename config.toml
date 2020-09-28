@@ -2,11 +2,11 @@ baseurl = "https://instamiam.netlify.com"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 title = "Instamiam"
-theme = "instamiam"
+theme = "dream"
 summaryLength = 10
 removePathAccents=true
 enableRobotsTXT=true
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+copyright = "Copyright © 2020. All Rights Reserved"
 rssLimit = 25
 
 [author]
@@ -50,38 +50,48 @@ home= "Accueil"
 logo = "images/logo.png"
 # Meta data
 description = "Recettes simples, familiales et gourmandes"
-author = "carobee"
+author = "Instamiam"
 # Google Analitycs
 googleAnalitycsID = "UA-6335497-8 "
 custom_css = ["css/custom.css"]
-logoAlgolia= "images/logo-algolia-white-full.png"
+# logoAlgolia= "images/logo-algolia-white-full.png"
 
-  # footer
-  [params.footer]
-      copyright = "Carobee"
-      copyrightURL = "http://www.carobee.com"
+# specifiques theme dream
+background = "#F8F8F8"
+backgroundImage = "/images/backgrounds/bears-garlic-lighter-60.jpg"
+linkColor = "#fa749e"
+avatar = "/images/logo.png"
+motto = "Recettes simples, familiales et gourmandes"
+categoriesLimitInHeader = 9
+# headerBottomText = ""
+rss = true
+#utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+email = "instamiam@gmail.com"
+twitter = "Instamiam"
+facebook = "instamiam"
+instagram = "instamiam_fr"
+pinterest = "instamiam"
 
-      # social Icons
-      [[params.footer.socialIcon]]
-      icon = "tf-ion-social-facebook"
-      url = "https://www.facebook.com/instamiam"
+siteStartYear = 2013
 
-      [[params.footer.socialIcon]]
-      icon = "tf-ion-social-twitter"
-      url = "https://twitter.com/Instamiam"
+favicon = "/images/favicon.ico"
 
-      [[params.footer.socialIcon]]
-      icon = "tf-ion-social-youtube"
-      url = "https://www.youtube.com/channel/UChcSUQwuQF5BA84sJ1VXnLA/videos"
+#highlightjs = true
+# highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+#highlightjsExtraLanguages = ["ocaml"]
+highlightjsTheme = "gruvbox-light"
+#highlightjsThemeDark = "gruvbox-dark"
 
-      [[params.footer.socialIcon]]
-      icon = "tf-ion-social-pinterest-outline"
-      url = "http://pinterest.com/instamiam/"
+# search
+enableSearch = true
 
-      # social Icons
-      [[params.footer.socialIcon]]
-      icon = "tf-ion-social-instagram"
-      url = "http://instagram.com/instamiam_fr"
+# options
+showSummaryCoverInPost = true
+
+# dark mode
+darkLinkColor = "darkseagreen"
+darkNav = true
+dark404 = true
 
 [outputFormats.Algolia]
 baseName = "algolia"
@@ -94,4 +104,4 @@ vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags", "ingredients"]
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS", "Algolia", "JSON"]
