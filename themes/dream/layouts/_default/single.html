@@ -15,7 +15,7 @@
   <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column markdown-body dream-single" id="dream-save-post-as-img">
     {{ if and .Params.image1 .Site.Params.showSummaryCoverInPost }}
     <section class="">
-      <div class="cover-img" style="background-image: url({{ .Params.image1 }});height: 256px;background-position: center;background-size: cover;border-radius:.2em .2em 0 0"></div> 
+      <div class="cover-img" style="background-image: url({{ .Params.image1 }});height: 256px;background-position: center;background-size: cover;border-radius:.2em .2em 0 0;"></div> 
     </section>
     {{ end }}
     <section class="ui {{ if not .Site.Params.showSummaryCoverInPost }}top {{ end }}attached segment">

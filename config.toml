@@ -18,32 +18,6 @@ rssLimit = 25
   tag = "tags"
   video = "videos"
 
-# Menu
-[menu]
-    [[menu.nav]]
-    name = "Dernières recettes"
-    URL = "dernieres-recettes"
-    weight = 2
-
-    [[menu.nav]]
-    name = "Recherche"
-    URL = "searchBox"
-    weight = 3
-    [[menu.nav]]
-    name = "Catégories"
-    URL = "categories"
-    weight = 4
-
-    [[menu.nav]]
-    name = "Pratique les basiques"
-    URL = "pratiques-les-basiques"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 6
-
 # Site params
 [params]
 home= "Accueil"
@@ -64,44 +38,30 @@ avatar = "/images/logo.png"
 motto = "Recettes simples, familiales et gourmandes"
 categoriesLimitInHeader = 9
 # headerBottomText = ""
-rss = true
+rss = false
 #utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 email = "instamiam@gmail.com"
 twitter = "Instamiam"
 facebook = "instamiam"
 instagram = "instamiam_fr"
 pinterest = "instamiam"
+youtube = "UChcSUQwuQF5BA84sJ1VXnLA"
 
 siteStartYear = 2013
 
 favicon = "/images/favicon.ico"
-
-#highlightjs = true
-# highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-#highlightjsExtraLanguages = ["ocaml"]
-highlightjsTheme = "gruvbox-light"
-#highlightjsThemeDark = "gruvbox-dark"
 
 # search
 enableSearch = true
 
 # options
 showSummaryCoverInPost = true
+hasTwitterEmbed = true
 
 # dark mode
 darkLinkColor = "darkseagreen"
 darkNav = true
 dark404 = true
 
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags", "ingredients"]
-
 [outputs]
-home = ["HTML", "RSS", "Algolia", "JSON"]
+home = ["HTML", "RSS", "JSON"]

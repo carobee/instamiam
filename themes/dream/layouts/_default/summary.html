@@ -15,28 +15,24 @@
       <p class="date">
         le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </p>
-      {{/*  <p class="author">
-        @
-        {{ if isset .Params "author" }}
-          {{ if isset .Params "authorlink" }}
-            <a href="{{ .Params.authorlink }}" target="_blank">{{ .Params.author }}</a>
-          {{ else }}
-            {{ .Params.author }}
-          {{ end }}
-        {{ else }}
-          {{ .Site.Params.author }}
-        {{ end }}
-      </p>  */}}
     </div>
-    <div class="description">
-      {{ .Summary | safeHTML }}
+    <div class="descrip tion">
+      {{ if .Params.blabla }}
+          {{ .Params.blabla  | safeHTML }}
+      {{ else }}
+        {{ .Summary | safeHTML }}
+      {{ end }}
+      
     </div>
   </div>
 
   <div class="extra content">
-    {{/*  <a>
-      <i class="clock icon"></i>
-      {{ .ReadingTime }}{{ i18n "minuteRead" }}
-    </a>  */}}
+    {{ if isset .Params "categories" }}
+        {{ range .Params.categories }}
+          <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="ui label ">
+            {{- . -}}
+          </a>
+        {{ end }}
+      {{ end }}
   </div>
 </article>

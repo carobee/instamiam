@@ -77,4 +77,13 @@
       </a>
     </div>
   {{ end }}
+
+  {{ if .Site.Params.youtube }}
+  <div class="item">
+    <a href="https://www.youtube.com/channel/{{ .Site.Params.youtube }}" target="_blank">
+      <i class="{{ .IconSize }} youtube icon" title="Youtube"></i>
+    </a>
+  </div>
+{{ end }}
+
 </nav>

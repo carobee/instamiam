@@ -103,10 +103,11 @@ body {
 
     i {
       margin: 0;
+      color: #fa749e !important
     }
 
     a {
-      color: rgba(#000, 0.87);
+      color: #fa749e !important;
     }
   }
 }
@@ -201,6 +202,7 @@ body {
       height: 350px;
       background-position: center;
       background-size: cover;
+      border-radius:.2em .2em 0 0;
 
       @media screen and (max-width: 768px) {
         height: 128px;
