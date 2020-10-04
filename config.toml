@@ -22,13 +22,9 @@ rssLimit = 25
 [params]
 home= "Accueil"
 logo = "images/logo.png"
-# Meta data
 description = "Recettes simples, familiales et gourmandes"
 author = "Instamiam"
-# Google Analitycs
 googleAnalitycsID = "UA-6335497-8 "
-custom_css = ["css/custom.css"]
-# logoAlgolia= "images/logo-algolia-white-full.png"
 
 # specifiques theme dream
 background = "#F8F8F8"
@@ -58,10 +54,10 @@ enableSearch = true
 showSummaryCoverInPost = true
 hasTwitterEmbed = true
 
-# dark mode
-darkLinkColor = "darkseagreen"
-darkNav = true
-dark404 = true
+# # dark mode
+# darkLinkColor = "darkseagreen"
+# darkNav = true
+# dark404 = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
