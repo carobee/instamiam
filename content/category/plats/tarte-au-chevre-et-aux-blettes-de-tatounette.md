@@ -2,7 +2,7 @@
 title: Tarte au chèvre et aux blettes de Tatounette
 author: Caro
 type: recette
-date: 2020-10-01-07T17:07:36+00:00
+date: 2020-10-01T17:07:36+00:00
 url: /tarte-au-chevre-et-aux-blettes-de-tatounette/
 image1: /images/2017/05/tarte-blettes-1-650.jpg
 image:
@@ -34,6 +34,7 @@ tags:
   - printemps
   - tarte
   - végétarien
+blabla: Fonctionne aussi avec des épinards
 
 ---
 > Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais ([Voir la recette de la pâte brisée très facile]({{< ref "category/pratique-les-basiques/pate-brisee.md" >}})).
