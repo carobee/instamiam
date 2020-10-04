@@ -32,26 +32,29 @@
         <!-- BLABLA -->
         {{ if .Params.blabla }}
             <div class="blabla">
-                <i class="tf-ion-quote"></i>&nbsp;{{ .Params.blabla }}
+                <i class="quote left icon"></i>&nbsp;
+                {{ .Params.blabla }}
+                &nbsp;<i class="quote right icon"></i>
             </div>
+            <br>
         {{ end }}
 
         <!-- INGREDIENTS -->
         {{ if .Params.ingredients }}
         <div class="box-ingredients">
           <p class="donnees-recette">
-            <i class="tf-ion-ios-people"></i>&nbsp;
+            <i class="users icon"></i>&nbsp;
             <span class="yield">{{ .Params.quantite }}</span>
-            &nbsp;<i class="tf-ion-ios-clock"></i>&nbsp;
+            &nbsp;<i class="clock icon"></i>&nbsp;
             Préparation <span class="preptime">{{ .Params.preptime }}<span class="duration"><span class="value-title" title="PT{{ .Params.preptime }}"></span></span></span>
-            Cuisson <span class="cooktime">{{ .Params.cooktime }}<span class="duration"><span class="value-title" title="PT{{ .Params.cooktime }}"></span></span></span>
-            Temps total <span class="totaltime">{{ .Params.totaltime }}<span class="duration"><span class="value-title" title="PT{{ .Params.totaltime }}"></span></span></span>
+            | Cuisson <span class="cooktime">{{ .Params.cooktime }}<span class="duration"><span class="value-title" title="PT{{ .Params.cooktime }}"></span></span></span>
+            | Temps total <span class="totaltime">{{ .Params.totaltime }}<span class="duration"><span class="value-title" title="PT{{ .Params.totaltime }}"></span></span></span>
           </p>
-        <hr>
+          <hr>
           <h4>Ingrédients :</h4>
-          <ul class="list-ingredients">
+          <ul class="list-ingredients" style="list-style-type: none;">
             {{ range .Params.ingredients }}
-            <li>{{- . -}}</li>
+            <li><i class="caret right icon"></i>&nbsp;{{- . -}}</li>
             {{ end }}
           </ul>
         </div>
@@ -101,10 +104,7 @@
   </div>
 </div>
 {{ end }}
-
-{{/*  {{ define "js" }}
+{{ define "js" }}
 <script src="{{ "/js/html2canvas.min.js" | relURL }}"></script>
 <script src="{{ "/js/post.js" | relURL }}"></script>
-
-
-{{ end }}  */}}
+{{ end }} 

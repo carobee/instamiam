@@ -16,7 +16,7 @@
         le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </p>
     </div>
-    <div class="descrip tion">
+    <div class="description">
       {{ if .Params.blabla }}
           {{ .Params.blabla  | safeHTML }}
       {{ else }}
@@ -29,9 +29,7 @@
   <div class="extra content">
     {{ if isset .Params "categories" }}
         {{ range .Params.categories }}
-          <a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" class="ui label ">
-            {{- . -}}
-          </a>
+        <a class="ui label" href="{{ "/category/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">{{ . }}</a>
         {{ end }}
       {{ end }}
   </div>

@@ -201,3 +201,30 @@ body {
 #dream-search .message.empty .description {
     color: rgba(255, 255, 255, 0.87);
 }
+
+/* CUSTOM */
+
+div.sub.header p, .meta.date p, footer.ui.attached.segment, section.ui.bottom.attached.center.aligned.segment {
+    font-size: small;
+    color: gray;
+}
+.blabla {
+    padding: 20px 30px;
+    font-size: larger;
+    font-style: italic;
+}
+
+.photo2 {
+    text-align:center!important;
+}
+
+.list-ingredients ul {
+    list-style-type: none;
+}
+
+.markdown-body hr {
+    height:0.1em;
+}
+
+
+
