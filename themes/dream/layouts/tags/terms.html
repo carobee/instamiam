@@ -1,0 +1,51 @@
+{{ define "title" }}
+{{- T "allTags" -}}
+{{ end }}
+
+{{ define "main"}}
+<div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile sixteen wide tablet four wide computer column">
+    {{ partial "header.html" . }}
+  </div>
+  <div class="sixteen wide mobile sixteen wide tablet twelve wide computer column">
+    <div class="ui segment dream-tags-section">
+      <h1 class="ui large header">
+        {{ i18n "allTags" }}
+        <div class="ui grey sub header">
+          {{ if eq (len .Data.Terms) 1 }}
+            {{ i18n "tag" 1 }}
+          {{ else }}
+            {{ i18n "tag" (len .Data.Terms) }}
+          {{ end }}
+        </div>
+      </h1>
+
+      {{ if .Site.Taxonomies.tags }}
+  <section class="ui attached center aligned segment dream-tags">
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">{{ $name }}</a>
+    {{ end }}
+  </section>
+  {{ end }}
+
+      {{ $data := .Data }}
+      {{ range .Data.Terms.Alphabetical }}
+        {{ $termLink := printf "/%s/%s/" $data.Plural .Term | urlize }}
+        <h2 class="ui medium header"><span style="font-variant: small-caps;">
+          <a href="{{ $termLink }}">{{ .Term }}</a>
+        </span>
+          &nbsp;<small>{{ i18n "article" .Count }}</small>
+        </h2>
+        <ul>
+          {{ range .Pages }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}

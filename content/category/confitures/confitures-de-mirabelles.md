@@ -34,7 +34,6 @@ tags:
   - sucre
   - végétalien
   - végétarien
-
 ---
 Laver les **mirabelles**, les essuyer. Les couper en deux puis enlever les noyaux.
 
@@ -51,3 +50,4 @@ Verser les fruits dans une marmite, ajouter **la vanille**, mélanger et laisser
 Verser la confiture encore chaude à l&rsquo;aide d&rsquo;une louche ou d&rsquo;un entonnoir presque jusqu&rsquo;en haut des pots. Bien refermer les pots et les retourner couvercle vers le bas. Ne plus toucher les pots jusqu&rsquo;à complet refroidissement.
 
 &nbsp;
+

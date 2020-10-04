@@ -2,11 +2,11 @@ baseurl = "https://instamiam.fr"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 title = "Instamiam"
-theme = "instamiam"
+theme = "dream"
 summaryLength = 10
 removePathAccents=true
 enableRobotsTXT=true
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+copyright = "Copyright © 2020. All Rights Reserved"
 rssLimit = 25
 
 [author]
@@ -18,86 +18,87 @@ rssLimit = 25
   tag = "tags"
   video = "videos"
 
-# Menu
-[menu]
-    [[menu.nav]]
-    name = "Dernières recettes"
-    URL = "dernieres-recettes"
-    weight = 2
-
-    [[menu.nav]]
-    name = "Recherche"
-    URL = "searchBox"
-    weight = 3
-    
-    [[menu.nav]]
-    name = "Catégories"
-    URL = "categories"
-    weight = 4
-
-    [[menu.nav]]
-    name = "Pratique les basiques"
-    URL = "pratiques-les-basiques"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 6
-
 # Site params
 [params]
 home= "Accueil"
 logo = "images/logo.png"
-logoAlgolia = "images/logo-algolia-white-full.png"
 # Meta data
 description = "Recettes simples, familiales et gourmandes"
-author = "carobee"
+author = "Instamiam"
 # Google Analitycs
 googleAnalitycsID = "UA-6335497-8 "
 custom_css = ["css/custom.css"]
+# logoAlgolia= "images/logo-algolia-white-full.png"
 
-    # footer
-    [params.footer]
-        copyright = "Carobee"
-        copyrightURL = "http://www.carobee.com"
+# specifiques theme dream
+background = "#F8F8F8"
+backgroundImage = "/images/backgrounds/bears-garlic-lighter-60.jpg"
+linkColor = "#fa749e"
+avatar = "/images/logo.png"
+motto = "Recettes simples, familiales et gourmandes"
+categoriesLimitInHeader = 9
+# headerBottomText = ""
+rss = false
+#utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+email = "instamiam@gmail.com"
+twitter = "Instamiam"
+facebook = "instamiam"
+instagram = "instamiam_fr"
+pinterest = "instamiam"
+youtube = "UChcSUQwuQF5BA84sJ1VXnLA"
 
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "https://www.facebook.com/instamiam"
-        nom = "Facebook"
+siteStartYear = 2013
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "https://twitter.com/Instamiam"
-        nom = "Twitter"
+favicon = "/images/favicon.ico"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "https://www.youtube.com/channel/UChcSUQwuQF5BA84sJ1VXnLA/videos"
-        nom = "Youtube"
+# search
+enableSearch = true
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "http://pinterest.com/instamiam/"
-        nom = "Pinterest"
+# options
+showSummaryCoverInPost = true
+hasTwitterEmbed = true
 
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-instagram"
-        url = "http://instagram.com/instamiam_fr"
-        nom = "Instagram"
-
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags", "ingredients"]
+# dark mode
+darkLinkColor = "darkseagreen"
+darkNav = true
+dark404 = true
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS", "JSON"]
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Apéro"
+    URL = "apero"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Légumes"
+    URL = "legumes"
+    weight = 3
+    
+    [[menu.nav]]
+    name = "Plats"
+    URL = "plats"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Miams Sucrés"
+    URL = "miams-sucres"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Yaourts"
+    URL = "yaourts"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Confitures"
+    URL = "confitures"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Pratique : Les basiques"
+    URL = "pratique-les-basiques"
+    weight = 8

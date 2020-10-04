@@ -1,0 +1,14 @@
+{{ if .Site.Params.darkNav }}
+<nav class="ui secondary inverted menu dream-menu">
+{{ else }}
+<nav class="ui secondary menu dream-menu">
+{{ end }}
+  <div class="item" style="color: #fa749e !important;">
+    <i class="large link home icon" title="{{ i18n "home" }}" onclick="window.location.href = '{{ .Site.BaseURL }}'"></i>
+  </div>
+  {{ if .Site.Params.enableSearch }}
+  <div class="item" style="color:#fa749e !important;">
+    <i class="large link search icon" onclick="toggleSearch()"></i>
+  </div>
+  {{ end }}
+</nav>

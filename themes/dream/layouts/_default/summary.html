@@ -1,0 +1,36 @@
+<article class="ui attached segment card dream-card">
+  <a class="image" href="{{ .Permalink }}">
+    {{ if isset .Params "image1" }}
+      <img src="{{ .Params.image1 }}" alt="{{ .Title }}" />
+    {{ else }}
+      <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
+    {{ end }}
+  </a>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <div class="meta">
+      <p class="date">
+        le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+      </p>
+    </div>
+    <div class="description">
+      {{ if .Params.blabla }}
+          {{ .Params.blabla  | safeHTML }}
+      {{ else }}
+        {{ .Summary | safeHTML }}
+      {{ end }}
+      
+    </div>
+  </div>
+
+  <div class="extra content">
+    {{ if isset .Params "categories" }}
+        {{ range .Params.categories }}
+        <a class="ui label" href="{{ "/category/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+  </div>
+</article>
