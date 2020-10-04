@@ -83,8 +83,8 @@
       {{ end }}
       {{ if isset .Params "tags" }}
         <i class="tags icon" title="Tous les tags"></i>  
-        {{ range $tag := .Params.tags }}
-          <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
+        {{ range sort .Params.tags }}
+          <a class="ui label" href="{{ "tags/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">{{ . }}</a>
         {{ end }}
       {{ end }}
     </footer>
@@ -102,9 +102,9 @@
 </div>
 {{ end }}
 
-{{ define "js" }}
+{{/*  {{ define "js" }}
 <script src="{{ "/js/html2canvas.min.js" | relURL }}"></script>
 <script src="{{ "/js/post.js" | relURL }}"></script>
 
 
-{{ end }}
+{{ end }}  */}}

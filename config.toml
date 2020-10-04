@@ -65,3 +65,40 @@ dark404 = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Apéro"
+    URL = "apero"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Légumes"
+    URL = "legumes"
+    weight = 3
+    
+    [[menu.nav]]
+    name = "Plats"
+    URL = "plats"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Miams Sucrés"
+    URL = "miams-sucres"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Yaourts"
+    URL = "yaourts"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Confitures"
+    URL = "confitures"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Pratique : Les basiques"
+    URL = "pratique-les-basiques"
+    weight = 8

@@ -36,7 +36,7 @@ tags:
   - plat complet
   - pomme de terre
   - porc
-  - prunes
+  - prune
   - raisins secs
   - reine-claude
   - rôti

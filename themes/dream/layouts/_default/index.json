@@ -1,6 +1,12 @@
 {{ $search := newScratch }}
 {{ $search.Add "index" slice }}
 {{ range .Site.RegularPages }}
-    {{ $search.Add "index" (dict "title" .Title "url" .Permalink  "categories" .Params.categories "tags" .Params.tags "description" .Summary ) }}
+    {{ $tagsInline:= newScratch }}
+    {{ $tagsInline.Add "tags" " " }}
+    {{ range .Params.tags }}
+        {{ $tagsInline.Add "tags" . }}
+        {{ $tagsInline.Add "tags" ", " }}
+    {{ end }}
+    {{ $search.Add "index" (dict "title" .Title "url" .Permalink  "tags" ($tagsInline.Get "tags") "categories" .Params.categories "description" .Summary ) }}
 {{ end }}
 {{ $search.Get "index" | jsonify }}
