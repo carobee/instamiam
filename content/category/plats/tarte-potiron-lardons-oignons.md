@@ -2,7 +2,7 @@
 title: Tarte potiron lardons oignons
 author: Caro
 type: recette
-date: 2016-10-28T17:00:48+00:00
+date: 2020-10-02T17:00:48+00:00
 url: /tarte-potiron-lardons-oignons/
 image1: /images/2016/10/tarte-lardons-potiron-1-650.jpg
 image:

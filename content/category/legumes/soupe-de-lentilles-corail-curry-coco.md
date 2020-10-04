@@ -2,7 +2,7 @@
 title: Soupe de lentilles corail curry-coco
 author: Caro
 type: recette
-date: 2016-02-16T09:00:22+00:00
+date: 2020-09-26T09:00:22+00:00
 url: /soupe-de-lentilles-corail-curry-coco/
 image1: /images/2013/10/Soupe-lentilles-corail-1.jpg
 xyz_smap:

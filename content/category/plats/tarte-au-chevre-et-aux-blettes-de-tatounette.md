@@ -2,7 +2,7 @@
 title: Tarte au chèvre et aux blettes de Tatounette
 author: Caro
 type: recette
-date: 2020-04-07T17:07:36+00:00
+date: 2020-10-01-07T17:07:36+00:00
 url: /tarte-au-chevre-et-aux-blettes-de-tatounette/
 image1: /images/2017/05/tarte-blettes-1-650.jpg
 image:
