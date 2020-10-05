@@ -43,10 +43,8 @@
         {{ if .Params.ingredients }}
         <div class="box-ingredients">
           <p class="donnees-recette">
-            <i class="users icon"></i>&nbsp;
-            <span class="yield">{{ .Params.quantite }}</span>
-            &nbsp;<i class="clock icon"></i>&nbsp;
-            Préparation <span class="preptime">{{ .Params.preptime }}<span class="duration"><span class="value-title" title="PT{{ .Params.preptime }}"></span></span></span>
+            <i class="users icon"></i>&nbsp;<span class="yield">{{ .Params.quantite }}</span>
+            <br><i class="clock icon"></i>&nbsp;Préparation <span class="preptime">{{ .Params.preptime }}<span class="duration"><span class="value-title" title="PT{{ .Params.preptime }}"></span></span></span>
             | Cuisson <span class="cooktime">{{ .Params.cooktime }}<span class="duration"><span class="value-title" title="PT{{ .Params.cooktime }}"></span></span></span>
             | Temps total <span class="totaltime">{{ .Params.totaltime }}<span class="duration"><span class="value-title" title="PT{{ .Params.totaltime }}"></span></span></span>
           </p>

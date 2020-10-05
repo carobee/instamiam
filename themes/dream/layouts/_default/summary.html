@@ -18,7 +18,8 @@
     </div>
     <div class="description">
       {{ if .Params.blabla }}
-          {{ .Params.blabla  | safeHTML }}
+        <i class="quote left icon"></i>&nbsp;
+        {{ .Params.blabla  | safeHTML  }}
       {{ else }}
         {{ .Summary | safeHTML }}
       {{ end }}

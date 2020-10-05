@@ -129,7 +129,6 @@ body {
 .ui.card.dream-card .content .description {
     margin: 1.5rem 0 1rem 0;
     color: rgba(0, 0, 0, 0.87);
-    word-break: break-all;
 }
 .ui.card.dream-card .content .description img {
     max-width: 100%;
