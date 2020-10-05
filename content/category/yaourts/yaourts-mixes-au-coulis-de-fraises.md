@@ -9,7 +9,7 @@ xyz_smap:
   - 1
 image:
   - 671
-image2: /images/2013/09/Yaourt-coulis-fraises-2.jpg
+image2: /images/2013/09/Yaourts-coulis-fraises-2-650.jpg
 ingredients:
  - 800 ml de lait
  - 200 ml de coulis de fraises
