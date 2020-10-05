@@ -9,7 +9,7 @@ xyz_smap:
   - 1
 image:
   - 474
-image2: /images/2013/10/Yaourts-café-2.jpg
+image2: /images/2013/10/Yaourts-cafe-2.jpg
 ingredients:
  - 1 l de lait entier ou demi-écrémé
  - 3 cuillères à soupe de lait en poudre (facultatif)

@@ -7,7 +7,7 @@ url: /rougail-saucisses-reunionnais/
 image1: /images/2014/04/rougail-saucisses-1-650.jpg
 image:
   - 855
-image2: /images/2014/04/rougail-saucisses-2-650.jpg
+image2: /images/2014/04/recette-rougail-saucisses-reunion.jpg
 ingredients:
  - 500 g de saucisses fumées
  - 5-6 tomates (ou une conserve de tomates pelées si ce n'est pas la saison des tomates)
