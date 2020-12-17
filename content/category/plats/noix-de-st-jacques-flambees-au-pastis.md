@@ -2,7 +2,7 @@
 title: Noix de St Jacques flambées au pastis
 author: Caro
 type: recette
-date: 2017-12-24T08:35:11+00:00
+date: 2020-12-15T08:35:11+00:00
 url: /noix-de-st-jacques-flambees-au-pastis/
 image1: /images/2016/02/noix-st-jacques-pastis-1-650.jpg
 image:
