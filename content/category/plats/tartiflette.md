@@ -2,39 +2,39 @@
 title: Tartiflette
 author: Caro
 type: recette
-date: 2017-12-04T18:34:31+00:00
-url: /tartiflette/
-image1: /images/2017/12/tartiflette-1.jpg
+date: 2021-01-11T23:00:00+00:00
+url: "/tartiflette/"
+image1: "/images/2017/12/tartiflette-1.jpg"
 image:
-  - 1393
-image2: /images/2017/12/tartiflette-2-650.jpg
+- 1393
+image2: "/images/2017/12/tartiflette-2-650.jpg"
 ingredients:
- - 1 reblochon fermier
- - 1 kg de pommes de terre
- - 300 g de poitrine fumée ou de lardons
- - 2 oignons moyens (300 g environ)
- - 1 gousse d'ail
- - Sel, poivre
- - huile
- - Vin blanc sec (facultatif)
+- 1 reblochon fermier
+- 1 kg de pommes de terre
+- 300 g de poitrine fumée ou de lardons
+- 2 oignons moyens (300 g environ)
+- 1 gousse d'ail
+- Sel, poivre
+- huile
+- Vin blanc sec (facultatif)
 quantite: Pour 4 personnes
 preptime: 40M
 cooktime: 20M
 totaltime: 1H
-rating: 5
-votes: 1
+rating: "5"
+votes: "1"
 categories:
-  - Plats
+- Plats
 tags:
-  - four
-  - fromage
-  - hiver
-  - lard
-  - lardons
-  - oignon
-  - plat complet
-  - pomme de terre
-  - reblochon
+- four
+- fromage
+- hiver
+- lard
+- lardons
+- oignon
+- plat complet
+- pomme de terre
+- reblochon
 
 ---
 Éplucher les **pommes de terre** et les couper en petits dés. Bien les rincer, les égoutter et les sécher dans un torchon propre. Réserver.

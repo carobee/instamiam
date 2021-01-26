@@ -2,43 +2,43 @@
 title: Crumble aux pommes
 author: Caro
 type: recette
-date: 2016-09-11T19:52:13+00:00
-url: /crumble-aux-pommes/
-image1: /images/2016/09/crumble-pommes-1-650.jpg
+date: 2021-01-09T20:52:13+00:00
+url: "/crumble-aux-pommes/"
+image1: "/images/2016/09/crumble-pommes-1-650.jpg"
 image:
-  - 1255
-image2: /images/2016/09/crumble-pommes-2-650.jpg
+- 1255
+image2: "/images/2016/09/crumble-pommes-2-650.jpg"
 ingredients:
- - 4 pommes canada
- - 100 g de sucre roux
- - 100 g de farine de blé
- - 80 g de beurre doux
- - 1/2 cuillère à café de cannelle en poudre
- - 1/2 cuillère à café de vanille en poudre
- - 1 sachet de sucre vanillé
- - le jus d'un citron
+- 4 pommes canada
+- 100 g de sucre roux
+- 100 g de farine de blé
+- 80 g de beurre doux
+- 1/2 cuillère à café de cannelle en poudre
+- 1/2 cuillère à café de vanille en poudre
+- 1 sachet de sucre vanillé
+- le jus d'un citron
 quantite: Pour 4 personnes
 preptime: 20M
 cooktime: 30M
 totaltime: 50M
-rating: 4.5
-votes: 2
+rating: "4.5"
+votes: "2"
 categories:
-  - Miams sucrés
+- Miams sucrés
 tags:
-  - automne
-  - beurre
-  - cannelle
-  - citron
-  - dessert
-  - été
-  - farine
-  - four
-  - goûter
-  - hiver
-  - pomme
-  - sucre roux
-  - sucre vanillé
+- automne
+- beurre
+- cannelle
+- citron
+- dessert
+- été
+- farine
+- four
+- goûter
+- hiver
+- pomme
+- sucre roux
+- sucre vanillé
 
 ---
 Sortir le beurre au préalable afin de le ramollir.

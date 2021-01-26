@@ -2,31 +2,31 @@
 title: Confiture de kiwis
 author: Caro
 type: recette
-date: 2018-01-22T08:18:08+00:00
-url: /confiture-de-kiwis/
-image1: /images/2015/12/confiture-kiwis-1-650.jpg
+date: 2020-01-15T08:18:08+00:00
+url: "/confiture-de-kiwis/"
+image1: "/images/2015/12/confiture-kiwis-1-650.jpg"
 image:
-  - 1172
-image2: /images/2015/12/confiture-kiwis-2-650.jpg
+- 1172
+image2: "/images/2015/12/confiture-kiwis-2-650.jpg"
 ingredients:
- - 1 kg de kiwis
- - 500 g de sucre en poudre
- - Un peu de jus de citron
- - vanille en poudre
- - 1 ou 2 trognons de pommes (facultatif)
+- 1 kg de kiwis
+- 500 g de sucre en poudre
+- Un peu de jus de citron
+- vanille en poudre
+- 1 ou 2 trognons de pommes (facultatif)
 quantite: Pour 3 à 4 pots
 preptime: 2H
 cooktime: 15M
 totaltime: 2H15M
 categories:
-  - Confitures
+- Confitures
 tags:
-  - automne
-  - confiture
-  - conserve
-  - hiver
-  - kiwi
-  - marmelade
+- automne
+- confiture
+- conserve
+- hiver
+- kiwi
+- marmelade
 
 ---
 ### Préparation :
