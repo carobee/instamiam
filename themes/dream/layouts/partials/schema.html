@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+    {{ if eq .Params.type "recette" }}
+    {
+        "@context": "https://schema.org/",
+        "@type": "Recipe",
+        "name": "{{ .Title }}",
+        "image": [
+            {{ .Params.image1 | absURL }},
+            {{ .Params.image2 | absURL }}
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "{{ .Params.author }}"
+        },
+        "datePublished": "{{ .Date }}",
+        "description": "{{ .Summary | plainify }}",
+        "recipeCuisine": "France",
+        "prepTime": "{{ .Params.preptime }}",
+        "cookTime": "{{ .Params.cooktime }}",
+        "totalTime": "{{ .Params.totaltime }}",
+        "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
+        "recipeYield": "{{ .Params.quantite }}",
+        "recipeCategory": [{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
+        "recipeIngredient": [{{ range $i, $e := .Params.ingredients }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
+        "recipeInstructions": [
+          {
+            "@type": "Text",
+            "text": "{{ .Content }}"
+          }
+        ]
+      }
+      {{ end }}
+    </script>
