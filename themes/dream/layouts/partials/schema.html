@@ -12,7 +12,7 @@
           "@type": "Person",
           "name": "{{ .Params.author }}"
         },
-        "datePublished": "{{ .Date }}",
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
         "description": "{{ .Summary | plainify }}",
         "recipeCuisine": "France",
         "prepTime": "{{ .Params.preptime }}",
