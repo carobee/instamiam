@@ -15,19 +15,14 @@
         "datePublished": "{{ .Date.Format "2006-01-02" }}",
         "description": "{{ .Summary | plainify }}",
         "recipeCuisine": "France",
-        "prepTime": "{{ .Params.preptime }}",
-        "cookTime": "{{ .Params.cooktime }}",
-        "totalTime": "{{ .Params.totaltime }}",
+        "prepTime": "PT{{ .Params.preptime }}",
+        "cookTime": "PT{{ .Params.cooktime }}",
+        "totalTime": "PT{{ .Params.totaltime }}",
         "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
         "recipeYield": "{{ .Params.quantite }}",
         "recipeCategory": [{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
         "recipeIngredient": [{{ range $i, $e := .Params.ingredients }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}],
-        "recipeInstructions": [
-          {
-            "@type": "Text",
-            "text": {{ .Content }}
-          }
-        ]
+        "recipeInstructions": [{{ .Content }}]
       }
       {{ end }}
     </script>
