@@ -98,3 +98,20 @@ home = ["HTML", "RSS", "JSON"]
     name = "Pratique : Les basiques"
     URL = "pratique-les-basiques"
     weight = 8
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
