@@ -86,5 +86,3 @@ Faire chauffer une friteuse ou une casserole avec 4 ou 5 cm d’huile. Quand l�
 > S’il vous reste de la pâte à samoussas, vous pouvez en faire avec des dés de fromage !
 
 ### Techniques de pliages de samoussas en vidéo :
-
-{{< youtube nahhIT5TZUw>}}

@@ -65,4 +65,3 @@ Déguster froid ou tiède, selon les goûts.
 
 > Pour plus de détails, consulter cette vidéo de Christian Antou, du site [goutanou.re](http://goutanou.re/) :
 
-{{< youtube bKxgU0uQtig>}}

@@ -59,4 +59,3 @@ Enfourner pour 15 à 18 minutes.
 
 ### Réalisation des croissants au saumon en vidéo :
 
-{{< youtube P7tfashvsbI>}}

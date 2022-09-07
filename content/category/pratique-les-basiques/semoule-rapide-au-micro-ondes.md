@@ -53,4 +53,3 @@ Mettre une noix de **beurre** et mélanger à nouveau à la fourchette. Saler à
 
 ### Cuisson de la semoule au micro-ondes en vidéo :
 
-{{< youtube DSCFhsM7QMc>}}

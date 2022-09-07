@@ -95,4 +95,4 @@ Faire chauffer une friteuse ou une casserole avec 4 ou 5 cm d&rsquo;huile. Quand
 &nbsp;
 
 ### Techniques de pliages de samoussas en vidéo :
-{{< youtube nahhIT5TZUw>}}
+

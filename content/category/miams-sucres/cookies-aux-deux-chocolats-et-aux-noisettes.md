@@ -78,6 +78,4 @@ Laisser refroidir deux minutes, puis déposer les cookies sur une grille pour le
 >
 > Il est possible de remplacer les noisettes par des noix de pécan ou des noix.
 
-### Recette des cookies en vidéo :
-
-{{< youtube bX6D00wIw_0>}}
+### La recette des cookies en vidéo :
