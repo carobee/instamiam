@@ -51,6 +51,5 @@ Faire cuire 30 minutes en retournant les frites à mi-cuisson, et en surveillant
 
 Saler dès la sortie du four.
 
-### Vidéo de la recette :
+### La recette des potatoes en vidéo :
 
-{{< youtube UagLYcZyLII>}}

@@ -63,4 +63,4 @@ Servir avec du riz, des grains, des achards et du piment, et laisser à chacun l
 ### Accord mets et musique :
 
 A écouter avec « Sega Jacquot », ici par Rosemary Standley et Dom La Nena :
-{{< youtube dDOFSTZZDxI>}}
+

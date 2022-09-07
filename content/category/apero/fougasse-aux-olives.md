@@ -61,4 +61,3 @@ Sortir du four et déguster tiède.
 
 ### Recette de la fougasse aux olives en vidéo
 
-{{< youtube jIhIEDGVP38 >}}
