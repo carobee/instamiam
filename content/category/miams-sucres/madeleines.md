@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: Madeleines
 author: Caro
 type: recette
-date: 2020-01-25T13:18:24+00:00
+date: 2023-01-22T13:18:24+00:00
 url: /madeleines/
 image1: /images/2020/01/madeleines-1-650.jpg
 image2: /images/2020/01/madeleines-1-650.jpg
@@ -69,4 +69,4 @@ Enfourner :
 
 Démouler tiède et laisser refroidir.
 
-> La recette originale de Pierre Hermé (Larousse des desserts) utilise 120 g de sucre et le zeste de citron. -->
+> La recette originale de Pierre Hermé (Larousse des desserts) utilise 120 g de sucre et le zeste de citron.
