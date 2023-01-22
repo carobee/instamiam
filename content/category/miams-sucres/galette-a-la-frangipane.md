@@ -2,7 +2,7 @@
 title: Galette à la frangipane
 author: Caro
 type: recette
-date: 2018-01-03T17:21:04+00:00
+date: 2023-01-01T12:21:04+00:00
 url: /galette-a-la-frangipane/
 image1: /images/2015/01/galette-frangipane-1-650.jpg
 image:
