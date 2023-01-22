@@ -2,9 +2,9 @@
 title: Tartiflette
 author: Caro
 type: recette
-date: 2021-01-11T23:00:00+00:00
-url: "/tartiflette/"
-image1: "/images/2017/12/tartiflette-1.jpg"
+date: 2023-01-17T18:34:31+00:00
+url: /tartiflette/
+image1: /images/2017/12/tartiflette-1.jpg
 image:
 - 1393
 image2: "/images/2017/12/tartiflette-2-650.jpg"
