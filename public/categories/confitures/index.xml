@@ -6,10 +6,16 @@
     <description>Recent content in Confitures on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 25 Jul 2018 15:47:50 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/categories/confitures/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 05 Sep 2020 08:00:53 +0000</lastBuildDate><atom:link href="https://instamiam.fr/categories/confitures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confitures de mirabelles</title>
+      <link>https://instamiam.fr/confitures-de-mirabelles/</link>
+      <pubDate>Sat, 05 Sep 2020 08:00:53 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/confitures-de-mirabelles/</guid>
+      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
+    </item>
     
     <item>
       <title>Confiture d&#39;Abricots</title>
@@ -46,15 +52,6 @@
       
       <guid>https://instamiam.fr/confiture-de-poires/</guid>
       <description>Peler les poires, les couper en 4, les épépiner et les couper en fines lamelles et les mettre dans la marmite à confiture.</description>
-    </item>
-    
-    <item>
-      <title>Confitures de mirabelles</title>
-      <link>https://instamiam.fr/confitures-de-mirabelles/</link>
-      <pubDate>Fri, 15 Sep 2017 08:00:53 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/confitures-de-mirabelles/</guid>
-      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
     </item>
     
   </channel>

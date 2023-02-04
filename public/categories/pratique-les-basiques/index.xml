@@ -6,10 +6,16 @@
     <description>Recent content in Pratique : Les basiques on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/categories/pratique-les-basiques/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 09:15:11 +0000</lastBuildDate><atom:link href="https://instamiam.fr/categories/pratique-les-basiques/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galettes de polenta</title>
+      <link>https://instamiam.fr/galettes-de-polenta/</link>
+      <pubDate>Wed, 26 Aug 2020 09:15:11 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/galettes-de-polenta/</guid>
+      <description>Cuisson de la polenta : Porter le lait à ébullition dans une casserole, avec du sel et du poivre.</description>
+    </item>
     
     <item>
       <title>Lasagnes chèvre épinards</title>
@@ -17,7 +23,7 @@
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>
@@ -27,15 +33,6 @@
       
       <guid>https://instamiam.fr/coulis-de-fraises/</guid>
       <description>Mettre dans un mixeur ou un blender les fraises, le jus du citron et le sucre.</description>
-    </item>
-    
-    <item>
-      <title>Galettes de polenta</title>
-      <link>https://instamiam.fr/galettes-de-polenta/</link>
-      <pubDate>Mon, 26 Feb 2018 09:15:11 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/galettes-de-polenta/</guid>
-      <description>Cuisson de la polenta : Porter le lait à ébullition dans une casserole, avec du sel et du poivre.</description>
     </item>
     
     <item>

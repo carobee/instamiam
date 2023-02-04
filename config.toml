@@ -54,11 +54,6 @@ enableSearch = true
 showSummaryCoverInPost = true
 hasTwitterEmbed = true
 
-# # dark mode
-# darkLinkColor = "darkseagreen"
-# darkNav = true
-# dark404 = true
-
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 

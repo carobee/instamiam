@@ -6,10 +6,44 @@
     <description>Recent content in farine on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Jan 2023 13:18:24 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/farine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Madeleines</title>
+      <link>https://instamiam.fr/madeleines/</link>
+      <pubDate>Sun, 22 Jan 2023 13:18:24 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/madeleines/</guid>
+      <description>Au préalable : Tamiser ensemble la farine et la levure.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/farine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOS cookies à offrir</title>
+      <link>https://instamiam.fr/sos-cookies-a-offrir/</link>
+      <pubDate>Wed, 16 Dec 2020 21:36:47 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/sos-cookies-a-offrir/</guid>
+      <description>J’ai eu envie de tester cette recette après la lecture de ce billet : « SOS Cookies, à ouvrir en cas d’urgence !</description>
+    </item>
     
+    <item>
+      <title>Tarte potiron lardons oignons</title>
+      <link>https://instamiam.fr/tarte-potiron-lardons-oignons/</link>
+      <pubDate>Fri, 02 Oct 2020 17:00:48 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tarte-potiron-lardons-oignons/</guid>
+      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+    </item>
+    
+    <item>
+      <title>Cake aux pommes sans lactose</title>
+      <link>https://instamiam.fr/cake-aux-pommes-sans-lactose/</link>
+      <pubDate>Wed, 30 Sep 2020 11:52:16 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/cake-aux-pommes-sans-lactose/</guid>
+      <description>Préchauffer le four à 180°C (th 6).
+Dans un grand récipient, mélanger ensemble la farine, le sel, la levure, le sucre en poudre et le sucre vanillé.</description>
+    </item>
     
     <item>
       <title>Lasagnes chèvre épinards</title>
@@ -17,7 +51,7 @@
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>
@@ -41,15 +75,6 @@ Mettre dans une petite casserole ou un bol le beurre et le chocolat coupés en m
     </item>
     
     <item>
-      <title>SOS cookies à offrir</title>
-      <link>https://instamiam.fr/sos-cookies-a-offrir/</link>
-      <pubDate>Mon, 04 Dec 2017 21:36:47 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/sos-cookies-a-offrir/</guid>
-      <description>J’ai eu envie de tester cette recette après la lecture de ce billet : « SOS Cookies, à ouvrir en cas d’urgence !</description>
-    </item>
-    
-    <item>
       <title>Pâte à gaufres</title>
       <link>https://instamiam.fr/pate-a-gaufres/</link>
       <pubDate>Sun, 05 Nov 2017 07:36:55 +0000</pubDate>
@@ -57,16 +82,6 @@ Mettre dans une petite casserole ou un bol le beurre et le chocolat coupés en m
       <guid>https://instamiam.fr/pate-a-gaufres/</guid>
       <description>Faire fondre le beurre, et réserver.
 Séparer les blancs des jaunes d’œufs et réserver.</description>
-    </item>
-    
-    <item>
-      <title>Cake aux pommes sans lactose</title>
-      <link>https://instamiam.fr/cake-aux-pommes-sans-lactose/</link>
-      <pubDate>Sat, 30 Sep 2017 11:52:16 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cake-aux-pommes-sans-lactose/</guid>
-      <description>Préchauffer le four à 180°C (th 6).
-Dans un grand récipient, mélanger ensemble la farine, le sel, la levure, le sucre en poudre et le sucre vanillé.</description>
     </item>
     
     <item>
@@ -103,15 +118,6 @@ Dans un grand récipient, mélanger ensemble la farine, le sel, la levure, le su
       
       <guid>https://instamiam.fr/flamiche-aux-poireaux/</guid>
       <description>Au préalable : Préparer la pâte brisée (Voir la recette de la pâte brisée).</description>
-    </item>
-    
-    <item>
-      <title>Tarte potiron lardons oignons</title>
-      <link>https://instamiam.fr/tarte-potiron-lardons-oignons/</link>
-      <pubDate>Fri, 28 Oct 2016 17:00:48 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tarte-potiron-lardons-oignons/</guid>
-      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
     </item>
     
     <item>
@@ -238,110 +244,6 @@ Préparer tous les ingrédients à l’avance :</description>
       <guid>https://instamiam.fr/clafoutis-aux-cerises/</guid>
       <description>Préchauffer le four à 180°C (Thermostat 6-7).
 Laver, équeuter et dénoyauter les cerises.</description>
-    </item>
-    
-    <item>
-      <title>Cookies aux deux chocolats et aux noisettes</title>
-      <link>https://instamiam.fr/cookies-aux-deux-chocolats-et-aux-noisettes/</link>
-      <pubDate>Wed, 26 Mar 2014 22:19:07 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cookies-aux-deux-chocolats-et-aux-noisettes/</guid>
-      <description>Préchauffer le four Thermostat 6 (180°c).
-Couper au couteau les deux chocolats et les noisettes en petits morceaux, et réserver.</description>
-    </item>
-    
-    <item>
-      <title>Flammenküche</title>
-      <link>https://instamiam.fr/flammenkuche/</link>
-      <pubDate>Sun, 23 Feb 2014 10:44:25 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/flammenkuche/</guid>
-      <description>Réhydrater la levure en suivant les indications sur le sachet (dans notre cas : mettre la levure dans 3 cuillères à soupe d’eau tiède et une cuillère à café de sucre en poudre, et délayer quelques minutes).</description>
-    </item>
-    
-    <item>
-      <title>Gâteau au yaourt</title>
-      <link>https://instamiam.fr/gateau-au-yaourt/</link>
-      <pubDate>Wed, 29 Jan 2014 10:00:52 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/gateau-au-yaourt/</guid>
-      <description>Préchauffer le four à 180°c (Th. 6).
-Dans un saladier, mélanger ensemble le yaourt, les œufs et le sucre.</description>
-    </item>
-    
-    <item>
-      <title>Gâteau moelleux au pommes caramélisées</title>
-      <link>https://instamiam.fr/gateau-moelleux-au-pommes-caramelisees/</link>
-      <pubDate>Wed, 13 Nov 2013 10:00:46 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/gateau-moelleux-au-pommes-caramelisees/</guid>
-      <description>Préchauffer le four à 130/140°c (th 4/5).
-Éplucher les pommes, les évider, et les couper en petits dés, ou en lamelles.</description>
-    </item>
-    
-    <item>
-      <title>Mug Cake « Cookie » aux pépites de chocolat</title>
-      <link>https://instamiam.fr/mug-cake-cookie-aux-pepites-de-chocolat/</link>
-      <pubDate>Sat, 19 Oct 2013 08:00:09 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/mug-cake-cookie-aux-pepites-de-chocolat/</guid>
-      <description>Mettre le beurre dans un mug, et faire fondre au micro-ondes 20 secondes à 850W.</description>
-    </item>
-    
-    <item>
-      <title>Mug Cake au chocolat</title>
-      <link>https://instamiam.fr/mug-cake-au-chocolat/</link>
-      <pubDate>Sun, 06 Oct 2013 13:54:00 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/mug-cake-au-chocolat/</guid>
-      <description>Couper le beurre et le chocolat en morceaux. Les mettre dans un mug et faire fondre 25 secondes au micro-ondes.</description>
-    </item>
-    
-    <item>
-      <title>Muffins aux fruits confits et raisins secs</title>
-      <link>https://instamiam.fr/muffins-aux-fruits-confits-et-raisins-secs/</link>
-      <pubDate>Wed, 25 Sep 2013 08:00:59 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/muffins-aux-fruits-confits-et-raisins-secs/</guid>
-      <description>Faire tremper les raisins secs dans de l’eau chaude un quart d’heure au moins.</description>
-    </item>
-    
-    <item>
-      <title>Béchamel facile au micro-ondes</title>
-      <link>https://instamiam.fr/bechamel-facile-au-micro-ondes/</link>
-      <pubDate>Wed, 11 Sep 2013 16:08:57 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/bechamel-facile-au-micro-ondes/</guid>
-      <description>Dans un grand récipient, faire fondre le beurre 1 minute au micro-ondes à puissance moyenne (couvrir le récipient pour éviter les projections).</description>
-    </item>
-    
-    <item>
-      <title>Blondie chocolat café</title>
-      <link>https://instamiam.fr/blondie-chocolat-cafe/</link>
-      <pubDate>Mon, 02 Sep 2013 08:59:06 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/blondie-chocolat-cafe/</guid>
-      <description>Préchauffez le four à 180°C.
-Coupez le chocolat au couteau pour faire des gros morceaux (couper chaque carré en 4), et réservez.</description>
-    </item>
-    
-    <item>
-      <title>Fougasse aux olives</title>
-      <link>https://instamiam.fr/fougasse-aux-olives/</link>
-      <pubDate>Sun, 01 Sep 2013 17:09:41 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/fougasse-aux-olives/</guid>
-      <description>Réhydrater la levure en suivant les indications sur le sachet (dans notre cas : mettre la levure dans 3 cuillères à soupe d’eau tiède et une cuillère à café de sucre en poudre, et délayer quelques minutes).</description>
-    </item>
-    
-    <item>
-      <title>Pain de thon</title>
-      <link>https://instamiam.fr/pain-de-thon/</link>
-      <pubDate>Wed, 28 Aug 2013 14:36:52 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/pain-de-thon/</guid>
-      <description>Allumer le four à 200°C.
-Mettre la farine et la levure dans une terrine, creuser un puits, y casser les œufs entiers.</description>
     </item>
     
   </channel>

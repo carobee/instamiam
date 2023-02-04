@@ -6,10 +6,35 @@
     <description>Recent content in ail on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 13 Apr 2020 10:15:56 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 19:41:18 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/ail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe carottes coco gingembre</title>
+      <link>https://instamiam.fr/soupe-carottes-coco-gingembre/</link>
+      <pubDate>Fri, 20 Jan 2023 19:41:18 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/soupe-carottes-coco-gingembre/</guid>
+      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/ail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aubergines Parmigiana</title>
+      <link>https://instamiam.fr/aubergines-parmigiana/</link>
+      <pubDate>Tue, 01 Sep 2020 08:00:18 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
+      <description>Préchauffer le four à 180°c (thermostat 6)
+Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
+    </item>
     
+    <item>
+      <title>Cari de porc de la Réunion</title>
+      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
+      <pubDate>Wed, 26 Aug 2020 10:21:17 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
+      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
+    </item>
     
     <item>
       <title>Asperges au four à l&#39;ail et piment d&#39;Espelette</title>
@@ -47,15 +72,6 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
       
       <guid>https://instamiam.fr/risotto-au-potiron/</guid>
       <description>Mettre le riz et l’eau (sans sel) à bouillir quelques minutes dans une casserole.</description>
-    </item>
-    
-    <item>
-      <title>Soupe carottes coco gingembre</title>
-      <link>https://instamiam.fr/soupe-carottes-coco-gingembre/</link>
-      <pubDate>Mon, 13 Nov 2017 19:41:18 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/soupe-carottes-coco-gingembre/</guid>
-      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
     </item>
     
     <item>
@@ -153,31 +169,12 @@ Couper les tomates en dés.</description>
     </item>
     
     <item>
-      <title>Cari de porc de la Réunion</title>
-      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
-      <pubDate>Sun, 26 Jan 2014 10:21:17 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
-      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
-    </item>
-    
-    <item>
       <title>Pommes façon sarladaise</title>
       <link>https://instamiam.fr/pommes-facon-sarladaise/</link>
       <pubDate>Thu, 24 Oct 2013 08:00:37 +0000</pubDate>
       
       <guid>https://instamiam.fr/pommes-facon-sarladaise/</guid>
       <description>Éplucher et couper les pommes de terre en rondelles assez épaisses.</description>
-    </item>
-    
-    <item>
-      <title>Aubergines Parmigiana</title>
-      <link>https://instamiam.fr/aubergines-parmigiana/</link>
-      <pubDate>Thu, 19 Sep 2013 08:00:18 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
-      <description>Préchauffer le four à 180°c (thermostat 6)
-Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
     </item>
     
   </channel>

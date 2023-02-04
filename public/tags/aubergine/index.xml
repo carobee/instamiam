@@ -6,10 +6,17 @@
     <description>Recent content in aubergine on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 06 Aug 2018 14:50:13 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/aubergine/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 08:00:18 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/aubergine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aubergines Parmigiana</title>
+      <link>https://instamiam.fr/aubergines-parmigiana/</link>
+      <pubDate>Tue, 01 Sep 2020 08:00:18 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
+      <description>Préchauffer le four à 180°c (thermostat 6)
+Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
+    </item>
     
     <item>
       <title>Caviar d&#39;Aubergines</title>
@@ -28,16 +35,6 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
       
       <guid>https://instamiam.fr/ratatouille-2/</guid>
       <description>Coulis : Faire bouillir les tomates pour les peler facilement. Enlever les milieux et pepins.</description>
-    </item>
-    
-    <item>
-      <title>Aubergines Parmigiana</title>
-      <link>https://instamiam.fr/aubergines-parmigiana/</link>
-      <pubDate>Thu, 19 Sep 2013 08:00:18 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
-      <description>Préchauffer le four à 180°c (thermostat 6)
-Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
     </item>
     
   </channel>

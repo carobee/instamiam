@@ -6,15 +6,21 @@
     <description>Recent content in levure on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 04 Dec 2017 21:36:47 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/levure/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Jan 2023 13:18:24 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/levure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Madeleines</title>
+      <link>https://instamiam.fr/madeleines/</link>
+      <pubDate>Sun, 22 Jan 2023 13:18:24 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/madeleines/</guid>
+      <description>Au préalable : Tamiser ensemble la farine et la levure.</description>
+    </item>
     
     <item>
       <title>SOS cookies à offrir</title>
       <link>https://instamiam.fr/sos-cookies-a-offrir/</link>
-      <pubDate>Mon, 04 Dec 2017 21:36:47 +0000</pubDate>
+      <pubDate>Wed, 16 Dec 2020 21:36:47 +0000</pubDate>
       
       <guid>https://instamiam.fr/sos-cookies-a-offrir/</guid>
       <description>J’ai eu envie de tester cette recette après la lecture de ce billet : « SOS Cookies, à ouvrir en cas d’urgence !</description>

@@ -6,10 +6,17 @@
     <description>Recent content in Yaourts on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 13 Nov 2017 21:04:49 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/categories/yaourts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 17:41:44 +0000</lastBuildDate><atom:link href="https://instamiam.fr/categories/yaourts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yaourt au Cola-Cola</title>
+      <link>https://instamiam.fr/yaourt-au-cola-cola/</link>
+      <pubDate>Wed, 02 Sep 2020 17:41:44 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/yaourt-au-cola-cola/</guid>
+      <description>Battre le Coca-Cola au fouet pour enlever les bulles.
+Faire tiédir le lait au micro-ondes 4 minutes.</description>
+    </item>
     
     <item>
       <title>Yaourts aux œufs</title>
@@ -65,16 +72,6 @@ Dans un saladier, mélanger ensemble le yaourt, les œufs et le sucre.</descript
       
       <guid>https://instamiam.fr/yaourts-mixes-au-coulis-de-fraises/</guid>
       <description>Faire tiédir le lait au micro ondes pendant 4 minutes.</description>
-    </item>
-    
-    <item>
-      <title>Yaourt au Cola-Cola</title>
-      <link>https://instamiam.fr/yaourt-au-cola-cola/</link>
-      <pubDate>Sat, 07 Sep 2013 17:41:44 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/yaourt-au-cola-cola/</guid>
-      <description>Battre le Coca-Cola au fouet pour enlever les bulles.
-Faire tiédir le lait au micro-ondes 4 minutes.</description>
     </item>
     
     <item>

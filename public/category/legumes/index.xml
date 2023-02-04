@@ -6,10 +6,34 @@
     <description>Recent content in Legumes on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 19 Nov 2017 18:12:49 +0100</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 18:12:49 +0100</lastBuildDate><atom:link href="https://instamiam.fr/category/legumes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe carottes coco gingembre</title>
+      <link>https://instamiam.fr/soupe-carottes-coco-gingembre/</link>
+      <pubDate>Fri, 20 Jan 2023 19:41:18 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/soupe-carottes-coco-gingembre/</guid>
+      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/category/legumes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe de lentilles corail curry-coco</title>
+      <link>https://instamiam.fr/soupe-de-lentilles-corail-curry-coco/</link>
+      <pubDate>Sat, 26 Sep 2020 09:00:22 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/soupe-de-lentilles-corail-curry-coco/</guid>
+      <description>Eplucher et émincer l’oignon. Rincer les lentilles à l’eau froide et les faire égoutter.</description>
+    </item>
     
+    <item>
+      <title>Galettes de polenta</title>
+      <link>https://instamiam.fr/galettes-de-polenta/</link>
+      <pubDate>Wed, 26 Aug 2020 09:15:11 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/galettes-de-polenta/</guid>
+      <description>Cuisson de la polenta : Porter le lait à ébullition dans une casserole, avec du sel et du poivre.</description>
+    </item>
     
     <item>
       <title>Asperges au four à l&#39;ail et piment d&#39;Espelette</title>
@@ -68,30 +92,12 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
     </item>
     
     <item>
-      <title>Galettes de polenta</title>
-      <link>https://instamiam.fr/galettes-de-polenta/</link>
-      <pubDate>Mon, 26 Feb 2018 09:15:11 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/galettes-de-polenta/</guid>
-      <description>Cuisson de la polenta : Porter le lait à ébullition dans une casserole, avec du sel et du poivre.</description>
-    </item>
-    
-    <item>
       <title>Risotto au potiron</title>
       <link>https://instamiam.fr/risotto-au-potiron/</link>
       <pubDate>Thu, 23 Nov 2017 09:30:31 +0000</pubDate>
       
       <guid>https://instamiam.fr/risotto-au-potiron/</guid>
       <description>Mettre le riz et l’eau (sans sel) à bouillir quelques minutes dans une casserole.</description>
-    </item>
-    
-    <item>
-      <title>Soupe carottes coco gingembre</title>
-      <link>https://instamiam.fr/soupe-carottes-coco-gingembre/</link>
-      <pubDate>Mon, 13 Nov 2017 19:41:18 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/soupe-carottes-coco-gingembre/</guid>
-      <description>Éplucher les carottes et les patates douces. Les laver et les couper en gros morceaux.</description>
     </item>
     
     <item>
@@ -119,15 +125,6 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
       
       <guid>https://instamiam.fr/potatoes-maison-au-four/</guid>
       <description>Préchauffer le four à 180°c (ou 200°c si votre four n’a pas de chaleur tournante).</description>
-    </item>
-    
-    <item>
-      <title>Soupe de lentilles corail curry-coco</title>
-      <link>https://instamiam.fr/soupe-de-lentilles-corail-curry-coco/</link>
-      <pubDate>Tue, 16 Feb 2016 09:00:22 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/soupe-de-lentilles-corail-curry-coco/</guid>
-      <description>Eplucher et émincer l’oignon. Rincer les lentilles à l’eau froide et les faire égoutter.</description>
     </item>
     
     <item>
@@ -236,16 +233,6 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
       
       <guid>https://instamiam.fr/spaghetti-au-curry-lekue/</guid>
       <description>Casser les spaghettis en 2 et les mettre dans le lékué (sans la grille).</description>
-    </item>
-    
-    <item>
-      <title>Tian Courgette Tomate en papillote silicone au micro-ondes</title>
-      <link>https://instamiam.fr/tian-courgette-tomate-lekue/</link>
-      <pubDate>Sun, 11 Aug 2013 20:53:20 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tian-courgette-tomate-lekue/</guid>
-      <description>(Testé avec la papillote Lekué, sans le panier)
-Emincer en fines rondelles les courgettes, tomates et oignons.</description>
     </item>
     
   </channel>

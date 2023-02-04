@@ -1,2172 +1,1303 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://instamiam.fr/author/caro/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/a-emporter/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/author/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/beurre/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/citron/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/farine/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/four/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/gouter/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/levure/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/madeleines/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/miams-sucres/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/oeuf/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pique-nique/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sucre-en-poudre/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/</loc>
+    <lastmod>2023-01-22T13:18:24+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/ail/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/carotte/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/gingembre/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/hiver/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/lait-de-coco/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/legumes/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/oignon/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/patate-douce/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/potage/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/soupe/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/soupe-carottes-coco-gingembre/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/vegetalien/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/vegetarien/</loc>
+    <lastmod>2023-01-20T19:41:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/fromage/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/lard/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/lardons/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/plat-complet/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/plats/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pomme-de-terre/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/reblochon/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tartiflette/</loc>
+    <lastmod>2023-01-17T18:34:31+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/amande/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/epiphanie/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/fetes/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/frangipane/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/galette-a-la-frangipane/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/galette-des-rois/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pate-feuilletee/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/poudre-damandes/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/rhum/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sucre/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/tradition/</loc>
+    <lastmod>2023-01-01T12:21:04+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/a-faire-par-les-enfants/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/a-manger-avec-les-doigts/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/apero/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/ca-en-jette/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/noel/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pistou/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/sapin-feuillete/</loc>
+    <lastmod>2020-12-17T11:01:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/chapelure/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/creme-de-soja/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/oeufs-de-saumon/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/oeufs-de-truite/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sans-lactose/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tarama-facile-sans-lactose/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/toasts/</loc>
+    <lastmod>2020-12-17T07:38:30+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/cadeau/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/chocolat/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/chocolat-blanc/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/diy/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/flocons-davoine/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/noisette/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/noix/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/noix-de-pecan/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/offrir/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/sos-cookies-a-offrir/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sucre-roux/</loc>
+    <lastmod>2020-12-16T21:36:47+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/creme-fraiche/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/facile/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/noix-de-st-jacques/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/noix-de-st-jacques-flambees-au-pastis/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pastis/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/printemps/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/rapide/</loc>
+    <lastmod>2020-12-15T08:35:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/des-doigts-de-sorciere-pour-halloween/</loc>
+    <lastmod>2020-10-19T20:05:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/halloween/</loc>
+    <lastmod>2020-10-19T20:05:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/hyper-facile/</loc>
+    <lastmod>2020-10-19T20:05:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/saucisse/</loc>
+    <lastmod>2020-10-19T20:05:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/usa/</loc>
+    <lastmod>2020-10-19T20:05:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/apero-dinatoire/</loc>
+    <lastmod>2020-10-18T09:00:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/petits-croissants-au-saumon/</loc>
+    <lastmod>2020-10-18T09:00:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/saumon-fume/</loc>
+    <lastmod>2020-10-18T09:00:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/video/</loc>
+    <lastmod>2020-10-18T09:00:40+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/automne/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/courge/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/gruyere-rape/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/muscade/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pate-brisee/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/potimarron/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/potiron/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/tarte/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tarte-potiron-lardons-oignons/</loc>
+    <lastmod>2020-10-02T17:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/blettes/</loc>
+    <lastmod>2020-10-01T17:07:36+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/chevre/</loc>
+    <lastmod>2020-10-01T17:07:36+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/epinard/</loc>
+    <lastmod>2020-10-01T17:07:36+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/filo/</loc>
+    <lastmod>2020-10-01T17:07:36+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tarte-au-chevre-et-aux-blettes-de-tatounette/</loc>
+    <lastmod>2020-10-01T17:07:36+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/cake/</loc>
+    <lastmod>2020-09-30T11:52:16+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/cake-aux-pommes-sans-lactose/</loc>
+    <lastmod>2020-09-30T11:52:16+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pomme/</loc>
+    <lastmod>2020-09-30T11:52:16+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sucre-vanille/</loc>
+    <lastmod>2020-09-30T11:52:16+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/curry/</loc>
+    <lastmod>2020-09-26T09:00:22+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/lentilles-corail/</loc>
+    <lastmod>2020-09-26T09:00:22+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/soupe-de-lentilles-corail-curry-coco/</loc>
+    <lastmod>2020-09-26T09:00:22+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sucre-sale/</loc>
+    <lastmod>2020-09-26T09:00:22+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/aout/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/confiture/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/confitures/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/confitures-de-mirabelles/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/ete/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/fruits/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/marmelade/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/mirabelle/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/prune/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/reine-claude/</loc>
+    <lastmod>2020-09-05T08:00:53+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/miel/</loc>
+    <lastmod>2020-09-04T09:00:34+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/porc/</loc>
+    <lastmod>2020-09-04T09:00:34+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/raisins-secs/</loc>
+    <lastmod>2020-09-04T09:00:34+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/roti/</loc>
+    <lastmod>2020-09-04T09:00:34+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</loc>
+    <lastmod>2020-09-04T09:00:34+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/figue/</loc>
+    <lastmod>2020-09-03T15:53:56+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tarte-aux-figues/</loc>
+    <lastmod>2020-09-03T15:53:56+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/coca-cola/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/lait/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/yaourt-au-cola-cola/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/yaourtiere/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/yaourts/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/yaourts/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/yaourts-maison/</loc>
+    <lastmod>2020-09-02T17:41:44+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/aubergine/</loc>
+    <lastmod>2020-09-01T08:00:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/aubergines-parmigiana/</loc>
+    <lastmod>2020-09-01T08:00:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/gratin/</loc>
+    <lastmod>2020-09-01T08:00:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/italie/</loc>
+    <lastmod>2020-09-01T08:00:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/parmesan/</loc>
+    <lastmod>2020-09-01T08:00:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/tomate/</loc>
+    <lastmod>2020-09-01T08:00:18+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/cari-de-porc-de-la-reunion/</loc>
+    <lastmod>2020-08-26T10:21:17+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/curcuma/</loc>
+    <lastmod>2020-08-26T10:21:17+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/exotique/</loc>
+    <lastmod>2020-08-26T10:21:17+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/ile-de-la-reunion/</loc>
+    <lastmod>2020-08-26T10:21:17+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/repas-du-dimanche/</loc>
+    <lastmod>2020-08-26T10:21:17+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/riz/</loc>
+    <lastmod>2020-08-26T10:21:17+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/galettes-de-polenta/</loc>
+    <lastmod>2020-08-26T09:15:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/polenta/</loc>
+    <lastmod>2020-08-26T09:15:11+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/categories/pratique-les-basiques/</loc>
+    <lastmod>2020-08-26T09:15:11+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/tags/accompagnement/</loc>
     <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/ail/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/asperge/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/asperges/</loc>
     <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/asperges-au-four-a-lail-et-piment-despelette/</loc>
     <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/author/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/entree/</loc>
     <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/four/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/legumes/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/piment/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/piment-despelette/</loc>
     <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/printemps/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/</loc>
-    <lastmod>2020-04-13T10:15:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/chou-fleur/</loc>
     <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/chou-fleur-roti-au-four/</loc>
     <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/cumin/</loc>
     <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/huile/</loc>
-    <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/huile-dolive/</loc>
     <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/paprika/</loc>
     <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/vegetalien/</loc>
-    <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/vegetarien/</loc>
-    <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/ete/</loc>
-    <lastmod>2020-04-12T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/beurre/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/blettes/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/bechamel/</loc>
     <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/chevre/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/creme-fraiche/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/farine/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/fromage/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/gratin/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/lait/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/lasagnes-chevre-epinards/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/muscade/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/oignon/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/parmesan/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/pratique-les-basiques/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/ricotta/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/epinard/</loc>
-    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/epinards/</loc>
     <lastmod>2020-04-11T18:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/citron/</loc>
-    <lastmod>2020-04-11T09:01:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/lasagnes-chevre-epinards/</loc>
+    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/ricotta/</loc>
+    <lastmod>2020-04-11T18:30:33+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/coulis-de-fraises/</loc>
     <lastmod>2020-04-11T09:01:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/fraise/</loc>
     <lastmod>2020-04-11T09:01:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/miams-sucres/</loc>
-    <lastmod>2020-04-11T09:01:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/sans-lactose/</loc>
-    <lastmod>2020-04-11T09:01:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/sucre/</loc>
-    <lastmod>2020-04-11T09:01:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/agneau/</loc>
     <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/carotte/</loc>
-    <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/facile/</loc>
-    <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/navarin-dagneau/</loc>
     <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/navet/</loc>
     <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/plat-complet/</loc>
-    <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/plats/</loc>
-    <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/repas-du-dimanche/</loc>
-    <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/tomate/</loc>
-    <lastmod>2020-04-10T10:51:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/filo/</loc>
-    <lastmod>2020-04-07T17:07:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/tarte/</loc>
-    <lastmod>2020-04-07T17:07:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tarte-au-chevre-et-aux-blettes-de-tatounette/</loc>
-    <lastmod>2020-04-07T17:07:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/agar-agar/</loc>
     <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/agave/</loc>
     <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/italie/</loc>
-    <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/lait-de-coco/</loc>
-    <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/miel/</loc>
-    <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/panna-cotta-au-lait-de-coco/</loc>
     <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/sucre-roux/</loc>
-    <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/verrines/</loc>
     <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/ca-en-jette/</loc>
-    <lastmod>2020-04-06T11:00:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/cassonade/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/chti/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/gouter/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/oeuf/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pain/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pique-nique/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/raisins-secs/</loc>
-    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/pain-dchien-ou-pudding-chti/</loc>
     <lastmod>2020-03-30T19:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/cassonade/</loc>
+    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/chti/</loc>
+    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/pain/</loc>
+    <lastmod>2020-03-30T19:07:37+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/articles/</loc>
     <lastmod>2020-01-24T21:40:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/mentions-legales/</loc>
     <lastmod>2020-01-24T21:40:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/categories/page/</loc>
     <lastmod>2020-01-24T21:40:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/ail-chinois/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/chou-chinois/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/crevettes/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/exotique/</loc>
-    <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/huile-de-sesame/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/ile-de-la-reunion/</loc>
-    <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/jambon/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/nouilles/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/oignon-nouveau/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/sauce/</loc>
-    <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/sauce-soja/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/saute-de-mines-la-reunion/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/wok/</loc>
     <lastmod>2019-03-22T17:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/courge/</loc>
-    <lastmod>2018-08-06T15:17:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/courgette/</loc>
     <lastmod>2018-08-06T15:17:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/thym/</loc>
     <lastmod>2018-08-06T15:17:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tian-courgettes-tomates/</loc>
     <lastmod>2018-08-06T15:17:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/apero/</loc>
-    <lastmod>2018-08-06T14:50:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/apero-dinatoire/</loc>
-    <lastmod>2018-08-06T14:50:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/aubergine/</loc>
-    <lastmod>2018-08-06T14:50:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/caviar-daubergines/</loc>
     <lastmod>2018-08-06T14:50:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/romarin/</loc>
     <lastmod>2018-08-06T14:50:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/abricots/</loc>
     <lastmod>2018-07-25T15:47:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/confiture/</loc>
-    <lastmod>2018-07-25T15:47:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/marmelade-d-abricots/</loc>
     <lastmod>2018-07-25T15:47:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/confitures/</loc>
-    <lastmod>2018-07-25T15:47:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/fruits/</loc>
-    <lastmod>2018-07-25T15:47:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/marmelade/</loc>
-    <lastmod>2018-07-25T15:47:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/poivron/</loc>
     <lastmod>2018-07-25T14:34:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/ratatouille-2/</loc>
     <lastmod>2018-07-25T14:34:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/dessert/</loc>
     <lastmod>2018-04-16T17:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/hyper-facile/</loc>
-    <lastmod>2018-04-16T17:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/semoule/</loc>
     <lastmod>2018-04-16T17:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/semoule-au-lait-a-la-vanille/</loc>
     <lastmod>2018-04-16T17:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/sucre-vanille/</loc>
-    <lastmod>2018-04-16T17:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/vanille/</loc>
     <lastmod>2018-04-16T17:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/chocolat/</loc>
-    <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/classique/</loc>
     <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/le-brownie-au-chocolat-super-bon/</loc>
     <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/noix/</loc>
-    <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/usa/</loc>
-    <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/a-emporter/</loc>
-    <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/a-manger-avec-les-doigts/</loc>
-    <lastmod>2018-03-27T10:49:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/coriandre-fraiche/</loc>
     <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/curcuma/</loc>
-    <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/friture/</loc>
     <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/gingembre/</loc>
-    <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/menthe/</loc>
     <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/piment/</loc>
+    <lastmod>2018-03-18T14:24:51+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/samoussas-au-thon-ile-de-la-reunion/</loc>
     <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/thon/</loc>
     <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/video/</loc>
-    <lastmod>2018-03-18T14:24:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/biere/</loc>
     <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/boeuf/</loc>
     <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/bouillon/</loc>
-    <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/boeuf-braise-a-la-guinness/</loc>
     <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/bouillon/</loc>
+    <lastmod>2018-03-09T09:29:30+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/tags/guinness/</loc>
     <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/irlande/</loc>
     <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/lard/</loc>
-    <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/lardons/</loc>
-    <lastmod>2018-03-09T09:29:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/carottes-a-la-creme/</loc>
     <lastmod>2018-03-08T10:30:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cheeseburger-gouda-cumin/</loc>
     <lastmod>2018-03-07T16:03:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/gouda-au-cumin/</loc>
     <lastmod>2018-03-07T16:03:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/moutarde/</loc>
     <lastmod>2018-03-07T16:03:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/salade/</loc>
     <lastmod>2018-03-07T16:03:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/yaourts/</loc>
-    <lastmod>2018-03-07T16:03:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/galettes-de-polenta/</loc>
-    <lastmod>2018-02-26T09:15:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/polenta/</loc>
-    <lastmod>2018-02-26T09:15:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/rapide/</loc>
-    <lastmod>2018-02-26T09:15:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/automne/</loc>
-    <lastmod>2018-01-22T08:18:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/confiture-de-kiwis/</loc>
     <lastmod>2018-01-22T08:18:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/conserve/</loc>
     <lastmod>2018-01-22T08:18:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/hiver/</loc>
-    <lastmod>2018-01-22T08:18:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/kiwi/</loc>
     <lastmod>2018-01-22T08:18:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/amande/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/frangipane/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/fetes/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/galette-des-rois/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/galette-a-la-frangipane/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/poudre-damandes/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pate-feuilletee/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/rhum/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/tradition/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/epiphanie/</loc>
-    <lastmod>2018-01-03T17:21:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/bonbons-piment-la-reunion/</loc>
     <lastmod>2018-01-01T18:56:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/pois/</loc>
     <lastmod>2018-01-01T18:56:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/noix-de-st-jacques/</loc>
-    <lastmod>2017-12-24T08:35:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/noix-de-st-jacques-flambees-au-pastis/</loc>
-    <lastmod>2017-12-24T08:35:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pastis/</loc>
-    <lastmod>2017-12-24T08:35:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/chapelure/</loc>
-    <lastmod>2017-12-24T07:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/creme-de-soja/</loc>
-    <lastmod>2017-12-24T07:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/oeufs-de-saumon/</loc>
-    <lastmod>2017-12-24T07:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/oeufs-de-truite/</loc>
-    <lastmod>2017-12-24T07:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tarama-facile-sans-lactose/</loc>
-    <lastmod>2017-12-24T07:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/toasts/</loc>
-    <lastmod>2017-12-24T07:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/boeuf-bourguignon/</loc>
     <lastmod>2017-12-23T11:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/france/</loc>
     <lastmod>2017-12-23T11:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/olive/</loc>
     <lastmod>2017-12-23T11:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pomme/</loc>
-    <lastmod>2017-12-23T11:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pomme-de-terre/</loc>
-    <lastmod>2017-12-23T11:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/vin-rouge/</loc>
     <lastmod>2017-12-23T11:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/noel/</loc>
-    <lastmod>2017-12-21T11:01:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pistou/</loc>
-    <lastmod>2017-12-21T11:01:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/sapin-feuillete/</loc>
-    <lastmod>2017-12-21T11:01:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/a-faire-par-les-enfants/</loc>
-    <lastmod>2017-12-21T11:01:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/alcool/</loc>
-    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/boisson/</loc>
-    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/dattes/</loc>
-    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/rhum-arrange/</loc>
-    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/rhum-arrange-aux-dattes/</loc>
-    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/a-boire/</loc>
     <lastmod>2017-12-11T19:24:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/cadeau/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/chocolat-blanc/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/diy/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/flocons-davoine/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/levure/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/noisette/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/noix-de-pecan/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/offrir/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/sos-cookies-a-offrir/</loc>
-    <lastmod>2017-12-04T21:36:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/reblochon/</loc>
-    <lastmod>2017-12-04T18:34:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tartiflette/</loc>
-    <lastmod>2017-12-04T18:34:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/halloween/</loc>
-    <lastmod>2017-11-23T09:30:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/potiron/</loc>
-    <lastmod>2017-11-23T09:30:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/alcool/</loc>
+    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/boisson/</loc>
+    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/dattes/</loc>
+    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/rhum-arrange/</loc>
+    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/rhum-arrange-aux-dattes/</loc>
+    <lastmod>2017-12-11T19:24:46+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/risotto-au-potiron/</loc>
     <lastmod>2017-11-23T09:30:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/riz/</loc>
-    <lastmod>2017-11-23T09:30:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/legumes/</loc>
     <lastmod>2017-11-19T18:12:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/apero/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/confitures/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/miams-sucres/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/plats/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/pratique-les-basiques/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/toutes-les-recettes/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/category/yaourts/</loc>
     <lastmod>2017-11-18T18:10:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/yaourtiere/</loc>
-    <lastmod>2017-11-13T21:04:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/categories/yaourts/</loc>
-    <lastmod>2017-11-13T21:04:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-aux-oeufs/</loc>
     <lastmod>2017-11-13T21:04:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/yaourts-maison/</loc>
-    <lastmod>2017-11-13T21:04:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/patate-douce/</loc>
-    <lastmod>2017-11-13T19:41:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/potage/</loc>
-    <lastmod>2017-11-13T19:41:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/soupe/</loc>
-    <lastmod>2017-11-13T19:41:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/soupe-carottes-coco-gingembre/</loc>
-    <lastmod>2017-11-13T19:41:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/pate-a-gaufres/</loc>
     <lastmod>2017-11-05T07:36:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/confiture-de-tomates-vertes/</loc>
     <lastmod>2017-11-01T14:58:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/morue/</loc>
     <lastmod>2017-10-04T21:09:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/poisson/</loc>
     <lastmod>2017-10-04T21:09:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/rougail-la-morue-ile-de-la-reunion/</loc>
     <lastmod>2017-10-04T21:09:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/cake/</loc>
-    <lastmod>2017-09-30T11:52:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/cake-aux-pommes-sans-lactose/</loc>
-    <lastmod>2017-09-30T11:52:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/confiture-de-poires/</loc>
     <lastmod>2017-09-30T09:00:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/poire/</loc>
     <lastmod>2017-09-30T09:00:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/bavette-a-lechalote/</loc>
     <lastmod>2017-09-15T18:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/viande/</loc>
     <lastmod>2017-09-15T18:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/mirabelle/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/porc/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/prune/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/prunes/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/reine-claude/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/roti/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/sucre-sale/</loc>
-    <lastmod>2017-09-15T09:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/aout/</loc>
-    <lastmod>2017-09-15T08:00:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/confitures-de-mirabelles/</loc>
-    <lastmod>2017-09-15T08:00:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/figue/</loc>
-    <lastmod>2017-09-09T15:53:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/pate-brisee/</loc>
-    <lastmod>2017-09-09T15:53:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tarte-aux-figues/</loc>
-    <lastmod>2017-09-09T15:53:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/massale/</loc>
-    <lastmod>2017-07-31T17:10:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/poulet/</loc>
-    <lastmod>2017-07-31T17:10:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/poulet-massale-de-la-reunion/</loc>
-    <lastmod>2017-07-31T17:10:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/epice/</loc>
     <lastmod>2017-07-31T17:10:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/massale/</loc>
+    <lastmod>2017-07-31T17:10:06+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/poulet/</loc>
+    <lastmod>2017-07-31T17:10:06+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/poulet-massale-de-la-reunion/</loc>
+    <lastmod>2017-07-31T17:10:06+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/tags/bavette/</loc>
     <lastmod>2017-07-15T18:09:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/fond-de-veau/</loc>
-    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/grillade/</loc>
-    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/sauce-aux-echalotes/</loc>
-    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/vinaigre/</loc>
-    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/echalote/</loc>
     <lastmod>2017-07-15T18:09:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/fond-de-veau/</loc>
+    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/grillade/</loc>
+    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/sauce/</loc>
+    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/sauce-aux-echalotes/</loc>
+    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/vinaigre/</loc>
+    <lastmod>2017-07-15T18:09:51+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/tags/concombre/</loc>
     <lastmod>2017-06-11T21:03:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/taboule-aux-herbes/</loc>
     <lastmod>2017-06-11T21:03:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/barbecue/</loc>
     <lastmod>2017-06-10T18:33:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/brochettes/</loc>
     <lastmod>2017-06-10T18:33:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/brochettes-de-poulet-marine/</loc>
     <lastmod>2017-06-10T18:33:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/curry/</loc>
-    <lastmod>2017-06-10T18:33:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/anchois/</loc>
     <lastmod>2017-06-04T11:26:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/roules-de-courgettes-aux-anchois/</loc>
     <lastmod>2017-06-04T11:26:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/sans-cuisson/</loc>
     <lastmod>2017-06-04T11:26:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/tapas/</loc>
     <lastmod>2017-06-04T11:26:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/tapenade/</loc>
     <lastmod>2017-06-04T11:26:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/anniversaire/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/blanc-doeuf/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/cacao/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-napolitain/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/nutella/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/preparer-la-veille/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/sucre-glace/</loc>
     <lastmod>2017-05-20T14:24:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/rostis-de-courgettes/</loc>
     <lastmod>2017-05-15T21:27:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/burger/</loc>
     <lastmod>2017-03-16T21:21:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/burger-au-cantal-et-a-la-fondue-de-poireaux/</loc>
     <lastmod>2017-03-16T21:21:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/cantal/</loc>
     <lastmod>2017-03-16T21:21:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/poireau/</loc>
     <lastmod>2017-03-16T21:21:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-aux-carottes/</loc>
     <lastmod>2017-02-10T19:29:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/huile/</loc>
+    <lastmod>2017-02-10T19:29:14+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/tags/levure-de-boulanger/</loc>
     <lastmod>2017-02-10T19:29:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/potatoes-maison-au-four/</loc>
     <lastmod>2016-12-04T21:45:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/flamiche-aux-poireaux/</loc>
     <lastmod>2016-12-04T21:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/pas-de-calais/</loc>
     <lastmod>2016-12-04T21:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/picardie/</loc>
     <lastmod>2016-12-04T21:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/canard/</loc>
     <lastmod>2016-11-20T20:34:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cari-canard-ile-de-la-reunion/</loc>
     <lastmod>2016-11-20T20:34:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/gruyere-rape/</loc>
-    <lastmod>2016-10-28T17:00:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/potimarron/</loc>
-    <lastmod>2016-10-28T17:00:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tarte-potiron-lardons-oignons/</loc>
-    <lastmod>2016-10-28T17:00:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/des-doigts-de-sorciere-pour-halloween/</loc>
-    <lastmod>2016-10-24T20:05:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/saucisse/</loc>
-    <lastmod>2016-10-24T20:05:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/gateau/</loc>
     <lastmod>2016-10-23T20:00:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-de-patates-douces/</loc>
     <lastmod>2016-10-23T20:00:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/micro-ondes/</loc>
     <lastmod>2016-10-21T16:45:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/oeufs-cocotte-paysanne/</loc>
     <lastmod>2016-10-21T16:45:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/cannelle/</loc>
     <lastmod>2016-09-11T19:52:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/crumble-aux-pommes/</loc>
     <lastmod>2016-09-11T19:52:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/nuggets-de-poulet-maison/</loc>
     <lastmod>2016-04-16T15:10:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-a-la-vanille/</loc>
     <lastmod>2016-03-06T10:49:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/lentilles-corail/</loc>
-    <lastmod>2016-02-16T09:00:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/soupe-de-lentilles-corail-curry-coco/</loc>
-    <lastmod>2016-02-16T09:00:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/comte/</loc>
     <lastmod>2016-02-07T20:50:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/quiche/</loc>
     <lastmod>2016-02-07T20:50:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/quiche-aux-trois-fromages/</loc>
     <lastmod>2016-02-07T20:50:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/saint-marcellin/</loc>
     <lastmod>2016-02-07T20:50:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/pate-a-crepe-sucree/</loc>
     <lastmod>2016-02-03T12:19:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/soupe-de-carottes/</loc>
     <lastmod>2016-01-20T21:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/bicarbonate/</loc>
     <lastmod>2015-12-30T08:33:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/muffins-vegetaliens/</loc>
     <lastmod>2015-12-30T08:33:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/petits-croissants-au-saumon/</loc>
-    <lastmod>2015-12-21T09:00:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/saumon-fume/</loc>
-    <lastmod>2015-12-21T09:00:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/soupe-aux-epinards/</loc>
     <lastmod>2015-12-06T17:17:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/banane/</loc>
     <lastmod>2015-10-21T10:30:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cake-bananes-noix/</loc>
     <lastmod>2015-10-21T10:30:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cari-porc-pommes-de-terre-la-reunion/</loc>
     <lastmod>2015-09-23T14:41:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/amande-cuisine/</loc>
     <lastmod>2015-06-02T17:15:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gratin-dauphinois-sans-lactose/</loc>
     <lastmod>2015-06-02T17:15:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/combava/</loc>
     <lastmod>2015-05-24T19:12:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/samoussas-vegetariens-a-la-patate-douce-la-reunion/</loc>
     <lastmod>2015-05-24T19:12:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/muffins-aux-pommes-caramelisees/</loc>
     <lastmod>2015-05-16T09:06:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gougeres-au-gruyere-rape/</loc>
     <lastmod>2015-05-14T12:26:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tarte-tatin-salee-aux-oignons/</loc>
     <lastmod>2015-05-10T20:39:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/vinaigre-balsamique/</loc>
     <lastmod>2015-05-10T20:39:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/biscuits/</loc>
-    <lastmod>2015-04-21T06:50:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/cafe/</loc>
-    <lastmod>2015-04-21T06:50:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-des-familles/</loc>
     <lastmod>2015-04-21T06:50:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/biscuits/</loc>
+    <lastmod>2015-04-21T06:50:19+00:00</lastmod>
+  </url><url>
+    <loc>https://instamiam.fr/tags/cafe/</loc>
+    <lastmod>2015-04-21T06:50:19+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/rougail-saucisses-reunionnais/</loc>
     <lastmod>2015-02-21T07:55:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/antilles/</loc>
     <lastmod>2015-02-09T21:55:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/rhum-arrange-cafe-vanille/</loc>
     <lastmod>2015-02-09T21:55:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/le-cheesecake-americain/</loc>
     <lastmod>2015-02-09T21:41:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/philadelphia/</loc>
     <lastmod>2015-02-09T21:41:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/speculos/</loc>
     <lastmod>2015-02-09T21:41:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/accras-aux-crevettes/</loc>
     <lastmod>2015-02-09T21:40:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/cabillaud/</loc>
     <lastmod>2015-02-09T21:40:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/persil/</loc>
     <lastmod>2015-02-09T21:40:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gratin-de-polenta/</loc>
     <lastmod>2014-11-19T21:32:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/puree-de-courge-potimarron/</loc>
     <lastmod>2014-10-22T09:36:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/petits-pots-au-nesquik/</loc>
     <lastmod>2014-10-20T09:29:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cookies-sales-parmesan-tomates-sechees/</loc>
     <lastmod>2014-10-18T14:51:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/origan/</loc>
     <lastmod>2014-10-18T14:51:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/tomates-sechees/</loc>
     <lastmod>2014-10-18T14:51:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cake-sale-olives-noisettes/</loc>
     <lastmod>2014-10-09T20:03:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/vin-blanc/</loc>
     <lastmod>2014-10-09T20:03:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cari-thon-rapide-reunion/</loc>
     <lastmod>2014-10-09T19:34:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/celeri/</loc>
     <lastmod>2014-09-24T10:01:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/pates/</loc>
     <lastmod>2014-09-24T10:01:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/sauce-bolognaise-rapide/</loc>
     <lastmod>2014-09-24T10:01:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/pate-brisee/</loc>
     <lastmod>2014-09-11T07:46:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/sel/</loc>
     <lastmod>2014-09-11T07:46:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/meringues/</loc>
     <lastmod>2014-07-28T17:54:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/noix-de-coco/</loc>
     <lastmod>2014-07-28T17:37:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/rochers-coco/</loc>
     <lastmod>2014-07-28T17:37:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/financiers-a-la-pistache/</loc>
     <lastmod>2014-06-01T16:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/pistache/</loc>
     <lastmod>2014-06-01T16:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/cerises/</loc>
     <lastmod>2014-05-31T14:54:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/clafoutis-aux-cerises/</loc>
     <lastmod>2014-05-31T14:54:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/creme-anglaise/</loc>
     <lastmod>2014-04-24T19:49:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/jaune-d%C5%93uf/</loc>
     <lastmod>2014-04-24T19:49:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/saint-marcellin-chaud-pomme-et-lard/</loc>
     <lastmod>2014-04-24T19:33:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://instamiam.fr/tags/asperge/</loc>
+    <lastmod>2014-04-06T13:35:59+00:00</lastmod>
+  </url><url>
     <loc>https://instamiam.fr/verrines-de-panna-cotta-salee-aux-asperges/</loc>
     <lastmod>2014-04-06T13:35:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/croissants-au-chocolat/</loc>
     <lastmod>2014-03-29T15:00:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/petit-dejeuner/</loc>
     <lastmod>2014-03-29T15:00:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/champignons/</loc>
     <lastmod>2014-03-28T10:45:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/risotto-aux-champignons/</loc>
     <lastmod>2014-03-28T10:45:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cookies-aux-deux-chocolats-et-aux-noisettes/</loc>
     <lastmod>2014-03-26T22:19:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/rougail-de-tomates/</loc>
     <lastmod>2014-03-17T10:00:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/alsace/</loc>
     <lastmod>2014-02-23T10:44:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/boulange/</loc>
     <lastmod>2014-02-23T10:44:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/flammenkuche/</loc>
     <lastmod>2014-02-23T10:44:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/panna-cotta-salee-au-parmesan-et-tomates-sechees/</loc>
     <lastmod>2014-02-12T14:41:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/colombo/</loc>
     <lastmod>2014-02-11T22:32:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/colombo-de-dinde-au-lait-de-coco/</loc>
     <lastmod>2014-02-11T22:32:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/dinde/</loc>
     <lastmod>2014-02-11T22:32:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/glacage-au-chocolat/</loc>
     <lastmod>2014-02-03T21:03:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-au-yaourt/</loc>
     <lastmod>2014-01-29T10:00:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/cari-de-porc-de-la-reunion/</loc>
-    <lastmod>2014-01-26T10:21:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/veloute/</loc>
     <lastmod>2013-12-12T17:29:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/veloute-de-potiron-au-lait/</loc>
     <lastmod>2013-12-12T17:29:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gratin-de-pates-au-thon-et-a-la-bechamelle/</loc>
     <lastmod>2013-11-28T18:00:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-de-pain-perdu/</loc>
     <lastmod>2013-11-26T14:30:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tarte-aux-poireaux/</loc>
     <lastmod>2013-11-23T10:00:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cuisson-du-riz-pilaf/</loc>
     <lastmod>2013-11-21T10:30:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/leger/</loc>
     <lastmod>2013-11-17T18:00:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/soupe-legere-poireaux-oignons/</loc>
     <lastmod>2013-11-17T18:00:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/gateau-moelleux-au-pommes-caramelisees/</loc>
     <lastmod>2013-11-13T10:00:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-au-cafe/</loc>
     <lastmod>2013-10-26T08:00:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/pommes-facon-sarladaise/</loc>
     <lastmod>2013-10-24T08:00:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/sud-ouest/</loc>
     <lastmod>2013-10-24T08:00:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/mug-cake-cookie-aux-pepites-de-chocolat/</loc>
     <lastmod>2013-10-19T08:00:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/flan-au-thon-et-coulis-de-poireaux/</loc>
     <lastmod>2013-10-17T08:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/lait-gloria/</loc>
     <lastmod>2013-10-17T08:00:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/haricots-verts/</loc>
     <lastmod>2013-10-12T08:00:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/haricots-verts-carbonara/</loc>
     <lastmod>2013-10-12T08:00:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/mug-cake-au-chocolat/</loc>
     <lastmod>2013-10-06T13:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/lekue/</loc>
     <lastmod>2013-10-01T08:00:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/papillote-de-poisson-au-micro-ondes/</loc>
     <lastmod>2013-10-01T08:00:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/papillote-silicone/</loc>
     <lastmod>2013-10-01T08:00:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/quiche-sans-pate/</loc>
     <lastmod>2013-09-29T08:00:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/crevettes-curry-coco/</loc>
     <lastmod>2013-09-27T08:00:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/fruits-confits/</loc>
     <lastmod>2013-09-25T08:00:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/muffins/</loc>
     <lastmod>2013-09-25T08:00:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/muffins-aux-fruits-confits-et-raisins-secs/</loc>
     <lastmod>2013-09-25T08:00:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/semoule-rapide-au-micro-ondes/</loc>
     <lastmod>2013-09-24T08:00:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-mixes-au-coulis-de-fraises/</loc>
     <lastmod>2013-09-22T08:00:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/aubergines-parmigiana/</loc>
-    <lastmod>2013-09-19T08:00:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/lasagnes-a-la-bolognaise/</loc>
     <lastmod>2013-09-15T08:00:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tartines-courgettes-chevre/</loc>
     <lastmod>2013-09-14T08:00:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/bechamel-facile-au-micro-ondes/</loc>
     <lastmod>2013-09-11T16:08:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/quiche-aux-oignons/</loc>
     <lastmod>2013-09-11T08:00:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/cuisson-des-oeufs-cocotte-au-micro-ondes/</loc>
     <lastmod>2013-09-10T19:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/tags/coca-cola/</loc>
-    <lastmod>2013-09-07T17:41:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/yaourt-au-cola-cola/</loc>
-    <lastmod>2013-09-07T17:41:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/compote/</loc>
     <lastmod>2013-09-05T13:18:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tarte-pommes/</loc>
     <lastmod>2013-09-05T13:18:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/quiche-courgettes-et-lardons/</loc>
     <lastmod>2013-09-03T19:28:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/blondie-chocolat-cafe/</loc>
     <lastmod>2013-09-02T08:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/fougasse-aux-olives/</loc>
     <lastmod>2013-09-01T17:09:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/provence/</loc>
     <lastmod>2013-09-01T17:09:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/pain-de-thon/</loc>
     <lastmod>2013-08-28T14:36:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/omelette/</loc>
     <lastmod>2013-08-27T14:28:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/riz-cantonnais-reunionnais/</loc>
     <lastmod>2013-08-27T14:28:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-aux-biscuits-the-brun/</loc>
     <lastmod>2013-08-24T10:15:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-maison-recette-de-base/</loc>
     <lastmod>2013-08-23T18:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/spaghetti/</loc>
     <lastmod>2013-08-16T17:18:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/spaghetti-au-curry-lekue/</loc>
     <lastmod>2013-08-16T17:18:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tian-courgette-tomate-lekue/</loc>
     <lastmod>2013-08-11T20:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/praline/</loc>
     <lastmod>2013-08-09T14:55:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-au-praline/</loc>
     <lastmod>2013-08-09T14:55:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/tags/infusion/</loc>
     <lastmod>2013-08-04T13:46:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/yaourts-au-the-chai/</loc>
     <lastmod>2013-08-04T13:46:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/draft/madeleines/</loc>
-  </url>
-  
-  <url>
-    <loc>https://instamiam.fr/draft/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://instamiam.fr/videos/</loc>
   </url>
-  
 </urlset>
