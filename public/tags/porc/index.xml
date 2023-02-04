@@ -6,19 +6,25 @@
     <description>Recent content in porc on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 15 Sep 2017 09:00:34 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/porc/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 04 Sep 2020 09:00:34 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/porc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roti de porc aux prunes et au miel</title>
       <link>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</link>
-      <pubDate>Fri, 15 Sep 2017 09:00:34 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2020 09:00:34 +0000</pubDate>
       
       <guid>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</guid>
       <description>Préchauffer le four thermostat 6 (180°c)
 Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la lèche-frites du four si pas de plat assez grand)</description>
+    </item>
+    
+    <item>
+      <title>Cari de porc de la Réunion</title>
+      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
+      <pubDate>Wed, 26 Aug 2020 10:21:17 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
+      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
     </item>
     
     <item>
@@ -28,15 +34,6 @@ Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la
       
       <guid>https://instamiam.fr/cari-porc-pommes-de-terre-la-reunion/</guid>
       <description>Préparation : Couper le porc en dés (des morceaux de 2 ou 3 cm environ que l’on pourra manger sans avoir besoin de couteau).</description>
-    </item>
-    
-    <item>
-      <title>Cari de porc de la Réunion</title>
-      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
-      <pubDate>Sun, 26 Jan 2014 10:21:17 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
-      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
     </item>
     
   </channel>

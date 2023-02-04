@@ -6,10 +6,16 @@
     <description>Recent content in curcuma on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 18 Mar 2018 14:24:51 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/curcuma/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 10:21:17 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/curcuma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cari de porc de la Réunion</title>
+      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
+      <pubDate>Wed, 26 Aug 2020 10:21:17 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
+      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
+    </item>
     
     <item>
       <title>Samoussas au thon (Ile de La Réunion)</title>
@@ -82,15 +88,6 @@
       <guid>https://instamiam.fr/cari-thon-rapide-reunion/</guid>
       <description>Éplucher l’ail et l’oignon. Émincer l’oignon. Émietter le thon.
 Éplucher la patate douce et la couper en gros cubes.</description>
-    </item>
-    
-    <item>
-      <title>Cari de porc de la Réunion</title>
-      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
-      <pubDate>Sun, 26 Jan 2014 10:21:17 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
-      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
     </item>
     
   </channel>

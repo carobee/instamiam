@@ -6,10 +6,45 @@
     <description>Recent content in été on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 12 Apr 2020 15:30:14 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 05 Sep 2020 08:00:53 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/ete/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confitures de mirabelles</title>
+      <link>https://instamiam.fr/confitures-de-mirabelles/</link>
+      <pubDate>Sat, 05 Sep 2020 08:00:53 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/confitures-de-mirabelles/</guid>
+      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/ete/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roti de porc aux prunes et au miel</title>
+      <link>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</link>
+      <pubDate>Fri, 04 Sep 2020 09:00:34 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</guid>
+      <description>Préchauffer le four thermostat 6 (180°c)
+Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la lèche-frites du four si pas de plat assez grand)</description>
+    </item>
     
+    <item>
+      <title>Tarte aux figues et poudre d&#39;amandes</title>
+      <link>https://instamiam.fr/tarte-aux-figues/</link>
+      <pubDate>Thu, 03 Sep 2020 15:53:56 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tarte-aux-figues/</guid>
+      <description>Au préalable : Préparer la pâte brisée (Voir la recette de la pâte brisée).</description>
+    </item>
+    
+    <item>
+      <title>Aubergines Parmigiana</title>
+      <link>https://instamiam.fr/aubergines-parmigiana/</link>
+      <pubDate>Tue, 01 Sep 2020 08:00:18 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
+      <description>Préchauffer le four à 180°c (thermostat 6)
+Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
+    </item>
     
     <item>
       <title>Chou-fleur rôti au four</title>
@@ -27,7 +62,7 @@ Peler les gousses d’ail et les écraser.</description>
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>
@@ -86,34 +121,6 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
     </item>
     
     <item>
-      <title>Roti de porc aux prunes et au miel</title>
-      <link>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</link>
-      <pubDate>Fri, 15 Sep 2017 09:00:34 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</guid>
-      <description>Préchauffer le four thermostat 6 (180°c)
-Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la lèche-frites du four si pas de plat assez grand)</description>
-    </item>
-    
-    <item>
-      <title>Confitures de mirabelles</title>
-      <link>https://instamiam.fr/confitures-de-mirabelles/</link>
-      <pubDate>Fri, 15 Sep 2017 08:00:53 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/confitures-de-mirabelles/</guid>
-      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
-    </item>
-    
-    <item>
-      <title>Tarte aux figues et poudre d&#39;amandes</title>
-      <link>https://instamiam.fr/tarte-aux-figues/</link>
-      <pubDate>Sat, 09 Sep 2017 15:53:56 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tarte-aux-figues/</guid>
-      <description>Au préalable : Préparer la pâte brisée (Voir la recette de la pâte brisée).</description>
-    </item>
-    
-    <item>
       <title>Taboulé aux herbes</title>
       <link>https://instamiam.fr/taboule-aux-herbes/</link>
       <pubDate>Sun, 11 Jun 2017 21:03:15 +0000</pubDate>
@@ -166,16 +173,6 @@ Préchauffer le four à 210°C (Thermostat 7)</description>
       
       <guid>https://instamiam.fr/yaourts-mixes-au-coulis-de-fraises/</guid>
       <description>Faire tiédir le lait au micro ondes pendant 4 minutes.</description>
-    </item>
-    
-    <item>
-      <title>Aubergines Parmigiana</title>
-      <link>https://instamiam.fr/aubergines-parmigiana/</link>
-      <pubDate>Thu, 19 Sep 2013 08:00:18 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
-      <description>Préchauffer le four à 180°c (thermostat 6)
-Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
     </item>
     
     <item>

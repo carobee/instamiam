@@ -6,10 +6,34 @@
     <description>Recent content in citron on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 09:01:03 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Jan 2023 13:18:24 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/citron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Madeleines</title>
+      <link>https://instamiam.fr/madeleines/</link>
+      <pubDate>Sun, 22 Jan 2023 13:18:24 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/madeleines/</guid>
+      <description>Au préalable : Tamiser ensemble la farine et la levure.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/citron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tarama facile sans lactose</title>
+      <link>https://instamiam.fr/tarama-facile-sans-lactose/</link>
+      <pubDate>Thu, 17 Dec 2020 07:38:30 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tarama-facile-sans-lactose/</guid>
+      <description>Dans un récipient, ajouter la crème de soja, les œufs de poisson, la chapelure, le jus de citron.</description>
+    </item>
     
+    <item>
+      <title>Confitures de mirabelles</title>
+      <link>https://instamiam.fr/confitures-de-mirabelles/</link>
+      <pubDate>Sat, 05 Sep 2020 08:00:53 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/confitures-de-mirabelles/</guid>
+      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
+    </item>
     
     <item>
       <title>Coulis de fraises</title>
@@ -21,30 +45,12 @@
     </item>
     
     <item>
-      <title>Tarama facile sans lactose</title>
-      <link>https://instamiam.fr/tarama-facile-sans-lactose/</link>
-      <pubDate>Sun, 24 Dec 2017 07:38:30 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tarama-facile-sans-lactose/</guid>
-      <description>Dans un récipient, ajouter la crème de soja, les œufs de poisson, la chapelure, le jus de citron.</description>
-    </item>
-    
-    <item>
       <title>Confiture de tomates vertes</title>
       <link>https://instamiam.fr/confiture-de-tomates-vertes/</link>
       <pubDate>Wed, 01 Nov 2017 14:58:28 +0000</pubDate>
       
       <guid>https://instamiam.fr/confiture-de-tomates-vertes/</guid>
       <description>Voilà une recette qui permet de ne pas jeter les tomates du jardin qui, faute de soleil, ne deviendront pas rouges !</description>
-    </item>
-    
-    <item>
-      <title>Confitures de mirabelles</title>
-      <link>https://instamiam.fr/confitures-de-mirabelles/</link>
-      <pubDate>Fri, 15 Sep 2017 08:00:53 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/confitures-de-mirabelles/</guid>
-      <description>Laver les mirabelles, les essuyer. Les couper en deux puis enlever les noyaux.</description>
     </item>
     
     <item>

@@ -6,10 +6,16 @@
     <description>Recent content in chèvre on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/chevre/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 17:07:36 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/chevre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tarte au chèvre et aux blettes de Tatounette</title>
+      <link>https://instamiam.fr/tarte-au-chevre-et-aux-blettes-de-tatounette/</link>
+      <pubDate>Thu, 01 Oct 2020 17:07:36 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tarte-au-chevre-et-aux-blettes-de-tatounette/</guid>
+      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+    </item>
     
     <item>
       <title>Lasagnes chèvre épinards</title>
@@ -17,16 +23,7 @@
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
-    </item>
-    
-    <item>
-      <title>Tarte au chèvre et aux blettes de Tatounette</title>
-      <link>https://instamiam.fr/tarte-au-chevre-et-aux-blettes-de-tatounette/</link>
-      <pubDate>Tue, 07 Apr 2020 17:07:36 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tarte-au-chevre-et-aux-blettes-de-tatounette/</guid>
-      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>
@@ -55,7 +52,7 @@
       
       <guid>https://instamiam.fr/tartines-courgettes-chevre/</guid>
       <description>Préchauffer le four thermostat 6 (180°c)
-Laver la courgette et couper des rondelles de 1 cm d&#39;épaisseur.</description>
+Laver la courgette et couper des rondelles de 1 cm d&amp;rsquo;épaisseur.</description>
     </item>
     
   </channel>

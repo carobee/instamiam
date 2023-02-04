@@ -6,10 +6,26 @@
     <description>Recent content in parmesan on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 08:00:18 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/parmesan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aubergines Parmigiana</title>
+      <link>https://instamiam.fr/aubergines-parmigiana/</link>
+      <pubDate>Tue, 01 Sep 2020 08:00:18 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
+      <description>Préchauffer le four à 180°c (thermostat 6)
+Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/parmesan/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Galettes de polenta</title>
+      <link>https://instamiam.fr/galettes-de-polenta/</link>
+      <pubDate>Wed, 26 Aug 2020 09:15:11 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/galettes-de-polenta/</guid>
+      <description>Cuisson de la polenta : Porter le lait à ébullition dans une casserole, avec du sel et du poivre.</description>
+    </item>
     
     <item>
       <title>Lasagnes chèvre épinards</title>
@@ -17,16 +33,7 @@
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
-    </item>
-    
-    <item>
-      <title>Galettes de polenta</title>
-      <link>https://instamiam.fr/galettes-de-polenta/</link>
-      <pubDate>Mon, 26 Feb 2018 09:15:11 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/galettes-de-polenta/</guid>
-      <description>Cuisson de la polenta : Porter le lait à ébullition dans une casserole, avec du sel et du poivre.</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>
@@ -65,16 +72,6 @@ Râper grossièrement le parmesan, hacher au couteau les noisettes et les tomate
       <guid>https://instamiam.fr/panna-cotta-salee-au-parmesan-et-tomates-sechees/</guid>
       <description>A préparer au moins 2 heures à l’avance.
 Mixer les tomates confites pour réaliser une purée.</description>
-    </item>
-    
-    <item>
-      <title>Aubergines Parmigiana</title>
-      <link>https://instamiam.fr/aubergines-parmigiana/</link>
-      <pubDate>Thu, 19 Sep 2013 08:00:18 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/aubergines-parmigiana/</guid>
-      <description>Préchauffer le four à 180°c (thermostat 6)
-Laver les aubergines, retirer le pédoncule et couper des tranches de 1.</description>
     </item>
     
   </channel>

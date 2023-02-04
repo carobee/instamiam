@@ -6,10 +6,16 @@
     <description>Recent content in fromage on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/fromage/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 17 Jan 2023 18:34:31 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/fromage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tartiflette</title>
+      <link>https://instamiam.fr/tartiflette/</link>
+      <pubDate>Tue, 17 Jan 2023 18:34:31 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tartiflette/</guid>
+      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
+    </item>
     
     <item>
       <title>Lasagnes chèvre épinards</title>
@@ -17,16 +23,7 @@
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
-    </item>
-    
-    <item>
-      <title>Tartiflette</title>
-      <link>https://instamiam.fr/tartiflette/</link>
-      <pubDate>Mon, 04 Dec 2017 18:34:31 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tartiflette/</guid>
-      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>

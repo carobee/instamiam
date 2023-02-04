@@ -6,10 +6,26 @@
     <description>Recent content in à manger avec les doigts on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 27 Mar 2018 10:49:52 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 11:01:19 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/a-manger-avec-les-doigts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sapin feuilleté</title>
+      <link>https://instamiam.fr/sapin-feuillete/</link>
+      <pubDate>Thu, 17 Dec 2020 11:01:19 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/sapin-feuillete/</guid>
+      <description>Préchauffer le four à 180°C (Thermostat 6) à chaleur tournante, ou 200°C en cuisson classique.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/a-manger-avec-les-doigts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Petits croissants au saumon</title>
+      <link>https://instamiam.fr/petits-croissants-au-saumon/</link>
+      <pubDate>Sun, 18 Oct 2020 09:00:40 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/petits-croissants-au-saumon/</guid>
+      <description>Préchauffer votre four à 180°C (th 6).
+Etaler sur la plaque du four la pâte feuilletée.</description>
+    </item>
     
     <item>
       <title>LE brownie au chocolat super bon</title>
@@ -19,15 +35,6 @@
       <guid>https://instamiam.fr/le-brownie-au-chocolat-super-bon/</guid>
       <description>Préchauffer le four à 180°C (Thermostat 6)
 Mettre dans une petite casserole ou un bol le beurre et le chocolat coupés en morceaux.</description>
-    </item>
-    
-    <item>
-      <title>Sapin feuilleté</title>
-      <link>https://instamiam.fr/sapin-feuillete/</link>
-      <pubDate>Thu, 21 Dec 2017 11:01:19 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/sapin-feuillete/</guid>
-      <description>Préchauffer le four à 180°C (Thermostat 6) à chaleur tournante, ou 200°C en cuisson classique.</description>
     </item>
     
     <item>
@@ -83,16 +90,6 @@ Mettre dans une petite casserole ou un bol le beurre et le chocolat coupés en m
       <guid>https://instamiam.fr/muffins-vegetaliens/</guid>
       <description>Préchauffer le four à 180°C (thermostat 6)
 Dans un grand récipient, verser tous les ingrédients, sauf le jus de citron, et mélanger un peu.</description>
-    </item>
-    
-    <item>
-      <title>Petits croissants au saumon</title>
-      <link>https://instamiam.fr/petits-croissants-au-saumon/</link>
-      <pubDate>Mon, 21 Dec 2015 09:00:40 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/petits-croissants-au-saumon/</guid>
-      <description>Préchauffer votre four à 180°C (th 6).
-Etaler sur la plaque du four la pâte feuilletée.</description>
     </item>
     
     <item>
@@ -170,7 +167,7 @@ Couper au couteau les deux chocolats et les noisettes en petits morceaux, et ré
       
       <guid>https://instamiam.fr/tartines-courgettes-chevre/</guid>
       <description>Préchauffer le four thermostat 6 (180°c)
-Laver la courgette et couper des rondelles de 1 cm d&#39;épaisseur.</description>
+Laver la courgette et couper des rondelles de 1 cm d&amp;rsquo;épaisseur.</description>
     </item>
     
   </channel>

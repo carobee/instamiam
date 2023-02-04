@@ -2,9 +2,9 @@
 title: Confiture de kiwis
 author: Caro
 type: recette
-date: 2021-01-15T08:18:08+00:00
-url: "/confiture-de-kiwis/"
-image1: "/images/2015/12/confiture-kiwis-1-650.jpg"
+date: 2023-01-22T08:18:08+00:00
+url: /confiture-de-kiwis/
+image1: /images/2015/12/confiture-kiwis-1-650.jpg
 image:
 - 1172
 image2: "/images/2015/12/confiture-kiwis-2-650.jpg"

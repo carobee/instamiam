@@ -6,10 +6,45 @@
     <description>Recent content in Apéro on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 06 Aug 2018 14:50:13 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 11:01:19 +0000</lastBuildDate><atom:link href="https://instamiam.fr/categories/apero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sapin feuilleté</title>
+      <link>https://instamiam.fr/sapin-feuillete/</link>
+      <pubDate>Thu, 17 Dec 2020 11:01:19 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/sapin-feuillete/</guid>
+      <description>Préchauffer le four à 180°C (Thermostat 6) à chaleur tournante, ou 200°C en cuisson classique.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/categories/apero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tarama facile sans lactose</title>
+      <link>https://instamiam.fr/tarama-facile-sans-lactose/</link>
+      <pubDate>Thu, 17 Dec 2020 07:38:30 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tarama-facile-sans-lactose/</guid>
+      <description>Dans un récipient, ajouter la crème de soja, les œufs de poisson, la chapelure, le jus de citron.</description>
+    </item>
     
+    <item>
+      <title>Des doigts de sorcière pour Halloween !</title>
+      <link>https://instamiam.fr/des-doigts-de-sorciere-pour-halloween/</link>
+      <pubDate>Mon, 19 Oct 2020 20:05:40 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/des-doigts-de-sorciere-pour-halloween/</guid>
+      <description>Préchauffer le four à 180°C (th 6).
+Facultatif : mettre un peu de colorant alimentaire rouge sur les amandes (pour que les ongles des sorcières soient vernis !</description>
+    </item>
+    
+    <item>
+      <title>Petits croissants au saumon</title>
+      <link>https://instamiam.fr/petits-croissants-au-saumon/</link>
+      <pubDate>Sun, 18 Oct 2020 09:00:40 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/petits-croissants-au-saumon/</guid>
+      <description>Préchauffer votre four à 180°C (th 6).
+Etaler sur la plaque du four la pâte feuilletée.</description>
+    </item>
     
     <item>
       <title>Caviar d&#39;Aubergines</title>
@@ -40,24 +75,6 @@ Rincer les aubergines et les couper en deux dans le sens de la longueur.</descri
     </item>
     
     <item>
-      <title>Tarama facile sans lactose</title>
-      <link>https://instamiam.fr/tarama-facile-sans-lactose/</link>
-      <pubDate>Sun, 24 Dec 2017 07:38:30 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tarama-facile-sans-lactose/</guid>
-      <description>Dans un récipient, ajouter la crème de soja, les œufs de poisson, la chapelure, le jus de citron.</description>
-    </item>
-    
-    <item>
-      <title>Sapin feuilleté</title>
-      <link>https://instamiam.fr/sapin-feuillete/</link>
-      <pubDate>Thu, 21 Dec 2017 11:01:19 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/sapin-feuillete/</guid>
-      <description>Préchauffer le four à 180°C (Thermostat 6) à chaleur tournante, ou 200°C en cuisson classique.</description>
-    </item>
-    
-    <item>
       <title>Rhum arrangé aux dattes</title>
       <link>https://instamiam.fr/rhum-arrange-aux-dattes/</link>
       <pubDate>Mon, 11 Dec 2017 19:24:46 +0000</pubDate>
@@ -77,32 +94,12 @@ Glisser les dattes dans une bouteille de 1 litre et remplir de rhum.</descriptio
     </item>
     
     <item>
-      <title>Des doigts de sorcière pour Halloween !</title>
-      <link>https://instamiam.fr/des-doigts-de-sorciere-pour-halloween/</link>
-      <pubDate>Mon, 24 Oct 2016 20:05:40 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/des-doigts-de-sorciere-pour-halloween/</guid>
-      <description>Préchauffer le four à 180°C (th 6).
- Facultatif : mettre un peu de colorant alimentaire rouge sur les amandes (pour que les ongles des sorcières soient vernis !</description>
-    </item>
-    
-    <item>
       <title>Nuggets de poulet maison</title>
       <link>https://instamiam.fr/nuggets-de-poulet-maison/</link>
       <pubDate>Sat, 16 Apr 2016 15:10:26 +0000</pubDate>
       
       <guid>https://instamiam.fr/nuggets-de-poulet-maison/</guid>
       <description>Préparation : Couper les blancs de poulet en morceaux de 2 ou 3 cm de côté (la bonne taille est pour pouvoir être mangés en une seule bouchée, sans les couper car ils seront certainement mangés avec les doigts !</description>
-    </item>
-    
-    <item>
-      <title>Petits croissants au saumon</title>
-      <link>https://instamiam.fr/petits-croissants-au-saumon/</link>
-      <pubDate>Mon, 21 Dec 2015 09:00:40 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/petits-croissants-au-saumon/</guid>
-      <description>Préchauffer votre four à 180°C (th 6).
-Etaler sur la plaque du four la pâte feuilletée.</description>
     </item>
     
     <item>
@@ -196,7 +193,7 @@ Mixer les tomates confites pour réaliser une purée.</description>
       
       <guid>https://instamiam.fr/tartines-courgettes-chevre/</guid>
       <description>Préchauffer le four thermostat 6 (180°c)
-Laver la courgette et couper des rondelles de 1 cm d&#39;épaisseur.</description>
+Laver la courgette et couper des rondelles de 1 cm d&amp;rsquo;épaisseur.</description>
     </item>
     
     <item>
