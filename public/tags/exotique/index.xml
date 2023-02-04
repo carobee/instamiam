@@ -6,10 +6,16 @@
     <description>Recent content in exotique on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 22 Mar 2019 17:35:35 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/exotique/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 10:21:17 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/exotique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cari de porc de la Réunion</title>
+      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
+      <pubDate>Wed, 26 Aug 2020 10:21:17 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
+      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
+    </item>
     
     <item>
       <title>Sauté de mines (La Réunion)</title>
@@ -119,15 +125,6 @@
       <guid>https://instamiam.fr/colombo-de-dinde-au-lait-de-coco/</guid>
       <description>Éplucher et émincer les oignons et l’ail. Réserver.
 Couper les tomates en dés.</description>
-    </item>
-    
-    <item>
-      <title>Cari de porc de la Réunion</title>
-      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
-      <pubDate>Sun, 26 Jan 2014 10:21:17 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
-      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
     </item>
     
     <item>

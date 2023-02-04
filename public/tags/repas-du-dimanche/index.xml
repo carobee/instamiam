@@ -6,10 +6,16 @@
     <description>Recent content in repas du dimanche on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 10 Apr 2020 10:51:56 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/repas-du-dimanche/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 10:21:17 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/repas-du-dimanche/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cari de porc de la Réunion</title>
+      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
+      <pubDate>Wed, 26 Aug 2020 10:21:17 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
+      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
+    </item>
     
     <item>
       <title>Navarin d&#39;agneau</title>
@@ -83,15 +89,6 @@ Préparer un bol de fond de veau.</description>
       
       <guid>https://instamiam.fr/rougail-saucisses-reunionnais/</guid>
       <description>Éplucher les oignons et les émincer. Couper les tomates en fins quartiers ou en dés.</description>
-    </item>
-    
-    <item>
-      <title>Cari de porc de la Réunion</title>
-      <link>https://instamiam.fr/cari-de-porc-de-la-reunion/</link>
-      <pubDate>Sun, 26 Jan 2014 10:21:17 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/cari-de-porc-de-la-reunion/</guid>
-      <description>Couper le porc en petits dés. Hacher les tomates. Piler l’ail, avec le sel et le poivre.</description>
     </item>
     
     <item>

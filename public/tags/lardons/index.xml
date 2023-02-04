@@ -6,10 +6,25 @@
     <description>Recent content in lardons on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 09 Mar 2018 09:29:30 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 17 Jan 2023 18:34:31 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/lardons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tartiflette</title>
+      <link>https://instamiam.fr/tartiflette/</link>
+      <pubDate>Tue, 17 Jan 2023 18:34:31 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tartiflette/</guid>
+      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/lardons/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Tarte potiron lardons oignons</title>
+      <link>https://instamiam.fr/tarte-potiron-lardons-oignons/</link>
+      <pubDate>Fri, 02 Oct 2020 17:00:48 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tarte-potiron-lardons-oignons/</guid>
+      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
+    </item>
     
     <item>
       <title>Bœuf braisé à la Guinness</title>
@@ -37,24 +52,6 @@
       
       <guid>https://instamiam.fr/boeuf-bourguignon/</guid>
       <description>Si possible, la veille ou quelques heures avant, mettre le bœuf dans un grand récipient et le recouvrir de vin rouge (conserver ensuite le vin rouge pour la cuisson)</description>
-    </item>
-    
-    <item>
-      <title>Tartiflette</title>
-      <link>https://instamiam.fr/tartiflette/</link>
-      <pubDate>Mon, 04 Dec 2017 18:34:31 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tartiflette/</guid>
-      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
-    </item>
-    
-    <item>
-      <title>Tarte potiron lardons oignons</title>
-      <link>https://instamiam.fr/tarte-potiron-lardons-oignons/</link>
-      <pubDate>Fri, 28 Oct 2016 17:00:48 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tarte-potiron-lardons-oignons/</guid>
-      <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
     </item>
     
     <item>

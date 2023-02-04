@@ -6,10 +6,26 @@
     <description>Recent content in plat complet on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 10 Apr 2020 10:51:56 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 17 Jan 2023 18:34:31 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/plat-complet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tartiflette</title>
+      <link>https://instamiam.fr/tartiflette/</link>
+      <pubDate>Tue, 17 Jan 2023 18:34:31 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tartiflette/</guid>
+      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/plat-complet/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Roti de porc aux prunes et au miel</title>
+      <link>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</link>
+      <pubDate>Fri, 04 Sep 2020 09:00:34 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</guid>
+      <description>Préchauffer le four thermostat 6 (180°c)
+Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la lèche-frites du four si pas de plat assez grand)</description>
+    </item>
     
     <item>
       <title>Navarin d&#39;agneau</title>
@@ -30,31 +46,12 @@
     </item>
     
     <item>
-      <title>Tartiflette</title>
-      <link>https://instamiam.fr/tartiflette/</link>
-      <pubDate>Mon, 04 Dec 2017 18:34:31 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tartiflette/</guid>
-      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
-    </item>
-    
-    <item>
       <title>Risotto au potiron</title>
       <link>https://instamiam.fr/risotto-au-potiron/</link>
       <pubDate>Thu, 23 Nov 2017 09:30:31 +0000</pubDate>
       
       <guid>https://instamiam.fr/risotto-au-potiron/</guid>
       <description>Mettre le riz et l’eau (sans sel) à bouillir quelques minutes dans une casserole.</description>
-    </item>
-    
-    <item>
-      <title>Roti de porc aux prunes et au miel</title>
-      <link>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</link>
-      <pubDate>Fri, 15 Sep 2017 09:00:34 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/roti-de-porc-aux-prunes-et-au-miel/</guid>
-      <description>Préchauffer le four thermostat 6 (180°c)
-Piquer le rôti avec l’ail et le placer dans un grand plat à four (ou dans la lèche-frites du four si pas de plat assez grand)</description>
     </item>
     
     <item>

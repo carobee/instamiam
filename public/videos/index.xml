@@ -6,9 +6,6 @@
     <description>Recent content in Videos on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    
-	<atom:link href="https://instamiam.fr/videos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright><atom:link href="https://instamiam.fr/videos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

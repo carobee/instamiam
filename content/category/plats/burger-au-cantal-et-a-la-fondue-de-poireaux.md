@@ -2,7 +2,7 @@
 title: Burger au Cantal et à la fondue de poireaux
 author: Caro
 type: recette
-date: 2017-03-16T21:21:53+00:00
+date: 2023-02-03T21:21:53+00:00
 url: /burger-au-cantal-et-a-la-fondue-de-poireaux/
 image1: /images/2017/03/burger-poireaux-cantal-1-650.jpg
 image:

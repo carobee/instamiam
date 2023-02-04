@@ -2,7 +2,7 @@
 title: Madeleines
 author: Caro
 type: recette
-date: 2023-01-22T13:18:24+00:00
+date: 2025-01-22T13:18:24+00:00
 url: /madeleines/
 image1: /images/2020/01/madeleines-1-650.jpg
 image2: /images/2020/01/madeleines-1-650.jpg

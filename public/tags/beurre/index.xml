@@ -6,10 +6,25 @@
     <description>Recent content in beurre on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 11 Apr 2020 18:30:33 +0000</lastBuildDate>
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Jan 2023 13:18:24 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/beurre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Madeleines</title>
+      <link>https://instamiam.fr/madeleines/</link>
+      <pubDate>Sun, 22 Jan 2023 13:18:24 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/madeleines/</guid>
+      <description>Au préalable : Tamiser ensemble la farine et la levure.</description>
+    </item>
     
-	<atom:link href="https://instamiam.fr/tags/beurre/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Galette à la frangipane</title>
+      <link>https://instamiam.fr/galette-a-la-frangipane/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:04 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/galette-a-la-frangipane/</guid>
+      <description>Au préalable : Préparer la pâte feuilletée et séparer en 2 parties égales.</description>
+    </item>
     
     <item>
       <title>Lasagnes chèvre épinards</title>
@@ -17,7 +32,7 @@
       <pubDate>Sat, 11 Apr 2020 18:30:33 +0000</pubDate>
       
       <guid>https://instamiam.fr/lasagnes-chevre-epinards/</guid>
-      <description>Préparation de la sauce chèvre-épinards :  Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
+      <description>Préparation de la sauce chèvre-épinards : Vous pouvez remplacer les épinards par des blettes (la partie verte)</description>
     </item>
     
     <item>
@@ -38,15 +53,6 @@ Mettre dans une petite casserole ou un bol le beurre et le chocolat coupés en m
       <guid>https://instamiam.fr/boeuf-braise-a-la-guinness/</guid>
       <description>Éplucher les carottes et les couper en rondelles.
 Éplucher les oignons et les couper en tranches.</description>
-    </item>
-    
-    <item>
-      <title>Galette à la frangipane</title>
-      <link>https://instamiam.fr/galette-a-la-frangipane/</link>
-      <pubDate>Wed, 03 Jan 2018 17:21:04 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/galette-a-la-frangipane/</guid>
-      <description>Au préalable : Préparer la pâte feuilletée et séparer en 2 parties égales.</description>
     </item>
     
     <item>
@@ -238,42 +244,6 @@ Beurrer le plat, et faire fondre le beurre restant.</description>
       
       <guid>https://instamiam.fr/tarte-aux-poireaux/</guid>
       <description>Au préalable : Préparer la pâte brisée et la laisser reposer une heure au frais (Voir la recette de la pâte brisée très facile).</description>
-    </item>
-    
-    <item>
-      <title>Mug Cake « Cookie » aux pépites de chocolat</title>
-      <link>https://instamiam.fr/mug-cake-cookie-aux-pepites-de-chocolat/</link>
-      <pubDate>Sat, 19 Oct 2013 08:00:09 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/mug-cake-cookie-aux-pepites-de-chocolat/</guid>
-      <description>Mettre le beurre dans un mug, et faire fondre au micro-ondes 20 secondes à 850W.</description>
-    </item>
-    
-    <item>
-      <title>Mug Cake au chocolat</title>
-      <link>https://instamiam.fr/mug-cake-au-chocolat/</link>
-      <pubDate>Sun, 06 Oct 2013 13:54:00 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/mug-cake-au-chocolat/</guid>
-      <description>Couper le beurre et le chocolat en morceaux. Les mettre dans un mug et faire fondre 25 secondes au micro-ondes.</description>
-    </item>
-    
-    <item>
-      <title>Muffins aux fruits confits et raisins secs</title>
-      <link>https://instamiam.fr/muffins-aux-fruits-confits-et-raisins-secs/</link>
-      <pubDate>Wed, 25 Sep 2013 08:00:59 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/muffins-aux-fruits-confits-et-raisins-secs/</guid>
-      <description>Faire tremper les raisins secs dans de l’eau chaude un quart d’heure au moins.</description>
-    </item>
-    
-    <item>
-      <title>Béchamel facile au micro-ondes</title>
-      <link>https://instamiam.fr/bechamel-facile-au-micro-ondes/</link>
-      <pubDate>Wed, 11 Sep 2013 16:08:57 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/bechamel-facile-au-micro-ondes/</guid>
-      <description>Dans un grand récipient, faire fondre le beurre 1 minute au micro-ondes à puissance moyenne (couvrir le récipient pour éviter les projections).</description>
     </item>
     
   </channel>

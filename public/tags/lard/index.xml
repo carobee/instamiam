@@ -6,10 +6,16 @@
     <description>Recent content in lard on Instamiam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 09 Mar 2018 09:29:30 +0000</lastBuildDate>
-    
-	<atom:link href="https://instamiam.fr/tags/lard/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>Copyright © 2020. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 17 Jan 2023 18:34:31 +0000</lastBuildDate><atom:link href="https://instamiam.fr/tags/lard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tartiflette</title>
+      <link>https://instamiam.fr/tartiflette/</link>
+      <pubDate>Tue, 17 Jan 2023 18:34:31 +0000</pubDate>
+      
+      <guid>https://instamiam.fr/tartiflette/</guid>
+      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
+    </item>
     
     <item>
       <title>Bœuf braisé à la Guinness</title>
@@ -19,15 +25,6 @@
       <guid>https://instamiam.fr/boeuf-braise-a-la-guinness/</guid>
       <description>Éplucher les carottes et les couper en rondelles.
 Éplucher les oignons et les couper en tranches.</description>
-    </item>
-    
-    <item>
-      <title>Tartiflette</title>
-      <link>https://instamiam.fr/tartiflette/</link>
-      <pubDate>Mon, 04 Dec 2017 18:34:31 +0000</pubDate>
-      
-      <guid>https://instamiam.fr/tartiflette/</guid>
-      <description>Éplucher les pommes de terre et les couper en petits dés.</description>
     </item>
     
     <item>
